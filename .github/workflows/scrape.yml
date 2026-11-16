@@ -1,0 +1,127 @@
+name: Scrape sci-bot.ru questions
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+# Never run two scrapes at once: a scheduled run and a push could race on questions.json.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install shot-scraper and Chromium
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+
+      - name: Scrape rendered "réponses récentes" feed
+        run: |
+          # The feed hydrates over WebSocket, so extract.js polls until items appear
+          # (up to 45s). On maintenance or timeout it returns [] and the merge is a no-op.
+          cat > extract.js <<'JS'
+          new Promise((resolve) => {
+            const deadline = Date.now() + 45000;
+            const grab = () => Array.from(document.querySelectorAll('a.recent-answered-q[href]')).map((a) => {
+              const text = a.querySelector('.recent-answered-q-text');
+              const when = a.querySelector('.recent-answered-when');
+              const topics = a.querySelector('.recent-answered-topics');
+              return {
+                href: a.getAttribute('href'),
+                question: (text ? text.innerText : a.innerText).trim(),
+                answered_at_utc: when ? when.dataset.when : null,
+                topics: topics ? topics.innerText.replace(/^\s*·\s*/, '').split(',').map((s) => s.trim()).filter(Boolean) : [],
+              };
+            });
+            const tick = () => {
+              const items = grab();
+              if (items.length || Date.now() > deadline) resolve(items);
+              else setTimeout(tick, 1000);
+            };
+            tick();
+          })
+          JS
+          shot-scraper javascript https://sci-bot.ru -i extract.js > latest.json || {
+            echo "::warning::Scrape failed (site down or in maintenance); archive left unchanged."
+            echo '[]' > latest.json
+          }
+          rm extract.js
+
+      - name: Merge into append-only questions.json
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import os
+          import sys
+          from datetime import datetime, timezone
+
+          BASE = "https://sci-bot.ru"
+          PATH = "questions.json"
+
+          archive = {}
+          if os.path.exists(PATH) and os.path.getsize(PATH) > 0:
+              with open(PATH, encoding="utf-8") as f:
+                  archive = json.load(f)  # a corrupt file fails the run; it is never overwritten
+
+          with open("latest.json", encoding="utf-8") as f:
+              latest = json.load(f)
+
+          # Empty scrape (maintenance, timeout, hydration failure): keep the archive as it is.
+          if not latest:
+              print("Scrape returned no items; leaving questions.json unchanged.")
+              sys.exit(0)
+
+          now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+          added = 0
+          for item in latest:
+              question = (item.get("question") or "").strip()
+              href = (item.get("href") or "").strip()
+              if not question:
+                  continue
+              key = href or hashlib.sha256(question.encode("utf-8")).hexdigest()[:16]
+              if key in archive:  # append-only: never rewrite an entry already captured
+                  continue
+              archive[key] = {
+                  "url": BASE + href if href.startswith("/") else href,
+                  "question": question,
+                  "answered_at_utc": item.get("answered_at_utc"),
+                  "topics": item.get("topics") or [],
+                  "first_seen_utc": now,
+              }
+              added += 1
+
+          with open(PATH, "w", encoding="utf-8") as f:
+              json.dump(archive, f, indent=2, ensure_ascii=False, sort_keys=True)
+              f.write("\n")
+          print(f"Added {added} new question(s); archive now holds {len(archive)}.")
+          PY
+          rm -f latest.json
+
+      - name: Commit and push only if questions.json changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add questions.json
+          if git diff --staged --quiet; then
+            echo "No new questions; nothing to commit."
+          else
+            git commit -m "chore: update scraped questions"
+            git push
+          fi
