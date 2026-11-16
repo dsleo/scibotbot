@@ -76,13 +76,15 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main
             git reset -q --hard origin/main
-            python3 scripts/merge.py
+            out=$(python3 scripts/merge.py)
+            echo "$out"
+            added=$(echo "$out" | sed -n 's/^Added \([0-9]*\) .*/\1/p')
             git add data
             if git diff --staged --quiet; then
               echo "No new questions; nothing to commit."
               exit 0
             fi
-            git commit -q -m "chore: update scraped questions"
+            git commit -q -m "chore: add ${added} new question(s) to archive"
             if git push origin HEAD:main; then
               exit 0
             fi
