@@ -1,4 +1,13 @@
 {
+  "/academic-and-practitioners-main-discussion-01dadeb9": {
+    "answered_at_utc": "2026-11-16T20:36:14.682Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "Academic and practitioners' main discussion about everyday abolition.",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/academic-and-practitioners-main-discussion-01dadeb9"
+  },
   "/academic-media-analysis-of-syrian-812a5755": {
     "answered_at_utc": "2026-11-16T11:53:18.072Z",
     "first_seen_utc": "2026-11-16T12:54:13Z",
@@ -7,6 +16,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/academic-media-analysis-of-syrian-812a5755"
+  },
+  "/act-as-a-math-and-8eb45791": {
+    "answered_at_utc": "2026-11-16T18:52:10.577Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "\"Act as a math and computer science tutor. I need to understand the math behind a Fraction class assignment. Please explain: Why the Euclidean algorithm (repeated modulo operations) is the most efficient way to find the GCD. Why we use the formula a / pgcd(a,b) * b to f",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-math-and-8eb45791"
   },
   "/aircraft-hot-air-thermal-deicing-e1e7c418": {
     "answered_at_utc": "2026-11-16T10:40:13.444Z",
@@ -25,6 +44,16 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/baines-t-s-lightfoot-h-40ea08b3"
+  },
+  "/bo3-group-boron-hyperfine-splitting-3dfb58f9": {
+    "answered_at_utc": "2026-11-16T19:18:29.822Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "BO3 group boron hyperfine splitting epr",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/bo3-group-boron-hyperfine-splitting-3dfb58f9"
   },
   "/can-autism-be-cured-de352c35": {
     "answered_at_utc": "2026-11-16T16:22:32.187Z",
@@ -150,6 +179,16 @@
     ],
     "url": "https://sci-bot.ru/find-10-papers-on-evaluation-b67f1021"
   },
+  "/find-10-verified-peer-reviewed-aae5cc5e": {
+    "answered_at_utc": "2026-11-16T20:02:31.499Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "Find 10 verified peer-reviewed articles (2018–2025) that predict future rain occurrence (rain/no rain or probability of rain). Accept any model, country, or forecast horizon. Prioritize hourly studies using humidity, temperature, pressure, wind, or past rainfall, as in our Chacha",
+    "topics": [
+      "Earth science",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-10-verified-peer-reviewed-aae5cc5e"
+  },
   "/find-12-papers-on-research-b17908aa": {
     "answered_at_utc": "2026-11-16T15:09:58.212Z",
     "first_seen_utc": "2026-11-16T17:21:47Z",
@@ -186,6 +225,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/find-me-examples-of-measuring-e8a1d5ec"
+  },
+  "/find-reliable-peer-reviewed-scientific-bb0d079f": {
+    "answered_at_utc": "2026-11-16T19:22:01.261Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "Find reliable peer-reviewed scientific sources reporting the acoustic, physical, and mechanical properties of the following materials for underwater acoustic applications: 1. Polyurethane (PU/TPU) 2. PDMS 3. Natural and synthetic rubbers 4. NBR / XNBR / SBR 5. Polymer composites",
+    "topics": [
+      "Chemistry",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-reliable-peer-reviewed-scientific-bb0d079f"
   },
   "/find-reliable-peer-reviewed-scientific-ec015c9b": {
     "answered_at_utc": "2026-11-16T18:06:59.995Z",
@@ -233,6 +282,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/generate-a-concise-markdown-table-c09e4e55"
+  },
+  "/give-me-the-information-you-7ec9439a": {
+    "answered_at_utc": "2026-11-16T20:08:49.673Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "give me the information you have about the life cycle of ostertagia ostertagi",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/give-me-the-information-you-7ec9439a"
   },
   "/how-can-the-statistically-insignificant-3277ab72": {
     "answered_at_utc": "2026-11-16T14:27:09.219Z",
@@ -400,6 +458,15 @@
     ],
     "url": "https://sci-bot.ru/lee-y-chu-2003-turbulent-12285f2f"
   },
+  "/limitations-of-hypnosis-research-relation-6bed3b4e": {
+    "answered_at_utc": "2026-11-16T20:39:03.328Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "limitations of hypnosis research relation with emotional intelligence",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/limitations-of-hypnosis-research-relation-6bed3b4e"
+  },
   "/locally-checkable-but-globally-unsound-8207b43e": {
     "answered_at_utc": "2026-11-16T10:59:03.652Z",
     "first_seen_utc": "2026-11-16T12:54:13Z",
@@ -430,6 +497,15 @@
     ],
     "url": "https://sci-bot.ru/membraneless-microbial-electrosynthesis-342eba80"
   },
+  "/menopause-suplements-954210f3": {
+    "answered_at_utc": "2026-11-16T19:49:39.559Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "menopause suplements",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/menopause-suplements-954210f3"
+  },
   "/objective-nasal-airflow-measures-in-7da10711": {
     "answered_at_utc": "2026-11-16T11:30:31.097Z",
     "first_seen_utc": "2026-11-16T12:54:13Z",
@@ -438,6 +514,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/objective-nasal-airflow-measures-in-7da10711"
+  },
+  "/periods-and-structure-of-clifford-9b1eff54": {
+    "answered_at_utc": "2026-11-16T19:15:32.728Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "Periods and structure of Clifford and qubit quantum cellular automata on finite rings and tori, and their relation to classical linear cellular automata Already have: Pizzamiglio et al. 2025, Classification of qubit cellular automata on hypercubic lattices; Arrighi et al. 2017, Q",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/periods-and-structure-of-clifford-9b1eff54"
   },
   "/proteinase-producing-halophilic-lactic-acid-4e057cae": {
     "answered_at_utc": "2026-11-16T09:06:55.841Z",
@@ -495,6 +580,15 @@
     ],
     "url": "https://sci-bot.ru/segmenting-sport-spectators-construction-and-cf6a10d3"
   },
+  "/summarize-systematics-classification-keys-and-badae6ee": {
+    "answered_at_utc": "2026-11-16T19:45:10.730Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "summarize systematics, classification, keys, and fossils of Culicidae within Diptera since approx. 2005",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/summarize-systematics-classification-keys-and-badae6ee"
+  },
   "/support-for-silicone-use-in-c6096720": {
     "answered_at_utc": "2026-11-16T08:52:47.615Z",
     "first_seen_utc": "2026-11-16T12:54:13Z",
@@ -504,6 +598,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/support-for-silicone-use-in-c6096720"
+  },
+  "/tell-me-about-black-metals-cdd195e6": {
+    "answered_at_utc": "2026-11-16T19:04:44.577Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "tell me about black metals, particularly obtained by sputtering, and their characteristics",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/tell-me-about-black-metals-cdd195e6"
   },
   "/the-effectiveness-of-huddles-in-b6a04531": {
     "answered_at_utc": "2026-11-16T11:20:56.501Z",
@@ -561,6 +665,16 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/what-is-known-about-the-e0cf6747"
+  },
+  "/what-is-meant-by-sequestered-2272a005": {
+    "answered_at_utc": "2026-11-16T20:45:05.913Z",
+    "first_seen_utc": "2026-11-16T21:06:43Z",
+    "question": "what is meant by sequestered iron and chelated iron with regards to nms medium preparation?",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-is-meant-by-sequestered-2272a005"
   },
   "/what-is-the-effect-of-b6b21576": {
     "answered_at_utc": "2026-11-16T12:55:47.129Z",
