@@ -4,12 +4,13 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    # Off the top of the hour: GitHub drops or delays runs scheduled at :00 under load.
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
 
-# Never run two scrapes at once: a scheduled run and a push could race on questions.json.
+# Never run two scrapes at once: a scheduled run and a push could race on data/.
 concurrency:
   group: scrape
   cancel-in-progress: false
@@ -63,10 +64,10 @@ jobs:
           }
           rm extract.js
 
-      - name: Merge into append-only questions.json
+      - name: Merge into append-only daily data files
         run: python3 scripts/merge.py
 
-      - name: Commit and push only if questions.json changed
+      - name: Commit and push only if data/ changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -76,7 +77,7 @@ jobs:
             git fetch origin main
             git reset -q --hard origin/main
             python3 scripts/merge.py
-            git add questions.json
+            git add data
             if git diff --staged --quiet; then
               echo "No new questions; nothing to commit."
               exit 0
