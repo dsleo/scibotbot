@@ -76,4 +76,4 @@ Simon Willison's [`git-history`](https://github.com/simonw/git-history) expects 
 
 ## Development
 
-The extraction script and merge logic both live inline in [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml). When sci-bot.ru changes its markup, update the `a.recent-answered-q` selectors there.
+The extraction script lives inline in [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml); when sci-bot.ru changes its markup, update the `a.recent-answered-q` selectors there. The merge logic is [`scripts/merge.py`](scripts/merge.py), which you can run locally after saving a scrape as `latest.json`.

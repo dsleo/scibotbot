@@ -64,64 +64,28 @@ jobs:
           rm extract.js
 
       - name: Merge into append-only questions.json
-        run: |
-          python3 - <<'PY'
-          import hashlib
-          import json
-          import os
-          import sys
-          from datetime import datetime, timezone
-
-          BASE = "https://sci-bot.ru"
-          PATH = "questions.json"
-
-          archive = {}
-          if os.path.exists(PATH) and os.path.getsize(PATH) > 0:
-              with open(PATH, encoding="utf-8") as f:
-                  archive = json.load(f)  # a corrupt file fails the run; it is never overwritten
-
-          with open("latest.json", encoding="utf-8") as f:
-              latest = json.load(f)
-
-          # Empty scrape (maintenance, timeout, hydration failure): keep the archive as it is.
-          if not latest:
-              print("Scrape returned no items; leaving questions.json unchanged.")
-              sys.exit(0)
-
-          now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-          added = 0
-          for item in latest:
-              question = (item.get("question") or "").strip()
-              href = (item.get("href") or "").strip()
-              if not question:
-                  continue
-              key = href or hashlib.sha256(question.encode("utf-8")).hexdigest()[:16]
-              if key in archive:  # append-only: never rewrite an entry already captured
-                  continue
-              archive[key] = {
-                  "url": BASE + href if href.startswith("/") else href,
-                  "question": question,
-                  "answered_at_utc": item.get("answered_at_utc"),
-                  "topics": item.get("topics") or [],
-                  "first_seen_utc": now,
-              }
-              added += 1
-
-          with open(PATH, "w", encoding="utf-8") as f:
-              json.dump(archive, f, indent=2, ensure_ascii=False, sort_keys=True)
-              f.write("\n")
-          print(f"Added {added} new question(s); archive now holds {len(archive)}.")
-          PY
-          rm -f latest.json
+        run: python3 scripts/merge.py
 
       - name: Commit and push only if questions.json changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add questions.json
-          if git diff --staged --quiet; then
-            echo "No new questions; nothing to commit."
-          else
-            git commit -m "chore: update scraped questions"
-            git push
-          fi
+          # Another run may have pushed first. On rejection, reset to origin/main,
+          # re-merge the same scrape into the newer archive, and try again.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset -q --hard origin/main
+            python3 scripts/merge.py
+            git add questions.json
+            if git diff --staged --quiet; then
+              echo "No new questions; nothing to commit."
+              exit 0
+            fi
+            git commit -q -m "chore: update scraped questions"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt); retrying on fresh main."
+          done
+          echo "::error::Gave up after 3 push attempts."
+          exit 1
