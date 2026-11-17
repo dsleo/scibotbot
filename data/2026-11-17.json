@@ -496,6 +496,15 @@
     ],
     "url": "https://sci-bot.ru/how-does-a-macro-or-8acb3717"
   },
+  "/how-safe-is-taurine-does-0c65e95e": {
+    "answered_at_utc": "2026-11-17T21:23:37.604Z",
+    "first_seen_utc": "2026-11-17T21:33:27Z",
+    "question": "how safe is taurine? Does it help with brainfog or SIBO?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-safe-is-taurine-does-0c65e95e"
+  },
   "/i-am-developing-an-ma-52f05af6": {
     "answered_at_utc": "2026-11-17T20:50:04.771Z",
     "first_seen_utc": "2026-11-17T20:52:57Z",
@@ -1022,5 +1031,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/write-a-short-text-to-06cdd256"
+  },
+  "/write-an-academic-text-in-05b3f1ed": {
+    "answered_at_utc": "2026-11-17T21:32:11.060Z",
+    "first_seen_utc": "2026-11-17T21:33:27Z",
+    "question": "Write an academic text in English about CLIL (AICLE) in Castilla-La Mancha, Spain. Use a formal but natural university-level writing style (B2-C1), with clear language and coherent paragraphs. Include a definition of CLIL, a brief history of bilingual education in the region, and",
+    "topics": [
+      "Education",
+      "Language"
+    ],
+    "url": "https://sci-bot.ru/write-an-academic-text-in-05b3f1ed"
   }
 }
