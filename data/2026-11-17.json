@@ -664,6 +664,16 @@
     ],
     "url": "https://sci-bot.ru/lissajous-figureschebyshev-plynomials-and-general-8f7122c6"
   },
+  "/list-papers-related-to-the-c3945705": {
+    "answered_at_utc": "2026-11-17T22:59:43.563Z",
+    "first_seen_utc": "2026-11-17T23:04:00Z",
+    "question": "list papers related to the following key search : ((TS=(lidar OR scan* OR \"laser scan\" OR \"laser acquisition\" OR \"point cloud\" OR \"lidar cloud\" OR \"lidar point cloud\" OR mls OR tls OR als) AND TS=(simulation OR simulated OR synthetic OR virtual OR \"computer generated\") AND TS=(fo",
+    "topics": [
+      "Computer science",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/list-papers-related-to-the-c3945705"
+  },
   "/main-discussions-on-everyday-approaches-76767829": {
     "answered_at_utc": "2026-11-17T03:57:07.246Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -1046,6 +1056,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/what-are-the-differences-in-ecd2ed1b"
+  },
+  "/what-does-evidence-say-about-d91ffbda": {
+    "answered_at_utc": "2026-11-17T23:03:09.789Z",
+    "first_seen_utc": "2026-11-17T23:04:00Z",
+    "question": "what does evidence say about self stroking belly during pregnancy? Does it stimulate uterine contractions? Most grannys say that one should avoid to touch it",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-does-evidence-say-about-d91ffbda"
   },
   "/what-does-scientific-literature-say-4762abf8": {
     "answered_at_utc": "2026-11-17T16:56:23.581Z",
