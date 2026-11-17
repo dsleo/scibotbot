@@ -313,6 +313,16 @@
     ],
     "url": "https://sci-bot.ru/find-10-papers-or-reports-51ce1cf2"
   },
+  "/find-10-papers-or-standards-df0dff39": {
+    "answered_at_utc": "2026-11-17T18:44:24.728Z",
+    "first_seen_utc": "2026-11-17T19:01:30Z",
+    "question": "Find 10 papers or standards documents on tactile mathematical graphics — BANA and RNIB guidelines, research on how readable tactile math diagrams are, complexity limits. For each: citation, what it specifies or found. Then analyse current best practice and its limits.",
+    "topics": [
+      "Mathematics",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/find-10-papers-or-standards-df0dff39"
+  },
   "/find-12-papers-on-how-93b440bf": {
     "answered_at_utc": "2026-11-17T12:06:37.511Z",
     "first_seen_utc": "2026-11-17T13:41:03Z",
@@ -523,6 +533,16 @@
     ],
     "url": "https://sci-bot.ru/main-discussions-on-everyday-approaches-76767829"
   },
+  "/make-a-summary-of-the-aedca21c": {
+    "answered_at_utc": "2026-11-17T18:50:05.620Z",
+    "first_seen_utc": "2026-11-17T19:01:30Z",
+    "question": "make a summary of the most recent studies of the ratios and data analysis fully validated for passive sampling when determining organic legacy pollutants in waters. Don't focus on the free concentration because that is already taken into account in my study. Also, search for conc",
+    "topics": [
+      "Earth science",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/make-a-summary-of-the-aedca21c"
+  },
   "/martin-luther-1449df5f": {
     "answered_at_utc": "2026-11-17T06:54:11.979Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -669,6 +689,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/research-manuscript-development-energy-balance-aa1239e5"
+  },
+  "/review-scientific-literature-about-citizen-af752fa9": {
+    "answered_at_utc": "2026-11-17T18:39:56.557Z",
+    "first_seen_utc": "2026-11-17T19:01:30Z",
+    "question": "review scientific literature about citizen science and strengths and weaknesses in record species",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/review-scientific-literature-about-citizen-af752fa9"
   },
   "/safety-culture-index-in-oil-46bdd789": {
     "answered_at_utc": "2026-11-17T08:04:58.853Z",
