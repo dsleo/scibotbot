@@ -486,6 +486,16 @@
     ],
     "url": "https://sci-bot.ru/how-does-a-macro-or-8acb3717"
   },
+  "/i-am-developing-an-ma-52f05af6": {
+    "answered_at_utc": "2026-11-17T20:50:04.771Z",
+    "first_seen_utc": "2026-11-17T20:52:57Z",
+    "question": "I am developing an MA proposal in Applied AI in Digital Art. My working research question is: “How can applied AI support digital creative practice?” Digital Creativity is the working target journal. The creative case is a monumental hall within a digital exhibition. The artis",
+    "topics": [
+      "Arts",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/i-am-developing-an-ma-52f05af6"
+  },
   "/i-need-papers-or-thesis-b4e6bfe5": {
     "answered_at_utc": "2026-11-17T15:38:56.539Z",
     "first_seen_utc": "2026-11-17T16:16:08Z",
@@ -973,5 +983,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/write-a-rigorous-publication-ready-ab6e2cb1"
+  },
+  "/write-a-short-text-to-06cdd256": {
+    "answered_at_utc": "2026-11-17T20:46:11.363Z",
+    "first_seen_utc": "2026-11-17T20:52:57Z",
+    "question": "Write a short text to my literature review where you will write about putting wood (and large wood) to rivers as a part of restoration.",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/write-a-short-text-to-06cdd256"
   }
 }
