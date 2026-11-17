@@ -1,4 +1,14 @@
 {
+  "/24-dinitrophenylmorphine-water-solubillity-and-f9ddac5d": {
+    "answered_at_utc": "2026-11-17T11:34:48.302Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "2,4-DINITROPHENYLMORPHINE water solubillity and cleavage to morphine yield",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/24-dinitrophenylmorphine-water-solubillity-and-f9ddac5d"
+  },
   "/a-digital-guide-device-to-774e6523": {
     "answered_at_utc": "2026-11-17T07:49:59.964Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -8,6 +18,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/a-digital-guide-device-to-774e6523"
+  },
+  "/after-left-hemisphere-stroke-in-b11320bc": {
+    "answered_at_utc": "2026-11-17T10:14:35.842Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "After left-hemisphere stroke in adults, which cognitive and language deficits are most frequent, how do they differ from right-hemisphere stroke, and how do they recover? Cite 3-5 reviews or studies from 2020 onwards with DOI.",
+    "topics": [
+      "Neuroscience",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/after-left-hemisphere-stroke-in-b11320bc"
   },
   "/ai-based-weapon-systems-and-65ec351f": {
     "answered_at_utc": "2026-11-17T06:44:49.876Z",
@@ -19,6 +39,16 @@
     ],
     "url": "https://sci-bot.ru/ai-based-weapon-systems-and-65ec351f"
   },
+  "/air-hydrogen-propane-induction-time-43895b59": {
+    "answered_at_utc": "2026-11-17T10:51:09.798Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "air-hydrogen-propane induction time self-ignition delay times",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/air-hydrogen-propane-induction-time-43895b59"
+  },
   "/all-steps-techniques-supplements-esoterics-b35882d6": {
     "answered_at_utc": "2026-11-17T04:07:19.130Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -27,6 +57,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/all-steps-techniques-supplements-esoterics-b35882d6"
+  },
+  "/at-which-wavenumber-in-the-cf95359f": {
+    "answered_at_utc": "2026-11-17T11:05:16.117Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "At which wavenumber in the IR-spectrum can I expect the C-Br (stretch) vibration of 2-bromo hexane?",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/at-which-wavenumber-in-the-cf95359f"
   },
   "/can-you-tell-me-how-28fea2b9": {
     "answered_at_utc": "2026-11-17T05:23:53.808Z",
@@ -67,6 +106,26 @@
     ],
     "url": "https://sci-bot.ru/detection-methods-distribution-and-ecological-0fdfd8d3"
   },
+  "/develop-a-research-proposal-on-d8ba52e3": {
+    "answered_at_utc": "2026-11-17T11:28:19.104Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Develop a research proposal on this topic \"Efficacy of Black soldier fly and Palm weevil frass liquid fertilizers on growth and yield performance of tomato. This proposal is at master level and should include; Introduction and background, Problem statement, Justification, Objecti",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/develop-a-research-proposal-on-d8ba52e3"
+  },
+  "/drawing-on-foundational-peer-reviewed-600c5c68": {
+    "answered_at_utc": "2026-11-17T11:16:39.993Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Drawing on foundational, peer-reviewed scientific literature across epistemology, knowledge representation, evidence synthesis, belief revision, provenance systems, and artificial intelligence: **What scientifically established methods and principles allow us to transform hetero",
+    "topics": [
+      "Computer science",
+      "Philosophy"
+    ],
+    "url": "https://sci-bot.ru/drawing-on-foundational-peer-reviewed-600c5c68"
+  },
   "/ductility-of-high-strength-concrete-e0ba672e": {
     "answered_at_utc": "2026-11-17T05:20:51.180Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -96,6 +155,24 @@
     ],
     "url": "https://sci-bot.ru/evidence-of-a-mating-event-2876c2b1"
   },
+  "/find-10-papers-comparing-nemeth-025d4e73": {
+    "answered_at_utc": "2026-11-17T10:07:34.717Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Find 10 papers comparing Nemeth Code and Unified English Braille for university-level mathematics. For each: citation, what was compared, findings on coverage gaps for advanced algebra, category theory, or other abstract notation. Then summarise where the codes fall short.",
+    "topics": [
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/find-10-papers-comparing-nemeth-025d4e73"
+  },
+  "/find-10-papers-on-the-e79ce474": {
+    "answered_at_utc": "2026-11-17T09:03:06.151Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Find 10 papers on the reliability of AI-generated image descriptions and alt text for mathematical and technical content — accuracy, hallucination, trust by blind users — plus papers arguing for deterministic or verifiable alternatives. For each: citation, findings, position. The",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-10-papers-on-the-e79ce474"
+  },
   "/find-10-papers-or-documented-8bf7a0cb": {
     "answered_at_utc": "2026-11-17T04:37:18.501Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -113,6 +190,15 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/find-10-papers-or-reports-51ce1cf2"
+  },
+  "/find-12-papers-on-how-93b440bf": {
+    "answered_at_utc": "2026-11-17T12:06:37.511Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Find 12 papers on how MathML, MathJax, and screen readers such as JAWS, NVDA, and VoiceOver render mathematics as speech and braille. For each: citation, tools studied, findings, documented limitations for long, nested, graduate-level expressions. Then analyse the most serious un",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-12-papers-on-how-93b440bf"
   },
   "/find-12-papers-that-explicitly-ed601e48": {
     "answered_at_utc": "2026-11-17T05:49:02.545Z",
@@ -164,6 +250,15 @@
     ],
     "url": "https://sci-bot.ru/history-of-prison-abolition-75aee42d"
   },
+  "/how-do-children-incorporate-their-33b9d387": {
+    "answered_at_utc": "2026-11-17T10:24:09.329Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "How do children incorporate their parents' aspirations in their choice of future profession? What social science methods are proven for this research",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/how-do-children-incorporate-their-33b9d387"
+  },
   "/how-do-peptides-act-in-40220691": {
     "answered_at_utc": "2026-11-17T05:02:37.480Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -172,6 +267,24 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/how-do-peptides-act-in-40220691"
+  },
+  "/how-does-a-macro-or-8acb3717": {
+    "answered_at_utc": "2026-11-17T11:09:13.169Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "how does a macro or microemulsion effect pyrethrins efficacy as a pesticide? what about wetting/spreading and evaporation rate?",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/how-does-a-macro-or-8acb3717"
+  },
+  "/im-looking-for-papers-that-fae216d5": {
+    "answered_at_utc": "2026-11-17T12:08:24.380Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "i'm looking for papers that found phosphates in european home care products",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/im-looking-for-papers-that-fae216d5"
   },
   "/independent-laboratory-or-interlaboratory-measurements-60c5e661": {
     "answered_at_utc": "2026-11-17T06:03:39.176Z",
@@ -220,6 +333,96 @@
     ],
     "url": "https://sci-bot.ru/martin-luther-1449df5f"
   },
+  "/morphological-awareness-and-vocabulary-knowledge-25bf7003": {
+    "answered_at_utc": "2026-11-17T10:20:41.757Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Morphological awareness and vocabulary knowledge in monolingual and bilingual learners: A meta-analysis",
+    "topics": [
+      "Language",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/morphological-awareness-and-vocabulary-knowledge-25bf7003"
+  },
+  "/moving-magnet-magnetically-levitated-planar-3e0c119b": {
+    "answered_at_utc": "2026-11-17T10:42:51.461Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Moving-Magnet Magnetically Levitated Planar Motor",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/moving-magnet-magnetically-levitated-planar-3e0c119b"
+  },
+  "/new-perspectives-on-semiring-applications-8195369f": {
+    "answered_at_utc": "2026-11-17T11:03:19.973Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "New Perspectives on Semiring Applications to Dynamic Programming",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/new-perspectives-on-semiring-applications-8195369f"
+  },
+  "/ntu4dradlm-4d-radar-centric-multi-66bbcdd6": {
+    "answered_at_utc": "2026-11-17T12:54:40.863Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "NTU4DRadLM: 4D Radar-Centric Multi-Modal Dataset for Localization and Mapping (2023).",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/ntu4dradlm-4d-radar-centric-multi-66bbcdd6"
+  },
+  "/physical-spoofing-315f6dff": {
+    "answered_at_utc": "2026-11-17T13:20:02.298Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Physical spoofing",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/physical-spoofing-315f6dff"
+  },
+  "/platinum-modified-molybdenum-disulfide-mos-39571cd0": {
+    "answered_at_utc": "2026-11-17T10:05:58.281Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "platinum-modified molybdenum disulfide (MoS₂) on highly oriented pyrolytic graphite (HOPG) as a catalyst for the hydrogen evolution reaction in acidic media.",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/platinum-modified-molybdenum-disulfide-mos-39571cd0"
+  },
+  "/praseodymium-epr-hyperfine-structure-at-fc0fb0cc": {
+    "answered_at_utc": "2026-11-17T10:28:08.545Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Praseodymium EPR hyperfine structure at T=80K or T=77K",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/praseodymium-epr-hyperfine-structure-at-fc0fb0cc"
+  },
+  "/praseodymium-epr-super-hyperfine-structure-050bf3a3": {
+    "answered_at_utc": "2026-11-17T13:25:45.468Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Praseodymium EPR super hyperfine structure at T=80K",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/praseodymium-epr-super-hyperfine-structure-050bf3a3"
+  },
+  "/primary-text-mudrrkasa-pratijyaugandharyaam-ngnanda-97cf1b2f": {
+    "answered_at_utc": "2026-11-17T11:19:06.976Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Primary text Mudrārākṣasa Pratijñāyaugandharāyaṇam Nāgānanda Mattavilāsa Prahasana Mṛcchakaṭika historiography on all these texts",
+    "topics": [
+      "Literature",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/primary-text-mudrrkasa-pratijyaugandharyaam-ngnanda-97cf1b2f"
+  },
   "/primates-relationship-within-the-euarchontoglires-ecfdd1a7": {
     "answered_at_utc": "2026-11-17T08:02:51.127Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -229,6 +432,15 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/primates-relationship-within-the-euarchontoglires-ecfdd1a7"
+  },
+  "/provide-a-concise-scientifically-grounded-d20f062a": {
+    "answered_at_utc": "2026-11-17T12:31:30.552Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Provide a concise, scientifically grounded overview of Easter Island (Rapa Nui), focusing on its ecological history, deforestation, biodiversity loss, human impacts on ecosystems, and the debate about ecological collapse. Include recent scientific findings and reliable references",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/provide-a-concise-scientifically-grounded-d20f062a"
   },
   "/psychoneuroimmunology-cancer-chronic-stress-tumor-8290a137": {
     "answered_at_utc": "2026-11-17T07:40:14.415Z",
@@ -240,6 +452,15 @@
     ],
     "url": "https://sci-bot.ru/psychoneuroimmunology-cancer-chronic-stress-tumor-8290a137"
   },
+  "/research-manuscript-development-energy-balance-aa1239e5": {
+    "answered_at_utc": "2026-11-17T11:57:52.393Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Research Manuscript Development: Energy Balance and Radiative Cooling in Black Hole Accretion Flows",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/research-manuscript-development-energy-balance-aa1239e5"
+  },
   "/safety-culture-index-in-oil-46bdd789": {
     "answered_at_utc": "2026-11-17T08:04:58.853Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -248,6 +469,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/safety-culture-index-in-oil-46bdd789"
+  },
+  "/search-for-articles-showing-that-7d39fae9": {
+    "answered_at_utc": "2026-11-17T11:47:37.099Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Search for articles showing that cassava wastewater is converted into maltodextrin.",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/search-for-articles-showing-that-7d39fae9"
   },
   "/search-for-papers-extensively-on-533cf57b": {
     "answered_at_utc": "2026-11-17T06:42:42.500Z",
@@ -269,6 +500,15 @@
     ],
     "url": "https://sci-bot.ru/search-for-papers-extensively-that-d64f877c"
   },
+  "/similarities-and-differences-between-the-4ae444fc": {
+    "answered_at_utc": "2026-11-17T12:44:09.555Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Similarities and differences between the U-Pb detrital zircon data from Ediacaran units from Ossa-Morena Zone and central iberian zone and basal allochthonous of the Galicia-Trás-os-Montes Zone, what does that mean in terms of paleogeography and geodynamis in the Pre-Cambrian?",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/similarities-and-differences-between-the-4ae444fc"
+  },
   "/tell-me-please-about-subcutaneous-32556137": {
     "answered_at_utc": "2026-11-17T07:47:46.470Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -278,6 +518,26 @@
     ],
     "url": "https://sci-bot.ru/tell-me-please-about-subcutaneous-32556137"
   },
+  "/the-capitalistic-ideological-relationship-between-2eb6b804": {
+    "answered_at_utc": "2026-11-17T10:33:22.173Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "the capitalistic ideological relationship between ai and language",
+    "topics": [
+      "Economics",
+      "Language"
+    ],
+    "url": "https://sci-bot.ru/the-capitalistic-ideological-relationship-between-2eb6b804"
+  },
+  "/the-use-of-hydroxyethyl-cellulose-4f6e05ac": {
+    "answered_at_utc": "2026-11-17T09:30:40.026Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "the use of hydroxyethyl cellulose with chitosan to ihnace the mechanical properties and swellability",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/the-use-of-hydroxyethyl-cellulose-4f6e05ac"
+  },
   "/thi-phq-9-vas-cfa-e4e76496": {
     "answered_at_utc": "2026-11-17T05:08:25.887Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -286,6 +546,34 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/thi-phq-9-vas-cfa-e4e76496"
+  },
+  "/toxicological-information-and-aspects-in-326d61ce": {
+    "answered_at_utc": "2026-11-17T09:28:35.157Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Toxicological information and aspects in Agatha Christie's books",
+    "topics": [
+      "Literature"
+    ],
+    "url": "https://sci-bot.ru/toxicological-information-and-aspects-in-326d61ce"
+  },
+  "/u-pb-detrital-zircon-similarities-9dcb2982": {
+    "answered_at_utc": "2026-11-17T09:44:15.435Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "U-Pb detrital zircon similarities between the Ossa-Morena Zone and the Teplá-Barrandian unit and Saxothuringian unit, what does it mean in paleogeographic and geodynamic view?",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/u-pb-detrital-zircon-similarities-9dcb2982"
+  },
+  "/using-haavik-2020-as-a-8066b4f7": {
+    "answered_at_utc": "2026-11-17T09:23:32.980Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Using Haavik (2020) as a starting point, critically discuss the concept of societal resilience and its implications for contemporary security research. Explain how moving from organizational resilience to societal resilience changes the understanding of risks, vulnerabilities, an",
+    "topics": [
+      "Humanities",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/using-haavik-2020-as-a-8066b4f7"
   },
   "/what-obtaine-propargylic-acid-n-1b32646c": {
     "answered_at_utc": "2026-11-17T06:36:35.541Z",
@@ -306,5 +594,24 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/where-computability-fails-along-convergence-f726c54f"
+  },
+  "/write-a-chapter-about-body-797048ec": {
+    "answered_at_utc": "2026-11-17T12:48:11.741Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "write a chapter about body forms of macrozoobethos",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/write-a-chapter-about-body-797048ec"
+  },
+  "/write-a-rigorous-publication-ready-ab6e2cb1": {
+    "answered_at_utc": "2026-11-17T10:39:19.360Z",
+    "first_seen_utc": "2026-11-17T13:41:03Z",
+    "question": "Write a rigorous, publication-ready astrophysics research manuscript following the style, structure, tone, and citation conventions of the Astrophysical Journal (ApJ). Apply high-impact scientific writing principles throughout, from the Abstract to the Conclusions, ensuring preci",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/write-a-rigorous-publication-ready-ab6e2cb1"
   }
 }
