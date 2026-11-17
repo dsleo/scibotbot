@@ -4,8 +4,10 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Off the top of the hour: GitHub drops or delays runs scheduled at :00 under load.
-    - cron: '17 * * * *'
+    # GitHub's scheduler is best-effort and drops most runs on low-traffic repos, and the
+    # site's feed only holds the latest 32 answers. Schedule often; dedup makes extra runs
+    # free, and the job commits only when there is new data.
+    - cron: '*/10 * * * *'
 
 permissions:
   contents: write
@@ -64,18 +66,17 @@ jobs:
           }
           rm extract.js
 
-      - name: Merge into append-only daily data files
-        run: python3 scripts/merge.py
-
-      - name: Commit and push only if data/ changed
+      - name: Merge into daily data files, commit and push only if data/ changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Another run may have pushed first. On rejection, reset to origin/main,
-          # re-merge the same scrape into the newer archive, and try again.
+          # Merge on top of the freshest origin/main. If another run pushed first,
+          # reset, re-merge the same scrape, and try again. `clean` drops a day file
+          # a previous attempt created, which `reset --hard` would leave behind.
           for attempt in 1 2 3; do
             git fetch origin main
             git reset -q --hard origin/main
+            git clean -fdq data
             out=$(python3 scripts/merge.py)
             echo "$out"
             added=$(echo "$out" | sed -n 's/^Added \([0-9]*\) .*/\1/p')

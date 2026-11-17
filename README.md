@@ -6,7 +6,7 @@ An append-only archive of the questions answered on [sci-bot.ru](https://sci-bot
 
 ## How it works
 
-- [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) runs at 17 minutes past each hour, on push, and on manual dispatch.
+- [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) is scheduled every 10 minutes, and also runs on push and on manual dispatch. GitHub's scheduler is best-effort, so actual runs are less frequent than scheduled, and the site's feed shows only the latest 32 answers, so a long enough gap between runs permanently loses questions.
 - `shot-scraper` loads `https://sci-bot.ru` in headless Chromium, waits for the WebSocket-driven feed to render, and extracts the items.
 - [`scripts/merge.py`](scripts/merge.py) checks every existing key across `data/`, adds new questions to today's file (UTC), and writes it back deterministically (`indent=2`, `sort_keys=True`, `ensure_ascii=False`).
 - Entries are never removed or rewritten. A question that scrolls off the live feed stays in the archive.
