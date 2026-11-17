@@ -126,6 +126,15 @@
     ],
     "url": "https://sci-bot.ru/can-you-help-me-to-9e64d2dd"
   },
+  "/can-you-summarise-the-new-92240334": {
+    "answered_at_utc": "2026-11-17T22:15:03.376Z",
+    "first_seen_utc": "2026-11-17T22:23:39Z",
+    "question": "can you summarise the new findings in the topic of appeareance based stereotypes (like makeup and facial hair)? Mostly in the workplace. After 2019. Thank you!",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/can-you-summarise-the-new-92240334"
+  },
   "/can-you-tell-me-how-28fea2b9": {
     "answered_at_utc": "2026-11-17T05:23:53.808Z",
     "first_seen_utc": "2026-11-17T08:05:24Z",
@@ -208,6 +217,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/correction-of-anterior-crossbite-d72f9662"
+  },
+  "/critically-assess-the-limitations-of-6a51efb8": {
+    "answered_at_utc": "2026-11-17T22:16:54.864Z",
+    "first_seen_utc": "2026-11-17T22:23:39Z",
+    "question": "Critically assess the limitations of security approaches primarily focused on military capabilities, territorial defense, and critical infrastructure protection. Discuss how the concepts of societal resilience, hybrid threats, and cybersecurity contribute to a broader understandi",
+    "topics": [
+      "Law",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/critically-assess-the-limitations-of-6a51efb8"
   },
   "/critically-evaluate-whether-rare-earth-ae6e9464": {
     "answered_at_utc": "2026-11-17T04:48:16.802Z",
