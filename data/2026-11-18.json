@@ -125,6 +125,16 @@
     ],
     "url": "https://sci-bot.ru/find-all-relevant-papers-relating-e18a0ae2"
   },
+  "/find-information-on-galvanic-electrolysis-d422bc93": {
+    "answered_at_utc": "2026-11-18T04:10:34.885Z",
+    "first_seen_utc": "2026-11-18T04:15:55Z",
+    "question": "find information on galvanic electrolysis, as it relates to hair removal, and the risk that metal implants pose",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/find-information-on-galvanic-electrolysis-d422bc93"
+  },
   "/find-me-information-about-thermal-d9b14523": {
     "answered_at_utc": "2026-11-18T03:26:36.491Z",
     "first_seen_utc": "2026-11-18T03:35:51Z",
@@ -203,6 +213,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/the-historical-formation-and-development-ed7eba45"
+  },
+  "/theorems-that-a-complexity-measure-41051126": {
+    "answered_at_utc": "2026-11-18T04:07:48.918Z",
+    "first_seen_utc": "2026-11-18T04:15:55Z",
+    "question": "theorems that a complexity measure peaks at an intermediate parameter value Already have: Crutchfield et al. 1989, Inferring statistical complexity; Shalizi et al. 2001, Computational mechanics: pattern and prediction, structure and simplicity. Known but not held (do not re-repor",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/theorems-that-a-complexity-measure-41051126"
   },
   "/theorems-that-a-complexity-measure-ff29834b": {
     "answered_at_utc": "2026-11-18T00:48:56.003Z",
