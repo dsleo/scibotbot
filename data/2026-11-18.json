@@ -55,6 +55,16 @@
     ],
     "url": "https://sci-bot.ru/advanced-wound-care-ranking-how-277ce01e"
   },
+  "/after-cerebellar-stroke-in-adults-317bc7ef": {
+    "answered_at_utc": "2026-11-18T18:38:41.523Z",
+    "first_seen_utc": "2026-11-18T18:47:43Z",
+    "question": "After cerebellar stroke in adults, which cognitive and emotional sequelae (cerebellar cognitive affective syndrome) appear besides motor deficits, how frequent are they, and how do they recover? Cite 3-5 reviews or studies from 2020 onwards with DOI.",
+    "topics": [
+      "Neuroscience",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/after-cerebellar-stroke-in-adults-317bc7ef"
+  },
   "/ambivalent-sexism-c44cc01e": {
     "answered_at_utc": "2026-11-18T04:01:22.173Z",
     "first_seen_utc": "2026-11-18T04:05:52Z",
@@ -278,6 +288,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/direct-dyes-adsorption-ef3ff63d"
+  },
+  "/direct-me-to-latent-diffusionflow-2264b742": {
+    "answered_at_utc": "2026-11-18T18:46:15.261Z",
+    "first_seen_utc": "2026-11-18T18:47:43Z",
+    "question": "direct me to latent diffusion/flow methods to generate images that maximize a neuron's input in another network",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/direct-me-to-latent-diffusionflow-2264b742"
   },
   "/discuss-how-the-increasing-digitalization-ab4dd99f": {
     "answered_at_utc": "2026-11-18T08:08:54.318Z",
