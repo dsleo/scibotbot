@@ -1,4 +1,14 @@
 {
+  "/act-as-a-scientific-literature-3667d879": {
+    "answered_at_utc": "2026-11-18T01:02:58.771Z",
+    "first_seen_utc": "2026-11-18T01:04:47Z",
+    "question": "Act as a scientific literature mining assistant for a machine learning oncology project. Find peer-reviewed studies, preclinical trials, molecular docking analyses, and pharmacological data on the following six experimental compounds: Diosmetin (Bioactive Flavonoid) Baicalein",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-scientific-literature-3667d879"
+  },
   "/act-as-a-senior-academic-a8d00a15": {
     "answered_at_utc": "2026-11-18T00:02:25.135Z",
     "first_seen_utc": "2026-11-18T00:04:25Z",
