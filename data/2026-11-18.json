@@ -37,6 +37,15 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-senior-academic-a8d00a15"
   },
+  "/advanced-wound-care-ranking-how-277ce01e": {
+    "answered_at_utc": "2026-11-18T06:42:09.904Z",
+    "first_seen_utc": "2026-11-18T06:48:26Z",
+    "question": "advanced wound care ranking. how does hocl and microsilver fall in these",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/advanced-wound-care-ranking-how-277ce01e"
+  },
   "/ambivalent-sexism-c44cc01e": {
     "answered_at_utc": "2026-11-18T04:01:22.173Z",
     "first_seen_utc": "2026-11-18T04:05:52Z",
@@ -228,6 +237,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/find-all-relevant-papers-relating-e18a0ae2"
+  },
+  "/find-for-me-articles-that-cc5a0f33": {
+    "answered_at_utc": "2026-11-18T06:39:14.634Z",
+    "first_seen_utc": "2026-11-18T06:48:26Z",
+    "question": "find for me articles that identify the mutation is noise or true mutation. All articles must satisfied those criteria: - Based on metrics from mutation identification software returned (for example allele frequency, depth, strand bias, odds ratio, depth...) - Setup a background n",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/find-for-me-articles-that-cc5a0f33"
   },
   "/find-information-on-galvanic-electrolysis-d422bc93": {
     "answered_at_utc": "2026-11-18T04:10:34.885Z",
