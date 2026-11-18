@@ -493,6 +493,16 @@
     ],
     "url": "https://sci-bot.ru/find-peer-reviewed-literature-bioassay-ff170653"
   },
+  "/find-peer-reviewed-scientific-articles-15f9ff9e": {
+    "answered_at_utc": "2026-11-18T14:04:05.142Z",
+    "first_seen_utc": "2026-11-18T14:05:56Z",
+    "question": "Find peer-reviewed scientific articles (2015–2026) on modeling positive, continuous, right-skewed household income or per capita income using Generalized Linear Models (GLMs) and probability distributions. Prioritize studies where household income is the dependent variable, usin",
+    "topics": [
+      "Mathematics",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-scientific-articles-15f9ff9e"
+  },
   "/find-peer-reviewed-scientific-articles-8c07172a": {
     "answered_at_utc": "2026-11-18T05:52:29.395Z",
     "first_seen_utc": "2026-11-18T05:56:43Z",
