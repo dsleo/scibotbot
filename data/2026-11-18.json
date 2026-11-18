@@ -269,6 +269,15 @@
     ],
     "url": "https://sci-bot.ru/discuss-how-the-increasing-digitalization-ab4dd99f"
   },
+  "/edge-computing-820db6c9": {
+    "answered_at_utc": "2026-11-18T15:37:04.136Z",
+    "first_seen_utc": "2026-11-18T15:46:32Z",
+    "question": "edge computing",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/edge-computing-820db6c9"
+  },
   "/educational-game-development-c1cd7994": {
     "answered_at_utc": "2026-11-18T00:42:21.756Z",
     "first_seen_utc": "2026-11-18T00:44:50Z",
@@ -278,6 +287,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/educational-game-development-c1cd7994"
+  },
+  "/efficacy-and-side-effects-of-6f2ee28b": {
+    "answered_at_utc": "2026-11-18T15:46:16.969Z",
+    "first_seen_utc": "2026-11-18T15:46:32Z",
+    "question": "Efficacy and side effects of minoxidil with {finasteride, dutasteride, azelaic acid, tretinoin, and others} for hair regrowth and hair {topical, oral and otherwise}. Find studies, surveys and trials. Highlight obvious biases and flaws in the studies/trials. Focus on long term",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/efficacy-and-side-effects-of-6f2ee28b"
   },
   "/elaborate-the-statement-of-prof-71de30d6": {
     "answered_at_utc": "2026-11-18T06:26:58.570Z",
