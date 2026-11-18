@@ -1,0 +1,21 @@
+{
+  "/act-as-a-senior-academic-a8d00a15": {
+    "answered_at_utc": "2026-11-18T00:02:25.135Z",
+    "first_seen_utc": "2026-11-18T00:04:25Z",
+    "question": "Act as a senior academic researcher in Computer Engineering. Compile exactly 5 peer-reviewed scientific articles that are strictly verifiable Systematic Literature Reviews (SLRs) or Systematic Mapping Studies. Mandatory Filtering Rules (No Exceptions): 1. Scope: Computer Engine",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-senior-academic-a8d00a15"
+  },
+  "/find-peer-reviewed-literature-bioassay-ff170653": {
+    "answered_at_utc": "2026-11-18T00:00:45.171Z",
+    "first_seen_utc": "2026-11-18T00:04:25Z",
+    "question": "Find peer-reviewed literature, bioassay data, and experimental studies evaluating the cytotoxicity and therapeutic efficacy of the following target compounds against prostate cancer cell lines (such as LNCaP, PC-3, DU145, C4-2, and 22Rv1): 1. Diosmetin (Bioactive Flavonoid), 2. B",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-literature-bioassay-ff170653"
+  }
+}
