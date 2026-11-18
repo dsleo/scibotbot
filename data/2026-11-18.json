@@ -18,6 +18,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-senior-academic-a8d00a15"
   },
+  "/can-molecular-dynamics-descriptors-of-651d8664": {
+    "answered_at_utc": "2026-11-18T01:47:57.717Z",
+    "first_seen_utc": "2026-11-18T01:55:04Z",
+    "question": "Can molecular dynamics descriptors of the evolving crosslinked network (crosslink density, chain mobility from MSD, fractional free volume) be linked, through physical kinetic and viscoelastic laws, to the parameters usually fitted empirically to moving-die rheometer curves (cure",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/can-molecular-dynamics-descriptors-of-651d8664"
+  },
   "/conduct-in-depth-critical-analysis-ad51b349": {
     "answered_at_utc": "2026-11-18T01:38:59.331Z",
     "first_seen_utc": "2026-11-18T01:45:01Z",
@@ -47,6 +57,15 @@
       "Arts"
     ],
     "url": "https://sci-bot.ru/existing-research-has-extensively-examined-37d0a4d4"
+  },
+  "/find-8-papers-or-standards-676540d6": {
+    "answered_at_utc": "2026-11-18T01:54:25.990Z",
+    "first_seen_utc": "2026-11-18T01:55:04Z",
+    "question": "Find 8 papers or standards covering WCAG, EPUB, and PDF/UA requirements for mathematical notation and mathematical figures. For each: citation, what is required or recommended, what is explicitly out of scope. Then analyse whether current standards are adequate for advanced mathe",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-8-papers-or-standards-676540d6"
   },
   "/find-peer-reviewed-literature-bioassay-ff170653": {
     "answered_at_utc": "2026-11-18T00:00:45.171Z",
