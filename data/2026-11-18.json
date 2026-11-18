@@ -744,6 +744,15 @@
     ],
     "url": "https://sci-bot.ru/i-need-some-information-about-90e4fdbf"
   },
+  "/i-need-you-to-find-7a93ba30": {
+    "answered_at_utc": "2026-11-18T19:16:18.574Z",
+    "first_seen_utc": "2026-11-18T19:17:55Z",
+    "question": "i need you to find me literature about osb desks and gybsum boards",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/i-need-you-to-find-7a93ba30"
+  },
   "/i-would-like-to-have-c544d1f9": {
     "answered_at_utc": "2026-11-18T02:28:19.149Z",
     "first_seen_utc": "2026-11-18T02:35:31Z",
@@ -897,6 +906,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/open-problems-on-limit-sets-48fdc7f1"
+  },
+  "/open-problems-on-limit-sets-49d3570b": {
+    "answered_at_utc": "2026-11-18T19:11:53.492Z",
+    "first_seen_utc": "2026-11-18T19:17:55Z",
+    "question": "Open problems on limit sets and attractors of one-dimensional cellular automata Already have: Kari 1994, Rice's theorem for the limit sets of cellular automata; Boyle et al. 2007, Jointly periodic points in cellular automata. Known but not held (do not re-report): Kůrka 1997, Lan",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/open-problems-on-limit-sets-49d3570b"
   },
   "/please-compare-the-level-of-59c43228": {
     "answered_at_utc": "2026-11-18T09:37:17.032Z",
