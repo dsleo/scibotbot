@@ -515,6 +515,15 @@
     ],
     "url": "https://sci-bot.ru/nonlinear-model-reduction-2a99248b"
   },
+  "/open-problems-on-limit-sets-48fdc7f1": {
+    "answered_at_utc": "2026-11-18T10:19:23.899Z",
+    "first_seen_utc": "2026-11-18T10:21:59Z",
+    "question": "Open problems on limit sets and attractors of one-dimensional cellular automata Already have: Kari 1994, Rice's theorem for the limit sets of cellular automata; Boyle et al. 2007, Jointly periodic points in cellular automata. Known but not held (do not re-report): Kůrka 1997, Lan",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/open-problems-on-limit-sets-48fdc7f1"
+  },
   "/please-compare-the-level-of-59c43228": {
     "answered_at_utc": "2026-11-18T09:37:17.032Z",
     "first_seen_utc": "2026-11-18T09:59:29Z",
@@ -609,6 +618,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-is-the-interferon-antagonism-31f9cff8"
+  },
+  "/what-psychological-factors-predict-whether-fb1b8031": {
+    "answered_at_utc": "2026-11-18T10:11:45.959Z",
+    "first_seen_utc": "2026-11-18T10:21:59Z",
+    "question": "What psychological factors predict whether private garden owners green their gardens (e.g., removing paving, adding plants, trees, or biodiversity-friendly features)? Please focus on empirical studies (quantitative or qualitative) that examine predictors such as attitudes, values",
+    "topics": [
+      "Psychology",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/what-psychological-factors-predict-whether-fb1b8031"
   },
   "/workaround-in-healthcare-ea485dbc": {
     "answered_at_utc": "2026-11-18T02:51:10.570Z",
