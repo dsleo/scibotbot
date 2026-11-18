@@ -96,6 +96,16 @@
     ],
     "url": "https://sci-bot.ru/find-all-relevant-papers-relating-e18a0ae2"
   },
+  "/find-me-information-about-thermal-d9b14523": {
+    "answered_at_utc": "2026-11-18T03:26:36.491Z",
+    "first_seen_utc": "2026-11-18T03:35:51Z",
+    "question": "find me information about thermal stability requirement of AMZI in phase-encoded QKD system",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-me-information-about-thermal-d9b14523"
+  },
   "/find-me-thermal-stability-requirement-e9095a1a": {
     "answered_at_utc": "2026-11-18T02:25:23.199Z",
     "first_seen_utc": "2026-11-18T02:25:31Z",
