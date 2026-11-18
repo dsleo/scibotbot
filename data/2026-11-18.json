@@ -191,6 +191,16 @@
     ],
     "url": "https://sci-bot.ru/find-10-papers-on-how-43461cce"
   },
+  "/find-10-papers-on-tools-7135410e": {
+    "answered_at_utc": "2026-11-18T07:21:51.770Z",
+    "first_seen_utc": "2026-11-18T07:30:24Z",
+    "question": "Find 10 papers on tools for drawing and editing commutative diagrams used by mathematicians — quiver, tikz-cd and its editors, xypic, interactive diagram editors. For each: citation, formats, users. Analyse the formats an accessibility pipeline should accept.",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-10-papers-on-tools-7135410e"
+  },
   "/find-10-papers-or-documentation-de4e59c6": {
     "answered_at_utc": "2026-11-18T05:21:08.524Z",
     "first_seen_utc": "2026-11-18T05:26:28Z",
