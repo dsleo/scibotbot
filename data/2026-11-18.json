@@ -190,6 +190,16 @@
     ],
     "url": "https://sci-bot.ru/chocolate-process-important-parameters-physical-49e4c0f7"
   },
+  "/coking-process-in-europe-after-c6eea359": {
+    "answered_at_utc": "2026-11-18T17:43:23.328Z",
+    "first_seen_utc": "2026-11-18T17:47:18Z",
+    "question": "Coking Process in Europe (after 2010)",
+    "topics": [
+      "Chemistry",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/coking-process-in-europe-after-c6eea359"
+  },
   "/conduct-an-in-depth-systematic-8ec3f0bd": {
     "answered_at_utc": "2026-11-18T15:31:39.759Z",
     "first_seen_utc": "2026-11-18T15:36:30Z",
@@ -1093,5 +1103,15 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/write-a-scientific-subsection-in-bd82562f"
+  },
+  "/write-detailed-lecture-note-on-5532a546": {
+    "answered_at_utc": "2026-11-18T17:38:59.139Z",
+    "first_seen_utc": "2026-11-18T17:47:18Z",
+    "question": "write detailed lecture note on Atomic and Molecular Structure and Bonding (Inorganic Pharmaceutical Chemistry) for year 2 pharmacy students.",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/write-detailed-lecture-note-on-5532a546"
   }
 }
