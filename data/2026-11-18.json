@@ -1,4 +1,14 @@
 {
+  "/4d-aircraft-trajectory-optimization-as-af474a7b": {
+    "answered_at_utc": "2026-11-18T21:24:11.903Z",
+    "first_seen_utc": "2026-11-18T21:30:50Z",
+    "question": "4D Aircraft Trajectory Optimization as a Mixed-Integer Nonlinear Programming (MINLP) and Optimal Control Problem",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/4d-aircraft-trajectory-optimization-as-af474a7b"
+  },
   "/a-doctor-is-claiming-fermented-89e9af94": {
     "answered_at_utc": "2026-11-18T10:39:37.941Z",
     "first_seen_utc": "2026-11-18T10:41:59Z",
@@ -999,6 +1009,16 @@
     ],
     "url": "https://sci-bot.ru/predictive-approach-to-increase-efficiency-8b5bca1a"
   },
+  "/provide-me-report-and-summary-f590781b": {
+    "answered_at_utc": "2026-11-18T21:27:18.839Z",
+    "first_seen_utc": "2026-11-18T21:30:50Z",
+    "question": "Provide me report and summary for DLTS undoped n-type GaAs grown by MOVPE",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/provide-me-report-and-summary-f590781b"
+  },
   "/recently-a-research-revelled-that-d9568e4c": {
     "answered_at_utc": "2026-11-18T21:00:24.056Z",
     "first_seen_utc": "2026-11-18T21:20:31Z",
@@ -1189,6 +1209,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/what-are-the-most-accurate-cac4033a"
+  },
+  "/what-compound-has-the-highest-d1080835": {
+    "answered_at_utc": "2026-11-18T21:30:23.802Z",
+    "first_seen_utc": "2026-11-18T21:30:50Z",
+    "question": "what compound has the highest cognition data as a ampa pam (doesn't have to be human data.)",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-compound-has-the-highest-d1080835"
   },
   "/what-is-the-cellular-entry-24ce075f": {
     "answered_at_utc": "2026-11-18T09:33:16.123Z",
