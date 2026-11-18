@@ -513,6 +513,16 @@
     ],
     "url": "https://sci-bot.ru/find-peer-reviewed-scientific-articles-15f9ff9e"
   },
+  "/find-peer-reviewed-scientific-articles-56f39739": {
+    "answered_at_utc": "2026-11-18T15:08:40.689Z",
+    "first_seen_utc": "2026-11-18T15:16:19Z",
+    "question": "Find peer-reviewed scientific articles (2015–2026) on modeling positive, continuous, right-skewed household income or per capita income using Generalized Linear Models (GLMs) and probability distributions. Prioritize studies where household income is the dependent variable, usin",
+    "topics": [
+      "Mathematics",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-scientific-articles-56f39739"
+  },
   "/find-peer-reviewed-scientific-articles-8c07172a": {
     "answered_at_utc": "2026-11-18T05:52:29.395Z",
     "first_seen_utc": "2026-11-18T05:56:43Z",
@@ -589,6 +599,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/hormones-and-signalling-modules-that-dffdaecc"
+  },
+  "/how-can-changes-in-localized-62289584": {
+    "answered_at_utc": "2026-11-18T15:12:11.874Z",
+    "first_seen_utc": "2026-11-18T15:16:19Z",
+    "question": "How can changes in localized video game dialogue be annotated by both translation operation and observable effect on meaning, characterization, or the timing of plot revelations?",
+    "topics": [
+      "Language",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/how-can-changes-in-localized-62289584"
   },
   "/i-am-trying-to-access-f4119a8b": {
     "answered_at_utc": "2026-11-18T09:08:16.303Z",
