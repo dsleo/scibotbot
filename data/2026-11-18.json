@@ -999,6 +999,26 @@
     ],
     "url": "https://sci-bot.ru/predictive-approach-to-increase-efficiency-8b5bca1a"
   },
+  "/recently-a-research-revelled-that-d9568e4c": {
+    "answered_at_utc": "2026-11-18T21:00:24.056Z",
+    "first_seen_utc": "2026-11-18T21:20:31Z",
+    "question": "Recently, A research revelled that time would have 3 dimensions, so based on this framework I would like to write a scifi novel. Please give me 10 ideas with huge support that help to write the story and the main charactets",
+    "topics": [
+      "Physics",
+      "Literature"
+    ],
+    "url": "https://sci-bot.ru/recently-a-research-revelled-that-d9568e4c"
+  },
+  "/research-question-what-functions-do-58eccdaf": {
+    "answered_at_utc": "2026-11-18T21:04:58.263Z",
+    "first_seen_utc": "2026-11-18T21:20:31Z",
+    "question": "RESEARCH QUESTION What functions do leaders perform in relation to collective goods, when and why do groups need them, and under what conditions is a leader's decision itself a collective good rather than a distributive or captured outcome? CONTEXT I am building a framework in w",
+    "topics": [
+      "Economics",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/research-question-what-functions-do-58eccdaf"
+  },
   "/resource-allocation-strategies-in-gregarious-883087db": {
     "answered_at_utc": "2026-11-18T05:48:41.438Z",
     "first_seen_utc": "2026-11-18T05:56:43Z",
@@ -1224,6 +1244,16 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/what-theoretical-mechanisms-could-explain-5db104b6"
+  },
+  "/where-computability-fails-along-convergence-dc61cab8": {
+    "answered_at_utc": "2026-11-18T21:15:51.930Z",
+    "first_seen_utc": "2026-11-18T21:20:31Z",
+    "question": "Where computability fails along convergence: computable sequences with uncomputable limits, and halting-probability-type reals Already have: C. S. Calude, M. A. Stay, \"Natural halting probabilities, partial randomness, and zeta functions\", Inform. and Comput. 204 (2006) 1718–1739",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/where-computability-fails-along-convergence-dc61cab8"
   },
   "/which-factors-motivate-and-have-6de4d303": {
     "answered_at_utc": "2026-11-18T17:04:11.851Z",
