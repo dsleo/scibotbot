@@ -399,6 +399,15 @@
     ],
     "url": "https://sci-bot.ru/for-obbligazioni-di-mezzi-means-7b1fb137"
   },
+  "/highlight-escmid-2026-586fcedb": {
+    "answered_at_utc": "2026-11-18T09:30:45.480Z",
+    "first_seen_utc": "2026-11-18T09:59:29Z",
+    "question": "Highlight escmid 2026",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/highlight-escmid-2026-586fcedb"
+  },
   "/hocl-vs-other-similar-products-17da0653": {
     "answered_at_utc": "2026-11-18T09:13:43.406Z",
     "first_seen_utc": "2026-11-18T09:21:05Z",
@@ -506,6 +515,15 @@
     ],
     "url": "https://sci-bot.ru/nonlinear-model-reduction-2a99248b"
   },
+  "/please-compare-the-level-of-59c43228": {
+    "answered_at_utc": "2026-11-18T09:37:17.032Z",
+    "first_seen_utc": "2026-11-18T09:59:29Z",
+    "question": "please compare the level of radiation to the human body from an upper occlusal dental X-ray, and a CBCT",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/please-compare-the-level-of-59c43228"
+  },
   "/resource-allocation-strategies-in-gregarious-883087db": {
     "answered_at_utc": "2026-11-18T05:48:41.438Z",
     "first_seen_utc": "2026-11-18T05:56:43Z",
@@ -573,6 +591,24 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/what-are-the-most-accurate-cac4033a"
+  },
+  "/what-is-the-cellular-entry-24ce075f": {
+    "answered_at_utc": "2026-11-18T09:33:16.123Z",
+    "first_seen_utc": "2026-11-18T09:59:29Z",
+    "question": "What is the cellular entry mechanism of Henipavirus nipahense?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-cellular-entry-24ce075f"
+  },
+  "/what-is-the-interferon-antagonism-31f9cff8": {
+    "answered_at_utc": "2026-11-18T09:43:08.439Z",
+    "first_seen_utc": "2026-11-18T09:59:29Z",
+    "question": "What is the interferon antagonism target of Henipavirus nipahense?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-interferon-antagonism-31f9cff8"
   },
   "/workaround-in-healthcare-ea485dbc": {
     "answered_at_utc": "2026-11-18T02:51:10.570Z",
