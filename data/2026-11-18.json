@@ -366,6 +366,15 @@
     ],
     "url": "https://sci-bot.ru/do-a-literature-search-on-4e2eee1b"
   },
+  "/does-fraxinus-latifolia-have-orthodox-577696d3": {
+    "answered_at_utc": "2026-11-18T22:31:38.151Z",
+    "first_seen_utc": "2026-11-18T22:41:28Z",
+    "question": "does fraxinus latifolia have orthodox seed?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/does-fraxinus-latifolia-have-orthodox-577696d3"
+  },
   "/edge-computing-820db6c9": {
     "answered_at_utc": "2026-11-18T15:37:04.136Z",
     "first_seen_utc": "2026-11-18T15:46:32Z",
@@ -600,6 +609,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/find-for-me-articles-that-cc5a0f33"
+  },
+  "/find-high-quality-peer-reviewed-60e7cd9f": {
+    "answered_at_utc": "2026-11-18T22:35:58.070Z",
+    "first_seen_utc": "2026-11-18T22:41:28Z",
+    "question": "Find high-quality peer-reviewed papers for my review paper **“Polymer-Based Underwater Acoustic Metamaterials”**, specifically for **Section 5: Manufacturing and Fabrication of Polymer-Based Acoustic Metamaterials**. Search for research covering: 1. **Conventional polymer proce",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/find-high-quality-peer-reviewed-60e7cd9f"
   },
   "/find-information-for-the-testing-75e1e9b2": {
     "answered_at_utc": "2026-11-18T09:20:04.963Z",
