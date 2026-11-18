@@ -705,6 +705,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-trying-to-access-f4119a8b"
   },
+  "/i-need-some-information-about-90e4fdbf": {
+    "answered_at_utc": "2026-11-18T18:14:50.499Z",
+    "first_seen_utc": "2026-11-18T18:17:49Z",
+    "question": "i need some information about enzymes that can interact with coumarins",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/i-need-some-information-about-90e4fdbf"
+  },
   "/i-would-like-to-have-c544d1f9": {
     "answered_at_utc": "2026-11-18T02:28:19.149Z",
     "first_seen_utc": "2026-11-18T02:35:31Z",
@@ -932,6 +942,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/the-historical-formation-and-development-ed7eba45"
+  },
+  "/theorems-that-a-complexity-measure-13069f1d": {
+    "answered_at_utc": "2026-11-18T18:12:49.748Z",
+    "first_seen_utc": "2026-11-18T18:17:49Z",
+    "question": "theorems that a complexity measure peaks at an intermediate parameter value Already have: Crutchfield et al. 1989, Inferring statistical complexity; Shalizi et al. 2001, Computational mechanics: pattern and prediction, structure and simplicity. Known but not held (do not re-repor",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/theorems-that-a-complexity-measure-13069f1d"
   },
   "/theorems-that-a-complexity-measure-41051126": {
     "answered_at_utc": "2026-11-18T04:07:48.918Z",
