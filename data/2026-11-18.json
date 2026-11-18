@@ -201,6 +201,15 @@
     ],
     "url": "https://sci-bot.ru/find-10-papers-on-how-43461cce"
   },
+  "/find-10-papers-on-how-8250c2aa": {
+    "answered_at_utc": "2026-11-18T09:00:34.651Z",
+    "first_seen_utc": "2026-11-18T09:00:45Z",
+    "question": "Find 10 papers on how sighted mathematicians read and process commutative diagrams — eye-tracking, cognitive studies, diagram comprehension. For each: citation, method, findings. Analyse what a spoken reading protocol should preserve from the sighted protocol.",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/find-10-papers-on-how-8250c2aa"
+  },
   "/find-10-papers-on-tools-7135410e": {
     "answered_at_utc": "2026-11-18T07:21:51.770Z",
     "first_seen_utc": "2026-11-18T07:30:24Z",
@@ -400,6 +409,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/in-grid-assisted-corona-poling-cc57550c"
+  },
+  "/in-harmonic-drive-joints-with-f732d386": {
+    "answered_at_utc": "2026-11-18T08:51:16.442Z",
+    "first_seen_utc": "2026-11-18T09:00:45Z",
+    "question": "In harmonic-drive joints with link-side joint torque sensors, what joint-torque feedback gain (or bandwidth) is achievable as a function of torque-sensor noise and loop delay? Are there published numbers for DLR LWR III / KUKA LBR (torque loop bandwidth, gain K_T, sampling)?",
+    "topics": [
+      "robotics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/in-harmonic-drive-joints-with-f732d386"
   },
   "/leucemia-felina-613cc8ac": {
     "answered_at_utc": "2026-11-18T06:06:14.030Z",
