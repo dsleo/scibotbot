@@ -96,6 +96,16 @@
     ],
     "url": "https://sci-bot.ru/i-would-like-to-have-c544d1f9"
   },
+  "/meningomyelocelemh-or-myelomeningoceletiab-or-meningomyeloce-131913eb": {
+    "answered_at_utc": "2026-11-18T02:36:08.441Z",
+    "first_seen_utc": "2026-11-18T02:45:27Z",
+    "question": "(\"Meningomyelocele\"[mh] OR myelomeningocele[tiab] OR meningomyelocele[tiab] OR \"spina bifida\"[tiab]) AND (\"Fetal Therapies\"[mh] OR prenatal[tiab] OR antenatal[tiab] OR \"in utero\"[tiab] OR intrauterine[tiab] OR transamniotic[tiab]) AND (\"Mesenchymal Stem Cells\"[mh] OR \"Tissue Engi",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/meningomyelocelemh-or-myelomeningoceletiab-or-meningomyeloce-131913eb"
+  },
   "/stone-age-economics-5a22f91b": {
     "answered_at_utc": "2026-11-18T00:27:47.703Z",
     "first_seen_utc": "2026-11-18T00:34:35Z",
