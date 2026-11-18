@@ -210,6 +210,15 @@
     ],
     "url": "https://sci-bot.ru/find-me-thermal-stability-requirement-e9095a1a"
   },
+  "/find-open-source-software-designed-79b75c63": {
+    "answered_at_utc": "2026-11-18T05:55:53.255Z",
+    "first_seen_utc": "2026-11-18T05:56:43Z",
+    "question": "Find open source software designed to capture calibration data automatically that meets the validation requirements of clause 7 of iso 17025",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-open-source-software-designed-79b75c63"
+  },
   "/find-peer-reviewed-literature-bioassay-ff170653": {
     "answered_at_utc": "2026-11-18T00:00:45.171Z",
     "first_seen_utc": "2026-11-18T00:04:25Z",
@@ -219,6 +228,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/find-peer-reviewed-literature-bioassay-ff170653"
+  },
+  "/find-peer-reviewed-scientific-articles-8c07172a": {
+    "answered_at_utc": "2026-11-18T05:52:29.395Z",
+    "first_seen_utc": "2026-11-18T05:56:43Z",
+    "question": "Find peer-reviewed scientific articles (2015–2026) on modeling positive, continuous, right-skewed household income or per capita income using Generalized Linear Models (GLMs) and probability distributions. Prioritize studies where household income is the dependent variable, usin",
+    "topics": [
+      "Mathematics",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-scientific-articles-8c07172a"
   },
   "/i-would-like-to-have-c544d1f9": {
     "answered_at_utc": "2026-11-18T02:28:19.149Z",
@@ -268,6 +287,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/mild-cognitive-impairment-definitions-to-ef1ac89e"
+  },
+  "/resource-allocation-strategies-in-gregarious-883087db": {
+    "answered_at_utc": "2026-11-18T05:48:41.438Z",
+    "first_seen_utc": "2026-11-18T05:56:43Z",
+    "question": "Resource allocation strategies in gregarious insect species: how changes egg size and egg number per clutch (batch) in different population density levels?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/resource-allocation-strategies-in-gregarious-883087db"
   },
   "/stone-age-economics-5a22f91b": {
     "answered_at_utc": "2026-11-18T00:27:47.703Z",
