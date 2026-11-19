@@ -18,6 +18,16 @@
     ],
     "url": "https://sci-bot.ru/continuous-experiments-with-carbon-materials-8595ade1"
   },
+  "/evidence-of-policy-inefficiencies-evidence-81746a7a": {
+    "answered_at_utc": "2026-11-19T00:18:53.842Z",
+    "first_seen_utc": "2026-11-19T00:25:42Z",
+    "question": "Evidence of policy inefficiencies, evidence of how the policies do not apply to or are ineffective in mexico forest management Oaxaca sierra sur, carbon capture projects",
+    "topics": [
+      "Earth science",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/evidence-of-policy-inefficiencies-evidence-81746a7a"
+  },
   "/i-need-articles-about-infatuation-9f86abfd": {
     "answered_at_utc": "2026-11-19T00:08:36.601Z",
     "first_seen_utc": "2026-11-19T00:15:34Z",
@@ -26,5 +36,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/i-need-articles-about-infatuation-9f86abfd"
+  },
+  "/thin-film-lithium-niobate-photonics-9a7a3ef3": {
+    "answered_at_utc": "2026-11-19T00:21:29.640Z",
+    "first_seen_utc": "2026-11-19T00:25:42Z",
+    "question": "Thin-film lithium niobate photonics for quantum technologies",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/thin-film-lithium-niobate-photonics-9a7a3ef3"
   }
 }
