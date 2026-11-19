@@ -255,6 +255,15 @@
     ],
     "url": "https://sci-bot.ru/give-me-some-basic-questions-d9744557"
   },
+  "/gt-act-as-an-expert-969c70e4": {
+    "answered_at_utc": "2026-11-19T08:25:17.869Z",
+    "first_seen_utc": "2026-11-19T08:32:49Z",
+    "question": "&gt; **Act as an expert in high-energy, high-average-power solid-state laser physics. I need a comprehensive literature search and review on the architectural evolution, design rationale, and future trends of cryogenic gas-cooled diode-pumped multislab laser amplifiers (such as t",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/gt-act-as-an-expert-969c70e4"
+  },
   "/how-much-would-it-cost-e109bc97": {
     "answered_at_utc": "2026-11-19T03:22:30.868Z",
     "first_seen_utc": "2026-11-19T03:26:48Z",
@@ -426,6 +435,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/research-anorexia-nervosa-including-its-fd584ab0"
+  },
+  "/research-in-the-past-5-fc5bb96f": {
+    "answered_at_utc": "2026-11-19T08:29:45.466Z",
+    "first_seen_utc": "2026-11-19T08:32:49Z",
+    "question": "Research in the past 5 years about deep reinforcement learning-based decision-making incorporating trajectory/intention/scene prediction for automated vehicles",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/research-in-the-past-5-fc5bb96f"
   },
   "/research-potential-dpdr-ptsd-and-47dff957": {
     "answered_at_utc": "2026-11-19T02:42:36.162Z",
