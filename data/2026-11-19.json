@@ -548,6 +548,15 @@
     ],
     "url": "https://sci-bot.ru/someone-can-do-500-bodyweight-257e99f1"
   },
+  "/sythnesis-of-1-phenyl-ethyl-93404833": {
+    "answered_at_utc": "2026-11-19T09:55:40.592Z",
+    "first_seen_utc": "2026-11-19T10:03:45Z",
+    "question": "sythnesis of 1-phenyl ethyl acetate,Find peer-reviewed literature and experimental protocols for the synthesis of 1-phenylethyl acetate (sec-phenethyl acetate / α-methylbenzyl acetate) from 1-phenylethanol. Include reaction conditions, catalysts (acid, base, or enzymatic), solven",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/sythnesis-of-1-phenyl-ethyl-93404833"
+  },
   "/tell-me-papers-that-talking-3335fcd1": {
     "answered_at_utc": "2026-11-19T08:45:59.353Z",
     "first_seen_utc": "2026-11-19T08:53:11Z",
@@ -565,6 +574,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/the-patient-had-crowns-placed-8ec3c131"
+  },
+  "/the-work-of-pablo-enrique-281f4ed2": {
+    "answered_at_utc": "2026-11-19T10:02:24.945Z",
+    "first_seen_utc": "2026-11-19T10:03:45Z",
+    "question": "the work of Pablo Enrique González Durán in 2026 in Microporous and Mesoporous materials establishes MACE as a tool to identify discrepancies between machine learning potentials and classical molecular dynamics. Can you find similar works with MACE identifying the weakness of cla",
+    "topics": [
+      "Chemistry",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/the-work-of-pablo-enrique-281f4ed2"
   },
   "/thin-film-lithium-niobate-photonics-9a7a3ef3": {
     "answered_at_utc": "2026-11-19T00:21:29.640Z",
