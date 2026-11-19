@@ -67,6 +67,16 @@
     ],
     "url": "https://sci-bot.ru/evidence-of-policy-inefficiencies-evidence-81746a7a"
   },
+  "/find-me-amzi-visibility-requirement-b3f73f38": {
+    "answered_at_utc": "2026-11-19T02:39:36.781Z",
+    "first_seen_utc": "2026-11-19T02:46:30Z",
+    "question": "find me AMZI Visibility requirement for a phase-encoded (just encode 0 and Pi) QKD system. How accurate of visibility is acceptale?",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-me-amzi-visibility-requirement-b3f73f38"
+  },
   "/give-me-some-basic-questions-d9744557": {
     "answered_at_utc": "2026-11-19T01:36:38.225Z",
     "first_seen_utc": "2026-11-19T01:46:10Z",
@@ -122,6 +132,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/modified-superposition-mst-with-quadratic-e6c804ec"
+  },
+  "/research-potential-dpdr-ptsd-and-47dff957": {
+    "answered_at_utc": "2026-11-19T02:42:36.162Z",
+    "first_seen_utc": "2026-11-19T02:46:30Z",
+    "question": "research potential dp/dr, ptsd and hppd treatments additionally accompanied by problems with cognitive functioning/mental fog, anhedonia, apathy and plenty of other depressive symptoms",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/research-potential-dpdr-ptsd-and-47dff957"
   },
   "/self-correctdrl-4259ed71": {
     "answered_at_utc": "2026-11-19T02:16:36.486Z",
