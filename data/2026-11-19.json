@@ -485,6 +485,16 @@
     ],
     "url": "https://sci-bot.ru/find-papers-about-the-constitutional-4cc9bcd7"
   },
+  "/find-peer-reviewed-studies-on-58d8252e": {
+    "answered_at_utc": "2026-11-19T23:39:20.180Z",
+    "first_seen_utc": "2026-11-19T23:49:14Z",
+    "question": "Find peer-reviewed studies on emotional intelligence (EI) training where gains were NOT sustained at follow-up, or only partly sustained (for example, only some subscales). Include short or one-to-two-day formats if available. Report null results too.",
+    "topics": [
+      "Psychology",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-studies-on-58d8252e"
+  },
   "/find-the-20-most-referenced-7579bc2f": {
     "answered_at_utc": "2026-11-19T11:36:46.315Z",
     "first_seen_utc": "2026-11-19T11:44:50Z",
