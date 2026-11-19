@@ -561,6 +561,15 @@
     ],
     "url": "https://sci-bot.ru/modified-superposition-mst-with-quadratic-e6c804ec"
   },
+  "/open-problems-on-limit-sets-e40d4247": {
+    "answered_at_utc": "2026-11-19T12:47:51.310Z",
+    "first_seen_utc": "2026-11-19T12:55:06Z",
+    "question": "Open problems on limit sets and attractors of one-dimensional cellular automata Already have: Kari 1994, Rice's theorem for the limit sets of cellular automata; Boyle et al. 2007, Jointly periodic points in cellular automata. Known but not held (do not re-report): Kůrka 1997, Lan",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/open-problems-on-limit-sets-e40d4247"
+  },
   "/order-of-the-points-of-4c2deefc": {
     "answered_at_utc": "2026-11-19T11:45:16.791Z",
     "first_seen_utc": "2026-11-19T11:54:42Z",
