@@ -445,6 +445,16 @@
     ],
     "url": "https://sci-bot.ru/research-prompt-estimate-the-global-3638d218"
   },
+  "/search-for-all-literature-on-8bc6999f": {
+    "answered_at_utc": "2026-11-19T08:10:07.084Z",
+    "first_seen_utc": "2026-11-19T08:12:32Z",
+    "question": "Search for all literature on model presentations and response to predators/dangerous prey. I am writing a paper on experiments I did with wild habituated banded mongooses to explore any patterns in identity of the first approacher/first to interact with the model and need you to",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/search-for-all-literature-on-8bc6999f"
+  },
   "/self-correctdrl-4259ed71": {
     "answered_at_utc": "2026-11-19T02:16:36.486Z",
     "first_seen_utc": "2026-11-19T02:26:21Z",
