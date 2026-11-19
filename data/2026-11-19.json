@@ -37,6 +37,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-research-librarian-fb8f0e84"
   },
+  "/act-as-a-researcher-in-dcff8da8": {
+    "answered_at_utc": "2026-11-19T04:05:00.903Z",
+    "first_seen_utc": "2026-11-19T04:07:01Z",
+    "question": "Act as a researcher in meteorological time-series forecasting. Find one peer-reviewed empirical article I can use as a methodological reference for a university project in R. My goal is to forecast hourly outdoor air temperature in Chachapoyas, Amazonas, Peru. My weather-station",
+    "topics": [
+      "Earth science",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-researcher-in-dcff8da8"
+  },
   "/are-the-documents-of-catholic-6eb4a783": {
     "answered_at_utc": "2026-11-19T02:50:48.802Z",
     "first_seen_utc": "2026-11-19T02:56:32Z",
