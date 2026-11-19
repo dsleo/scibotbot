@@ -7,5 +7,24 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/act-as-a-research-librarian-fb8f0e84"
+  },
+  "/continuous-experiments-with-carbon-materials-8595ade1": {
+    "answered_at_utc": "2026-11-19T00:11:25.149Z",
+    "first_seen_utc": "2026-11-19T00:15:34Z",
+    "question": "continuous experiments with carbon materials for microplastics removal from water",
+    "topics": [
+      "Chemistry",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/continuous-experiments-with-carbon-materials-8595ade1"
+  },
+  "/i-need-articles-about-infatuation-9f86abfd": {
+    "answered_at_utc": "2026-11-19T00:08:36.601Z",
+    "first_seen_utc": "2026-11-19T00:15:34Z",
+    "question": "I need articles about infatuation and monogamy in vertebrate animals. Mainly, the article needs to have information about animal physiology",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/i-need-articles-about-infatuation-9f86abfd"
   }
 }
