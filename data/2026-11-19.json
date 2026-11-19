@@ -66,6 +66,15 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-researcher-in-dcff8da8"
   },
+  "/act-as-a-scientific-literature-ffef7d85": {
+    "answered_at_utc": "2026-11-19T23:12:16.711Z",
+    "first_seen_utc": "2026-11-19T23:28:56Z",
+    "question": "Act as a scientific literature search assistant (SciBot). Search peer-reviewed articles, preprints, and authoritative technical reports in English that present models capable of modeling relative humidity (RH) data using the beta distribution, beta regression, or beta-based stoch",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-scientific-literature-ffef7d85"
+  },
   "/act-as-an-experienced-ux-fd41fbfa": {
     "answered_at_utc": "2026-11-19T13:08:56.676Z",
     "first_seen_utc": "2026-11-19T13:15:17Z",
@@ -730,6 +739,13 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/im-searching-for-sounds-noisessmells-20513803"
+  },
+  "/in-research-instruments-what-is-4ab05872": {
+    "answered_at_utc": "2026-11-19T23:14:57.846Z",
+    "first_seen_utc": "2026-11-19T23:28:56Z",
+    "question": "In research instruments, what is the analysis matrix?",
+    "topics": [],
+    "url": "https://sci-bot.ru/in-research-instruments-what-is-4ab05872"
   },
   "/influence-on-the-learning-of-dc4a907e": {
     "answered_at_utc": "2026-11-19T04:30:20.026Z",
