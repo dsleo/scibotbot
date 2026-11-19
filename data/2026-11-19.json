@@ -141,6 +141,16 @@
     ],
     "url": "https://sci-bot.ru/bioinspired-multimodal-robotics-4c07ff51"
   },
+  "/cathodic-hydrogen-charging-and-6061-c680528d": {
+    "answered_at_utc": "2026-11-19T13:29:55.572Z",
+    "first_seen_utc": "2026-11-19T13:35:31Z",
+    "question": "\"cathodic hydrogen charging\" AND (\"6061\" OR \"aluminum alloy\") AND \"ammonium thiocyanate\" AND \"current density\"",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/cathodic-hydrogen-charging-and-6061-c680528d"
+  },
   "/centella-asiatica-skin-regeneration-evidence-fcc0c733": {
     "answered_at_utc": "2026-11-19T09:06:45.466Z",
     "first_seen_utc": "2026-11-19T09:13:33Z",
@@ -198,6 +208,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/continuous-experiments-with-carbon-materials-8595ade1"
+  },
+  "/data-on-celibacy-and-quality-d78f3604": {
+    "answered_at_utc": "2026-11-19T13:27:43.832Z",
+    "first_seen_utc": "2026-11-19T13:35:31Z",
+    "question": "data on celibacy and quality of life in general and in women in particular",
+    "topics": [
+      "Psychology",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/data-on-celibacy-and-quality-d78f3604"
   },
   "/develop-a-comprehensive-10-year-f77a3ae8": {
     "answered_at_utc": "2026-11-19T08:36:04.421Z",
