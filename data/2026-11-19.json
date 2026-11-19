@@ -752,6 +752,15 @@
     ],
     "url": "https://sci-bot.ru/is-it-possible-to-transform-0bf1f92a"
   },
+  "/is-literature-regarding-adverse-events-ce22802a": {
+    "answered_at_utc": "2026-11-19T20:39:42.715Z",
+    "first_seen_utc": "2026-11-19T20:40:44Z",
+    "question": "is literature regarding adverse events on cats treated with palladia limited?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/is-literature-regarding-adverse-events-ce22802a"
+  },
   "/is-there-any-data-or-ec481461": {
     "answered_at_utc": "2026-11-19T18:44:20.044Z",
     "first_seen_utc": "2026-11-19T18:58:43Z",
@@ -864,6 +873,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/order-of-the-points-of-4c2deefc"
+  },
+  "/papers-on-housing-composition-change-f1c5d8be": {
+    "answered_at_utc": "2026-11-19T20:33:38.425Z",
+    "first_seen_utc": "2026-11-19T20:40:44Z",
+    "question": "papers on housing composition change and dynamics of demographics and fertility",
+    "topics": [
+      "Economics",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/papers-on-housing-composition-change-f1c5d8be"
   },
   "/papers-on-measuring-risk-in-95b129c3": {
     "answered_at_utc": "2026-11-19T16:29:58.615Z",
