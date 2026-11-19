@@ -1,4 +1,14 @@
 {
+  "/act-as-a-leading-expert-92e976e7": {
+    "answered_at_utc": "2026-11-19T00:48:14.047Z",
+    "first_seen_utc": "2026-11-19T00:55:51Z",
+    "question": "Act as a leading expert in metallurgy and materials science. I need your help drafting the DSC Calorimetry section for the analysis of the calorimetry results in my article. I am working on a nickel-based superalloy and using DSC to analyse the precipitation kinetics of gamma'.",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-leading-expert-92e976e7"
+  },
   "/act-as-a-research-librarian-fb8f0e84": {
     "answered_at_utc": "2026-11-18T23:58:58.536Z",
     "first_seen_utc": "2026-11-19T00:05:28Z",
