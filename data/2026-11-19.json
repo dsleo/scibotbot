@@ -56,6 +56,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-researcher-in-dcff8da8"
   },
+  "/act-as-an-experienced-ux-fd41fbfa": {
+    "answered_at_utc": "2026-11-19T13:08:56.676Z",
+    "first_seen_utc": "2026-11-19T13:15:17Z",
+    "question": "Act as an experienced UX Researcher & academic literature analyst. Synthesize current evidence on: toolbar Conduct an evidence-based review using academic, conference, and industry sources. Structure the output: ## 1. Research Overview - Brief description of the topic - Rel",
+    "topics": [
+      "Computer science",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/act-as-an-experienced-ux-fd41fbfa"
+  },
   "/adaptive-beam-pointing-control-of-dda58bc9": {
     "answered_at_utc": "2026-11-19T06:07:01.659Z",
     "first_seen_utc": "2026-11-19T06:11:46Z",
@@ -397,6 +407,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/how-do-recent-articles-explain-c6325f0b"
+  },
+  "/how-does-u-pb-detrital-e6e69d84": {
+    "answered_at_utc": "2026-11-19T13:11:59.592Z",
+    "first_seen_utc": "2026-11-19T13:15:17Z",
+    "question": "how does U-Pb detrital zircon data from Ediacaran sediments of the Ossa-Morena Zone compare to data from the Narcea formation in the Cantabrian Zone and to data from Grandmont Formation in the Montagne Noire (Massif Central, France), what does it mean in a paleogeographic and geo",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/how-does-u-pb-detrital-e6e69d84"
   },
   "/how-much-would-it-cost-e109bc97": {
     "answered_at_utc": "2026-11-19T03:22:30.868Z",
