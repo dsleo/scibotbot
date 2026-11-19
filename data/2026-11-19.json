@@ -228,6 +228,15 @@
     ],
     "url": "https://sci-bot.ru/do-a-focussed-review-of-d986a038"
   },
+  "/do-a-literature-review-on-c5eb26cf": {
+    "answered_at_utc": "2026-11-19T12:26:54.054Z",
+    "first_seen_utc": "2026-11-19T12:35:00Z",
+    "question": "do a literature review on scientometric/bibliometric/triple helix studies of a national s&T system that compare sectors and sectoral collaboration trend and supplemented the analysis with qualitative interviews.",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/do-a-literature-review-on-c5eb26cf"
+  },
   "/do-a-review-on-the-2ea953e2": {
     "answered_at_utc": "2026-11-19T06:26:59.735Z",
     "first_seen_utc": "2026-11-19T06:31:51Z",
@@ -368,6 +377,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/gt-act-as-an-expert-969c70e4"
+  },
+  "/how-do-recent-articles-explain-c6325f0b": {
+    "answered_at_utc": "2026-11-19T12:21:30.963Z",
+    "first_seen_utc": "2026-11-19T12:35:00Z",
+    "question": "How do recent articles explain how textiles are sorted to direct products toward the right circular economy alternatives (reuse, recycle, repair, etc.)?",
+    "topics": [
+      "Earth science",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/how-do-recent-articles-explain-c6325f0b"
   },
   "/how-much-would-it-cost-e109bc97": {
     "answered_at_utc": "2026-11-19T03:22:30.868Z",
@@ -709,6 +728,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-are-the-key-marine-ba91a1f3"
+  },
+  "/what-are-the-statistics-on-5c24b948": {
+    "answered_at_utc": "2026-11-19T12:19:04.732Z",
+    "first_seen_utc": "2026-11-19T12:35:00Z",
+    "question": "What are the statistics on men's mental health in 2026? If that's not available, go no further than 2025.",
+    "topics": [
+      "Psychology",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-are-the-statistics-on-5c24b948"
   },
   "/what-can-you-tell-me-5eae0fa9": {
     "answered_at_utc": "2026-11-19T10:33:52.983Z",
