@@ -1,4 +1,13 @@
 {
+  "/3d-gaussian-splatting-and-change-5a2af0f3": {
+    "answered_at_utc": "2026-11-19T01:00:07.658Z",
+    "first_seen_utc": "2026-11-19T01:05:49Z",
+    "question": "3d gaussian splatting and change detecction",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/3d-gaussian-splatting-and-change-5a2af0f3"
+  },
   "/act-as-a-leading-expert-92e976e7": {
     "answered_at_utc": "2026-11-19T00:48:14.047Z",
     "first_seen_utc": "2026-11-19T00:55:51Z",
@@ -56,6 +65,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/i-need-articles-about-infatuation-9f86abfd"
+  },
+  "/im-searching-for-sounds-noisessmells-20513803": {
+    "answered_at_utc": "2026-11-19T01:05:26.323Z",
+    "first_seen_utc": "2026-11-19T01:05:49Z",
+    "question": "I'm searching for sounds, noises,smells, things of that nature that frighten dogs. A larger umbrella search would be for things that make dogs bark like crazy or make them run away in fear.",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/im-searching-for-sounds-noisessmells-20513803"
   },
   "/is-cbasp-more-effective-in-a9ca072e": {
     "answered_at_utc": "2026-11-19T00:34:10.395Z",
