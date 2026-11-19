@@ -266,6 +266,16 @@
     ],
     "url": "https://sci-bot.ru/influence-on-the-learning-of-dc4a907e"
   },
+  "/investigate-the-ductility-trough-during-cba41c7b": {
+    "answered_at_utc": "2026-11-19T05:56:16.366Z",
+    "first_seen_utc": "2026-11-19T06:01:38Z",
+    "question": "Investigate the ductility trough during continuous casting unbending, where Nb(C,N) precipitation at prior austenite grain boundaries causes embrittlement.",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/investigate-the-ductility-trough-during-cba41c7b"
+  },
   "/is-cbasp-more-effective-in-a9ca072e": {
     "answered_at_utc": "2026-11-19T00:34:10.395Z",
     "first_seen_utc": "2026-11-19T00:35:44Z",
@@ -313,6 +323,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/research-potential-dpdr-ptsd-and-47dff957"
+  },
+  "/research-prompt-estimate-the-global-3638d218": {
+    "answered_at_utc": "2026-11-19T05:52:39.187Z",
+    "first_seen_utc": "2026-11-19T06:01:38Z",
+    "question": "Research prompt Estimate the global installed base of metal directed energy deposition (DED) systems as of the latest year with credible data. Break it down by country, region, and technology, then estimate the material mix for each technology. I want machine counts that can info",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/research-prompt-estimate-the-global-3638d218"
   },
   "/self-correctdrl-4259ed71": {
     "answered_at_utc": "2026-11-19T02:16:36.486Z",
