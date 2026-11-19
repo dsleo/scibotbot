@@ -135,6 +135,15 @@
     ],
     "url": "https://sci-bot.ru/find-me-article-about-qrng-0ba40ad5"
   },
+  "/find-me-gs-geo-501-14ccc8ff": {
+    "answered_at_utc": "2026-11-19T04:55:12.638Z",
+    "first_seen_utc": "2026-11-19T04:57:30Z",
+    "question": "find me gs geo 501",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-me-gs-geo-501-14ccc8ff"
+  },
   "/give-me-some-basic-questions-d9744557": {
     "answered_at_utc": "2026-11-19T01:36:38.225Z",
     "first_seen_utc": "2026-11-19T01:46:10Z",
@@ -182,6 +191,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/i-need-literature-on-offine-c1fbf033"
+  },
+  "/im-interested-in-training-full-f7a4da75": {
+    "answered_at_utc": "2026-11-19T04:47:53.073Z",
+    "first_seen_utc": "2026-11-19T04:57:30Z",
+    "question": "i'm interested in training full system endurance. One thing that I find interesting is that \"strength\" often covers low rep high intensity full body work, while endurance is often running and cycling. Sometimes it might include rowing or swimming for more full body. I'm intereste",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/im-interested-in-training-full-f7a4da75"
   },
   "/im-searching-for-sounds-noisessmells-20513803": {
     "answered_at_utc": "2026-11-19T01:05:26.323Z",
