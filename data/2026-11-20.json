@@ -245,6 +245,16 @@
     ],
     "url": "https://sci-bot.ru/current-knowledge-on-the-vbnc-71680b43"
   },
+  "/dance-and-ghosting-6f603b62": {
+    "answered_at_utc": "2026-11-20T18:31:33.866Z",
+    "first_seen_utc": "2026-11-20T18:49:49Z",
+    "question": "dance and ghosting",
+    "topics": [
+      "Arts",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/dance-and-ghosting-6f603b62"
+  },
   "/design-of-global-relay-protection-9f9d7cff": {
     "answered_at_utc": "2026-11-20T05:54:36.551Z",
     "first_seen_utc": "2026-11-20T05:56:23Z",
@@ -721,6 +731,16 @@
     ],
     "url": "https://sci-bot.ru/reproductive-behaviour-sharks-9cb5dfa6"
   },
+  "/research-on-whether-the-lethality-79b43a2e": {
+    "answered_at_utc": "2026-11-20T18:49:06.121Z",
+    "first_seen_utc": "2026-11-20T18:49:49Z",
+    "question": "research on whether the lethality risk factors of strangulation translate over to people who use strangulation only while they are in a state of psychosis?",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/research-on-whether-the-lethality-79b43a2e"
+  },
   "/rigorous-scientific-and-mathematical-theories-35901e95": {
     "answered_at_utc": "2026-11-20T17:32:28.585Z",
     "first_seen_utc": "2026-11-20T17:36:47Z",
@@ -844,6 +864,16 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/the-use-of-stochastic-processes-ba7baa47"
+  },
+  "/top-10-paper-about-aptamer-e3fa5018": {
+    "answered_at_utc": "2026-11-20T18:28:44.834Z",
+    "first_seen_utc": "2026-11-20T18:49:49Z",
+    "question": "Top-10 paper about aptamer in experimantal neurobiology and immunology",
+    "topics": [
+      "Biomedicine",
+      "Neuroscience"
+    ],
+    "url": "https://sci-bot.ru/top-10-paper-about-aptamer-e3fa5018"
   },
   "/verify-the-accuracy-of-the-7a8f6917": {
     "answered_at_utc": "2026-11-20T15:16:30.093Z",
