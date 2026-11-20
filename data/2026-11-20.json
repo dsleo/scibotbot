@@ -47,6 +47,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-an-expert-in-0cff1462"
   },
+  "/ammonium-thiocyanate-and-hydrogen-permeation-9ab972dc": {
+    "answered_at_utc": "2026-11-20T09:05:19.909Z",
+    "first_seen_utc": "2026-11-20T09:07:22Z",
+    "question": "\"ammonium thiocyanate\" AND \"hydrogen permeation\" AND \"aluminium\" AND \"overpotential\"",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/ammonium-thiocyanate-and-hydrogen-permeation-9ab972dc"
+  },
   "/aqu-tienes-la-traduccin-al-18723b90": {
     "answered_at_utc": "2026-11-20T06:01:34.967Z",
     "first_seen_utc": "2026-11-20T06:06:27Z",
@@ -409,5 +419,15 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/what-is-the-literature-that-62da7a4c"
+  },
+  "/write-a-simple-but-clear-d7e96c1b": {
+    "answered_at_utc": "2026-11-20T09:01:09.587Z",
+    "first_seen_utc": "2026-11-20T09:07:22Z",
+    "question": "write a simple but clear scientifically grounded meta analysis overview from all recent published papers on acne scar formation and explain the contributing factors",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/write-a-simple-but-clear-d7e96c1b"
   }
 }
