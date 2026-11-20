@@ -67,6 +67,16 @@
     ],
     "url": "https://sci-bot.ru/aqu-tienes-la-traduccin-al-18723b90"
   },
+  "/are-there-publications-where-ontology-b91b7bd4": {
+    "answered_at_utc": "2026-11-20T15:02:58.587Z",
+    "first_seen_utc": "2026-11-20T15:25:52Z",
+    "question": "Are there publications where ontology-derived clinical features are related to biomarkers (MRI or other)? Focus on neurodegenerative and cerebrovascular disease, but mention other diseases briefly",
+    "topics": [
+      "Biomedicine",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/are-there-publications-where-ontology-b91b7bd4"
+  },
   "/assume-you-are-a-steel-c39052d6": {
     "answered_at_utc": "2026-11-20T05:09:00.308Z",
     "first_seen_utc": "2026-11-20T05:14:27Z",
@@ -722,6 +732,15 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/the-use-of-stochastic-processes-ba7baa47"
+  },
+  "/verify-the-accuracy-of-the-7a8f6917": {
+    "answered_at_utc": "2026-11-20T15:16:30.093Z",
+    "first_seen_utc": "2026-11-20T15:25:52Z",
+    "question": "verify the accuracy of the following claims and substantiate your answers with strong evidence 1. Australia’s research and development (R&D) system is internationally recognised for its collaborative and industry-aligned structure. 2. Central to this system are the Rural Research",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/verify-the-accuracy-of-the-7a8f6917"
   },
   "/vitamin-b5d-and-e-for-55a11e74": {
     "answered_at_utc": "2026-11-20T04:26:41.719Z",
