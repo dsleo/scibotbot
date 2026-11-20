@@ -18,6 +18,16 @@
     ],
     "url": "https://sci-bot.ru/empirical-and-theoretical-studies-on-79b40575"
   },
+  "/freudenberger-h-j-1974-staff-97e02302": {
+    "answered_at_utc": "2026-11-20T00:58:43.038Z",
+    "first_seen_utc": "2026-11-20T01:10:53Z",
+    "question": "Freudenberger, H. J. (1974). Staff burn-out. Journal of Social Issues, 30(1), 159-165.",
+    "topics": [
+      "Psychology",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/freudenberger-h-j-1974-staff-97e02302"
+  },
   "/in-research-techniques-which-is-1c1536b2": {
     "answered_at_utc": "2026-11-20T00:15:42.761Z",
     "first_seen_utc": "2026-11-20T00:19:26Z",
@@ -26,5 +36,14 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/in-research-techniques-which-is-1c1536b2"
+  },
+  "/what-does-human-resource-development-b4efa380": {
+    "answered_at_utc": "2026-11-20T01:02:58.389Z",
+    "first_seen_utc": "2026-11-20T01:10:53Z",
+    "question": "what does human resource development field say about employees training and emotional intelligence training for employees",
+    "topics": [
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/what-does-human-resource-development-b4efa380"
   }
 }
