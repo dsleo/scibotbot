@@ -115,6 +115,16 @@
     ],
     "url": "https://sci-bot.ru/beyond-asabiyyah-overcoming-group-solidarity-996ec339"
   },
+  "/bic-crystal-7327891c": {
+    "answered_at_utc": "2026-11-20T21:55:54.853Z",
+    "first_seen_utc": "2026-11-20T22:05:34Z",
+    "question": "bic crystal",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/bic-crystal-7327891c"
+  },
   "/binders-and-dispersants-in-active-a2a5d338": {
     "answered_at_utc": "2026-11-20T09:27:48.039Z",
     "first_seen_utc": "2026-11-20T09:47:43Z",
@@ -995,6 +1005,15 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/top-10-paper-about-aptamer-e3fa5018"
+  },
+  "/towards-a-testing-tool-that-1f7dd1af": {
+    "answered_at_utc": "2026-11-20T22:02:00.846Z",
+    "first_seen_utc": "2026-11-20T22:05:34Z",
+    "question": "Towards a Testing Tool that Learns to Test",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/towards-a-testing-tool-that-1f7dd1af"
   },
   "/verify-the-accuracy-of-the-7a8f6917": {
     "answered_at_utc": "2026-11-20T15:16:30.093Z",
