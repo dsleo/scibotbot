@@ -76,6 +76,15 @@
     ],
     "url": "https://sci-bot.ru/assume-you-are-a-steel-c39052d6"
   },
+  "/best-ways-to-transfer-complete-f5d6eab1": {
+    "answered_at_utc": "2026-11-20T11:15:00.037Z",
+    "first_seen_utc": "2026-11-20T11:18:22Z",
+    "question": "Best ways to transfer complete data between two different chat sessions that use the same model. For example transfering chat.z.ai's chat session using GLM 5.3 to ZCode chat session using GLM 5.3 and vice versa. When I say like all knowledge, I mean all or as much as possible. If",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/best-ways-to-transfer-complete-f5d6eab1"
+  },
   "/beyond-asabiyyah-overcoming-group-solidarity-996ec339": {
     "answered_at_utc": "2026-11-20T06:43:03.113Z",
     "first_seen_utc": "2026-11-20T06:46:43Z",
