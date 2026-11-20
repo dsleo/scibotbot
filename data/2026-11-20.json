@@ -216,6 +216,15 @@
     ],
     "url": "https://sci-bot.ru/empirical-research-testing-whether-metacognitive-a29566a6"
   },
+  "/family-ownership-and-firm-performance-50e6379e": {
+    "answered_at_utc": "2026-11-20T11:36:09.438Z",
+    "first_seen_utc": "2026-11-20T11:38:35Z",
+    "question": "Family Ownership and Firm Performance: Moderating Role of Disclosure / Transparency.",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/family-ownership-and-firm-performance-50e6379e"
+  },
   "/find-books-and-peer-reviewed-c4a50fea": {
     "answered_at_utc": "2026-11-20T06:32:07.332Z",
     "first_seen_utc": "2026-11-20T06:36:38Z",
@@ -562,5 +571,14 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/write-a-simple-but-clear-d7e96c1b"
+  },
+  "/write-for-theories-on-which-cab6fe1a": {
+    "answered_at_utc": "2026-11-20T11:33:28.124Z",
+    "first_seen_utc": "2026-11-20T11:38:35Z",
+    "question": "write for theories on which i can ground the study of factors of postharvest losses and their impact on income and food securityclearly bringing out its assumptions , criticism and how it can be applied to the different analytical models",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/write-for-theories-on-which-cab6fe1a"
   }
 }
