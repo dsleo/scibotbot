@@ -245,6 +245,15 @@
     ],
     "url": "https://sci-bot.ru/empirical-research-testing-whether-metacognitive-a29566a6"
   },
+  "/explain-to-me-gaafet-3127277f": {
+    "answered_at_utc": "2026-11-20T13:24:22.742Z",
+    "first_seen_utc": "2026-11-20T13:29:40Z",
+    "question": "Explain to me GAAFET",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/explain-to-me-gaafet-3127277f"
+  },
   "/family-ownership-and-firm-performance-50e6379e": {
     "answered_at_utc": "2026-11-20T11:36:09.438Z",
     "first_seen_utc": "2026-11-20T11:38:35Z",
@@ -578,6 +587,15 @@
       "Mathematics"
     ],
     "url": "https://sci-bot.ru/on-continuity-of-fixed-points-aa772160"
+  },
+  "/reproductive-behaviour-sharks-9cb5dfa6": {
+    "answered_at_utc": "2026-11-20T13:28:28.859Z",
+    "first_seen_utc": "2026-11-20T13:29:40Z",
+    "question": "Reproductive behaviour sharks",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/reproductive-behaviour-sharks-9cb5dfa6"
   },
   "/summaries-of-well-cited-research-0b4b8169": {
     "answered_at_utc": "2026-11-20T08:53:52.109Z",
