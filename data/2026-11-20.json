@@ -617,6 +617,15 @@
     ],
     "url": "https://sci-bot.ru/reproductive-behaviour-sharks-9cb5dfa6"
   },
+  "/scientific-articles-presenting-recommendations-for-97ff8e48": {
+    "answered_at_utc": "2026-11-20T13:45:56.386Z",
+    "first_seen_utc": "2026-11-20T13:49:56Z",
+    "question": "\"Scientific articles presenting recommendations for future research (Future Research Directions) and identifying gaps in the literature regarding the influence of marketing, brands, and society on first-time parents’ perceived needs and purchasing decision-making processes for ba",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/scientific-articles-presenting-recommendations-for-97ff8e48"
+  },
   "/summaries-of-well-cited-research-0b4b8169": {
     "answered_at_utc": "2026-11-20T08:53:52.109Z",
     "first_seen_utc": "2026-11-20T08:57:30Z",
@@ -751,5 +760,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/write-for-theories-on-which-cab6fe1a"
+  },
+  "/zno-nps-and-chamomile-compared-15e21e9a": {
+    "answered_at_utc": "2026-11-20T13:49:52.476Z",
+    "first_seen_utc": "2026-11-20T13:49:56Z",
+    "question": "ZnO NPs and chamomile compared ZnO NPs and propolis",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/zno-nps-and-chamomile-compared-15e21e9a"
   }
 }
