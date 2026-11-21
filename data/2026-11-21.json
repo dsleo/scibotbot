@@ -191,6 +191,15 @@
     ],
     "url": "https://sci-bot.ru/dental-prosthesis-3ed174a0"
   },
+  "/detailed-litterature-review-integration-of-32b76eb7": {
+    "answered_at_utc": "2026-11-21T14:28:04.052Z",
+    "first_seen_utc": "2026-11-21T14:31:06Z",
+    "question": "Detailed Litterature Review: Integration of BIM and LADM for 3D Cadastre.",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/detailed-litterature-review-integration-of-32b76eb7"
+  },
   "/development-and-evaluation-of-a-84cb8d6a": {
     "answered_at_utc": "2026-11-21T12:34:31.249Z",
     "first_seen_utc": "2026-11-21T13:15:37Z",
@@ -381,6 +390,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-looking-for-papers-341d407a"
   },
+  "/i-need-an-intro-for-c8528885": {
+    "answered_at_utc": "2026-11-21T13:59:18.572Z",
+    "first_seen_utc": "2026-11-21T14:31:06Z",
+    "question": "i need an intro for this - Utilização de Organóides e Organ-on-a-Chip na Investigação Pré-Clínica - Problemas e Benefícios? - i would like the intro to focus on the different historical hallmarks in preclinical investigation and how these advances represent a revolution and parad",
+    "topics": [
+      "Biomedicine",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/i-need-an-intro-for-c8528885"
+  },
   "/i-want-a-list-of-2d64efc1": {
     "answered_at_utc": "2026-11-21T03:30:33.144Z",
     "first_seen_utc": "2026-11-21T03:37:15Z",
@@ -543,6 +562,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/motor-metacognition-sensorimotor-error-monitoring-ca2f80c4"
+  },
+  "/motor-metacognition-sensorimotor-error-monitoring-d61e0a4a": {
+    "answered_at_utc": "2026-11-21T14:26:54.760Z",
+    "first_seen_utc": "2026-11-21T14:31:06Z",
+    "question": "Motor metacognition, sensorimotor error monitoring, awareness of motor execution variability, and computational links between metacognitive confidence and sense of agency",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/motor-metacognition-sensorimotor-error-monitoring-d61e0a4a"
   },
   "/my-objective-is-impact-of-a636ad12": {
     "answered_at_utc": "2026-11-21T11:05:45.001Z",
@@ -894,6 +923,16 @@
     ],
     "url": "https://sci-bot.ru/write-a-literature-review-on-c5330207"
   },
+  "/write-a-short-review-article-45fda813": {
+    "answered_at_utc": "2026-11-21T14:24:19.367Z",
+    "first_seen_utc": "2026-11-21T14:31:06Z",
+    "question": "Write a short review article on the latest innovations and challenges of Biomaterial for cardiovascular implants. Suggested structure: Introduction, different applications, stents, valves, conclusions. Use few references (about 5-8) but the most cited and relevant ones, from the",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/write-a-short-review-article-45fda813"
+  },
   "/you-are-screening-records-for-a2fc2842": {
     "answered_at_utc": "2026-11-21T10:54:25.860Z",
     "first_seen_utc": "2026-11-21T12:00:00Z",
@@ -902,5 +941,14 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/you-are-screening-records-for-a2fc2842"
+  },
+  "/zone-2-cardio-61903892": {
+    "answered_at_utc": "2026-11-21T14:08:32.765Z",
+    "first_seen_utc": "2026-11-21T14:31:06Z",
+    "question": "Zone 2 Cardio",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/zone-2-cardio-61903892"
   }
 }
