@@ -67,6 +67,16 @@
     ],
     "url": "https://sci-bot.ru/applied-and-embodied-dimensions-of-a51bc6d1"
   },
+  "/are-there-any-works-regarding-6d98ef12": {
+    "answered_at_utc": "2026-11-21T22:53:22.764Z",
+    "first_seen_utc": "2026-11-21T22:55:05Z",
+    "question": "are there any works regarding il@mof or il@zif that utilize the darken equation to calculate the thermodynamic factor gamma using the adsorption isotherm? if so are there reported values that ar greater than 1?",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/are-there-any-works-regarding-6d98ef12"
+  },
   "/are-there-publications-on-transdiagnostic-9ece5a22": {
     "answered_at_utc": "2026-11-21T13:32:44.675Z",
     "first_seen_utc": "2026-11-21T13:52:22Z",
@@ -1111,6 +1121,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/please-find-me-deep-search-b9ba1a41"
+  },
+  "/please-review-the-current-state-d90380bc": {
+    "answered_at_utc": "2026-11-21T22:50:23.618Z",
+    "first_seen_utc": "2026-11-21T22:55:05Z",
+    "question": "please review the current state of the art in AC/DC transfer devices upto 100 MHz. Focus specifically on the metrolgy grade devices like the Fluke A55 tvc, nist mjtvc, primary standard caloriemeters. Also please devise from available literature a method for the verification of t",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/please-review-the-current-state-d90380bc"
   },
   "/polyendocrine-picture-of-metabolic-syndrome-e18610b4": {
     "answered_at_utc": "2026-11-21T21:27:47.979Z",
