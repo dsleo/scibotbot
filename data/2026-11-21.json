@@ -27,6 +27,16 @@
     ],
     "url": "https://sci-bot.ru/developmental-psychology-studies-on-the-7d9faa70"
   },
+  "/find-literature-from-scopus-web-02bc78d0": {
+    "answered_at_utc": "2026-11-21T03:14:58.089Z",
+    "first_seen_utc": "2026-11-21T03:17:22Z",
+    "question": "find literature from scopus, web of science, pub med and others related to disease ecotoxicology studies in sloth bear + asiatic black bear + himalayan brown bear + sun bear in India and neighbouring countries. Find every possible literature across all the databases",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-literature-from-scopus-web-02bc78d0"
+  },
   "/how-can-the-johnson-cook-920513a7": {
     "answered_at_utc": "2026-11-21T01:22:15.513Z",
     "first_seen_utc": "2026-11-21T01:26:37Z",
@@ -46,6 +56,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/how-would-you-interpret-this-13c547f5"
+  },
+  "/i-am-looking-for-papers-341d407a": {
+    "answered_at_utc": "2026-11-21T03:09:19.478Z",
+    "first_seen_utc": "2026-11-21T03:17:22Z",
+    "question": "I am looking for papers describing the physiology of vitamins.",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/i-am-looking-for-papers-341d407a"
   },
   "/identify-and-provide-examples-of-1b750441": {
     "answered_at_utc": "2026-11-21T02:46:51.702Z",
@@ -73,6 +92,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/ive-read-the-following-about-4bd67457"
+  },
+  "/lifespan-aging-research-on-metamemory-0a041424": {
+    "answered_at_utc": "2026-11-21T03:17:14.342Z",
+    "first_seen_utc": "2026-11-21T03:17:22Z",
+    "question": "Lifespan aging research on metamemory preservation and decline in healthy older adults, mild cognitive impairment (MCI), and anosognosia in Alzheimer's disease and neurodegenerative disorders.",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/lifespan-aging-research-on-metamemory-0a041424"
   },
   "/metabolic-sympdrome-scoring-89af551c": {
     "answered_at_utc": "2026-11-21T02:28:27.483Z",
