@@ -110,5 +110,15 @@
       "Literature"
     ],
     "url": "https://sci-bot.ru/what-literature-can-assist-me-056643d5"
+  },
+  "/what-literature-is-there-on-f15df05d": {
+    "answered_at_utc": "2026-11-21T02:05:57.009Z",
+    "first_seen_utc": "2026-11-21T02:06:45Z",
+    "question": "What literature is there on whether separability is a reasonable restriction to put on social welfare functions?",
+    "topics": [
+      "Economics",
+      "Philosophy"
+    ],
+    "url": "https://sci-bot.ru/what-literature-is-there-on-f15df05d"
   }
 }
