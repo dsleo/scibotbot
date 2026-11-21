@@ -37,6 +37,16 @@
     ],
     "url": "https://sci-bot.ru/how-can-the-johnson-cook-920513a7"
   },
+  "/how-would-you-interpret-this-13c547f5": {
+    "answered_at_utc": "2026-11-21T02:22:20.606Z",
+    "first_seen_utc": "2026-11-21T02:27:09Z",
+    "question": "How would you interpret this symptom from a psychoanalytic perspective l? A depressive woman with borderline traits develop persistent pain and severe discomfort in her bite after dental treatment, during which occlusal support on one of her teeth was removed. Since then, she ha",
+    "topics": [
+      "Psychology",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-would-you-interpret-this-13c547f5"
+  },
   "/im-interested-in-introducing-pogosjumpingskipping-3d8830cb": {
     "answered_at_utc": "2026-11-21T00:02:56.082Z",
     "first_seen_utc": "2026-11-21T00:06:09Z",
@@ -120,5 +130,14 @@
       "Philosophy"
     ],
     "url": "https://sci-bot.ru/what-literature-is-there-on-f15df05d"
+  },
+  "/why-are-traditional-plant-fibre-85e5154e": {
+    "answered_at_utc": "2026-11-21T02:19:51.125Z",
+    "first_seen_utc": "2026-11-21T02:27:09Z",
+    "question": "Why are traditional plant-fibre roofs in rural Peru and Bolivia being replaced by calamina (corrugated metal), and what are the cultural and social consequences",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/why-are-traditional-plant-fibre-85e5154e"
   }
 }
