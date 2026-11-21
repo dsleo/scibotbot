@@ -1,4 +1,13 @@
 {
+  "/a-case-study-on-migrating-40bae826": {
+    "answered_at_utc": "2026-11-21T13:28:01.965Z",
+    "first_seen_utc": "2026-11-21T13:31:59Z",
+    "question": "A CASE STUDY ON MIGRATING TOWARDS FUNCTIONALLY SAFE ZONAL ARCHITECTURE USING MBSE",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/a-case-study-on-migrating-40bae826"
+  },
   "/according-to-cars-based-genre-02e1592d": {
     "answered_at_utc": "2026-11-21T03:23:54.899Z",
     "first_seen_utc": "2026-11-21T03:27:12Z",
@@ -628,6 +637,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/stress-wave-propagation-in-standing-eaa804d5"
+  },
+  "/systematic-literature-review-on-social-f6ad5ed2": {
+    "answered_at_utc": "2026-11-21T13:25:52.513Z",
+    "first_seen_utc": "2026-11-21T13:31:59Z",
+    "question": "systematic literature review on Social case work",
+    "topics": [
+      "Humanities",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/systematic-literature-review-on-social-f6ad5ed2"
   },
   "/tell-me-some-cool-research-5181a5aa": {
     "answered_at_utc": "2026-11-21T09:57:42.478Z",
