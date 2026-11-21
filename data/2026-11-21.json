@@ -365,6 +365,16 @@
     ],
     "url": "https://sci-bot.ru/do-large-seromas-resolve-on-8de501d8"
   },
+  "/do-you-have-literature-about-960af905": {
+    "answered_at_utc": "2026-11-21T21:16:30.370Z",
+    "first_seen_utc": "2026-11-21T21:24:46Z",
+    "question": "do you have literature about rem koolhaas?",
+    "topics": [
+      "Arts",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/do-you-have-literature-about-960af905"
+  },
   "/does-a-change-in-gardasil-14178d52": {
     "answered_at_utc": "2026-11-21T18:39:36.625Z",
     "first_seen_utc": "2026-11-21T18:43:39Z",
@@ -737,6 +747,15 @@
     "question": "Intersections of equitable partitions of graphs without self-loops Already have: Stewart 2007, The lattice of balanced equivalence relations of a coupled cell network; Kamei et al. 2013, Computation of balanced equivalence relations and their lattice; Schaub et al. 2016, Graph pa",
     "topics": [],
     "url": "https://sci-bot.ru/intersections-of-equitable-partitions-of-3c81b30d"
+  },
+  "/intersections-of-regular-role-equivalences-64d73537": {
+    "answered_at_utc": "2026-11-21T21:24:01.854Z",
+    "first_seen_utc": "2026-11-21T21:24:46Z",
+    "question": "Intersections of regular (role) equivalences of directed graphs Known but not held (do not re-report): White et al. 1983, Graph and semigroup homomorphisms on networks of relations; Borgatti et al. 1989, The class of all regular equivalences: algebraic structure and computation;",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/intersections-of-regular-role-equivalences-64d73537"
   },
   "/is-it-true-that-music-953240d4": {
     "answered_at_utc": "2026-11-21T20:16:31.419Z",
@@ -1218,6 +1237,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/what-are-studies-that-look-bdd43121"
+  },
+  "/what-are-the-data-on-93ac4427": {
+    "answered_at_utc": "2026-11-21T21:18:47.072Z",
+    "first_seen_utc": "2026-11-21T21:24:46Z",
+    "question": "what are the data on literacy in europe",
+    "topics": [
+      "Education",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/what-are-the-data-on-93ac4427"
   },
   "/what-are-the-established-typologies-5d737022": {
     "answered_at_utc": "2026-11-21T15:05:45.764Z",
