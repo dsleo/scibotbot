@@ -657,6 +657,16 @@
     ],
     "url": "https://sci-bot.ru/how-often-do-people-that-331f4d16"
   },
+  "/how-would-one-extrude-a-45032a19": {
+    "answered_at_utc": "2026-11-21T21:39:39.137Z",
+    "first_seen_utc": "2026-11-21T21:44:42Z",
+    "question": "How would one extrude a 2d curved vector drawing along a 2D transformation matrix; at least translate and rotate; such that the extrusion lines align to both the extrema of the original and transformed paths.",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/how-would-one-extrude-a-45032a19"
+  },
   "/how-would-you-interpret-this-13c547f5": {
     "answered_at_utc": "2026-11-21T02:22:20.606Z",
     "first_seen_utc": "2026-11-21T02:27:09Z",
