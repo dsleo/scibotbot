@@ -1,4 +1,13 @@
 {
+  "/act-as-an-international-human-75b0817c": {
+    "answered_at_utc": "2026-11-21T01:20:01.839Z",
+    "first_seen_utc": "2026-11-21T01:26:37Z",
+    "question": "Act as an International Human Resource Management (IHRM) academic researcher. Search for and synthesize high-quality, peer-reviewed studies and documented corporate case studies to inform the design of a formal internal mentoring program matching the following exact organizationa",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/act-as-an-international-human-75b0817c"
+  },
   "/baroque-music-review-b4cd9d5b": {
     "answered_at_utc": "2026-11-21T01:12:07.651Z",
     "first_seen_utc": "2026-11-21T01:16:33Z",
@@ -8,6 +17,16 @@
       "History"
     ],
     "url": "https://sci-bot.ru/baroque-music-review-b4cd9d5b"
+  },
+  "/how-can-the-johnson-cook-920513a7": {
+    "answered_at_utc": "2026-11-21T01:22:15.513Z",
+    "first_seen_utc": "2026-11-21T01:26:37Z",
+    "question": "How can the Johnson-Cook model parameters be determined? Is it possible to obtain them using digital holographic interferometry?",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/how-can-the-johnson-cook-920513a7"
   },
   "/im-interested-in-introducing-pogosjumpingskipping-3d8830cb": {
     "answered_at_utc": "2026-11-21T00:02:56.082Z",
