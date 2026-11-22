@@ -103,6 +103,15 @@
     ],
     "url": "https://sci-bot.ru/is-it-truly-possible-to-01c2385b"
   },
+  "/journal-about-vision-fc3872e4": {
+    "answered_at_utc": "2026-11-22T03:58:25.393Z",
+    "first_seen_utc": "2026-11-22T04:06:48Z",
+    "question": "journal about vision",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/journal-about-vision-fc3872e4"
+  },
   "/looking-for-recent-psychological-qualitative-7b18784f": {
     "answered_at_utc": "2026-11-22T01:19:35.916Z",
     "first_seen_utc": "2026-11-22T01:25:59Z",
@@ -160,6 +169,15 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/metacomprehension-accuracy-in-reading-comprehension-9144e41e"
+  },
+  "/multiplicative-order-of-2-modulo-6036629a": {
+    "answered_at_utc": "2026-11-22T04:06:07.990Z",
+    "first_seen_utc": "2026-11-22T04:06:48Z",
+    "question": "Multiplicative order of 2 modulo a prime, Gauss periods over the binary field, and divisibility conditions from subfields of cyclotomic fields Already have: Breuer 2019, Periods of Ducci sequences; Martin et al. 1984, Algebraic properties of cellular automata; Moree 2012, Artin's",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/multiplicative-order-of-2-modulo-6036629a"
   },
   "/one-theorem-several-independent-proofs-9908dc52": {
     "answered_at_utc": "2026-11-22T02:58:53.942Z",
