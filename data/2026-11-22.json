@@ -188,6 +188,15 @@
     ],
     "url": "https://sci-bot.ru/conduct-a-critical-literature-review-be3041ab"
   },
+  "/could-explain-in-elementary-way-2598c9f6": {
+    "answered_at_utc": "2026-11-22T15:32:49.645Z",
+    "first_seen_utc": "2026-11-22T15:38:16Z",
+    "question": "Could explain in elementary way the fundamentals about quantile regression, perhaps with an example?",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/could-explain-in-elementary-way-2598c9f6"
+  },
   "/creative-metacognition-self-evaluation-of-ad3f4764": {
     "answered_at_utc": "2026-11-22T00:44:30.885Z",
     "first_seen_utc": "2026-11-22T00:45:45Z",
@@ -1132,6 +1141,15 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/structural-balance-and-frustration-in-2dc834e3"
+  },
+  "/summarize-evidence-on-coffees-stomach-586db5be": {
+    "answered_at_utc": "2026-11-22T15:30:23.121Z",
+    "first_seen_utc": "2026-11-22T15:38:16Z",
+    "question": "Summarize evidence on coffee’s stomach-related harms, other side effects, who should avoid or limit it, and whether espresso is more harmful than drip coffee. Distinguish established risks from individual triggers.",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/summarize-evidence-on-coffees-stomach-586db5be"
   },
   "/summarize-the-knowledge-on-connectivity-9407ce07": {
     "answered_at_utc": "2026-11-22T15:16:19.075Z",
