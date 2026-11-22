@@ -232,6 +232,15 @@
     ],
     "url": "https://sci-bot.ru/how-to-justify-nmr-chemical-9a255ac2"
   },
+  "/how-was-the-publics-attitude-9c34b891": {
+    "answered_at_utc": "2026-11-22T08:57:08.113Z",
+    "first_seen_utc": "2026-11-22T08:58:38Z",
+    "question": "how was the publics attitude toward amputees in the late 1900s",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/how-was-the-publics-attitude-9c34b891"
+  },
   "/humanity-has-invented-many-mechanisms-59a3ae96": {
     "answered_at_utc": "2026-11-22T07:01:37.870Z",
     "first_seen_utc": "2026-11-22T07:08:00Z",
@@ -279,6 +288,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/i-need-literature-about-digital-2e12e98e"
+  },
+  "/i-want-to-write-a-3cc235cf": {
+    "answered_at_utc": "2026-11-22T08:54:36.287Z",
+    "first_seen_utc": "2026-11-22T08:58:38Z",
+    "question": "i want to write a phd on the quality of life after vulvectomy and lymphanedectomy",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/i-want-to-write-a-3cc235cf"
   },
   "/interpersonal-and-social-metacognition-dyadic-9672967b": {
     "answered_at_utc": "2026-11-22T04:44:06.094Z",
@@ -447,6 +466,15 @@
       "Mathematics"
     ],
     "url": "https://sci-bot.ru/multiplicative-order-of-2-modulo-6036629a"
+  },
+  "/multiplicative-order-of-2-modulo-a260d8db": {
+    "answered_at_utc": "2026-11-22T08:49:05.313Z",
+    "first_seen_utc": "2026-11-22T08:58:38Z",
+    "question": "Multiplicative order of 2 modulo a prime, Gauss periods over the binary field, and divisibility conditions from subfields of cyclotomic fields Already have: Breuer 2019, Periods of Ducci sequences; Martin et al. 1984, Algebraic properties of cellular automata; Moree 2012, Artin's",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/multiplicative-order-of-2-modulo-a260d8db"
   },
   "/multiplicative-order-of-2-modulo-eb45b978": {
     "answered_at_utc": "2026-11-22T04:29:26.537Z",
