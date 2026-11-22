@@ -9,6 +9,16 @@
     ],
     "url": "https://sci-bot.ru/3-examples-of-recent-psychological-a86be34f"
   },
+  "/act-as-an-expert-academic-93fa8227": {
+    "answered_at_utc": "2026-11-22T09:00:41.753Z",
+    "first_seen_utc": "2026-11-22T09:08:28Z",
+    "question": "Act as an expert academic researcher in Educational Technology, Computer Science Education, and Gamification. Conduct a comprehensive literature review (2015–2026) on the effects of gamification-based programming education on K–12 students' coding achievement and learning motiva",
+    "topics": [
+      "Education",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/act-as-an-expert-academic-93fa8227"
+  },
   "/algebriac-dynamic-programming-a8db9d26": {
     "answered_at_utc": "2026-11-22T07:50:01.430Z",
     "first_seen_utc": "2026-11-22T07:58:06Z",
@@ -651,6 +661,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/what-is-speckle-in-laser-28c5055b"
+  },
+  "/what-is-the-half-life-d0142976": {
+    "answered_at_utc": "2026-11-22T09:03:44.301Z",
+    "first_seen_utc": "2026-11-22T09:08:28Z",
+    "question": "What is the half-life of linezolid in patients with cirrhosis and/or kidney failure?",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-half-life-d0142976"
   },
   "/who-and-how-preservice-teachers-2b1ba18c": {
     "answered_at_utc": "2026-11-22T04:31:04.953Z",
