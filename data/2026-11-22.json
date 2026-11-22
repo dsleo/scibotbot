@@ -976,6 +976,16 @@
     ],
     "url": "https://sci-bot.ru/prison-systems-in-el-salvador-fd42d379"
   },
+  "/problem-solving-ce3b5b27": {
+    "answered_at_utc": "2026-11-22T15:11:56.067Z",
+    "first_seen_utc": "2026-11-22T15:18:20Z",
+    "question": "problem solving",
+    "topics": [
+      "Psychology",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/problem-solving-ce3b5b27"
+  },
   "/provide-an-in-depth-history-e3ef8de1": {
     "answered_at_utc": "2026-11-22T14:58:06.873Z",
     "first_seen_utc": "2026-11-22T14:58:10Z",
@@ -1086,6 +1096,15 @@
       "Neuroscience"
     ],
     "url": "https://sci-bot.ru/structural-balance-and-frustration-in-2dc834e3"
+  },
+  "/summarize-the-knowledge-on-connectivity-9407ce07": {
+    "answered_at_utc": "2026-11-22T15:16:19.075Z",
+    "first_seen_utc": "2026-11-22T15:18:20Z",
+    "question": "summarize the knowledge on connectivity and synchronization in human brain in reaching movement toward somatosensory stimulus (or its stages - tactile processing, remapping, reach planning, motor control, self-touch). Primarily from SEEG and ECoG (intracranial EEG) studies",
+    "topics": [
+      "Neuroscience"
+    ],
+    "url": "https://sci-bot.ru/summarize-the-knowledge-on-connectivity-9407ce07"
   },
   "/temporal-patterns-of-zooplankton-diversity-8b5bef3c": {
     "answered_at_utc": "2026-11-22T13:26:22.897Z",
