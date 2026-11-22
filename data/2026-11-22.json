@@ -1,4 +1,14 @@
 {
+  "/find-all-reference-papers-on-e6f18371": {
+    "answered_at_utc": "2026-11-22T00:33:27.642Z",
+    "first_seen_utc": "2026-11-22T00:35:42Z",
+    "question": "Find all reference papers on orthotic insoles, and everything about making soles out of TPU, research on the different types of fit issues and how to best correct them.",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/find-all-reference-papers-on-e6f18371"
+  },
   "/from-a-psychodynamic-perspective-how-1fe0e7b5": {
     "answered_at_utc": "2026-11-22T00:05:10.151Z",
     "first_seen_utc": "2026-11-22T00:05:34Z",
@@ -17,6 +27,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/how-can-blockchain-technology-digital-e25241e7"
+  },
+  "/looping-effect-mental-health-6b5ae077": {
+    "answered_at_utc": "2026-11-22T00:31:08.750Z",
+    "first_seen_utc": "2026-11-22T00:35:42Z",
+    "question": "looping effect mental health",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/looping-effect-mental-health-6b5ae077"
   },
   "/metacomprehension-accuracy-in-reading-comprehension-9144e41e": {
     "answered_at_utc": "2026-11-22T00:06:51.806Z",
