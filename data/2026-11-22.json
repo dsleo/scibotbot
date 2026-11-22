@@ -484,6 +484,16 @@
     ],
     "url": "https://sci-bot.ru/machine-metacognition-in-large-language-2cd4aee4"
   },
+  "/make-a-detailed-literature-review-f2decb36": {
+    "answered_at_utc": "2026-11-22T10:28:02.549Z",
+    "first_seen_utc": "2026-11-22T10:28:53Z",
+    "question": "make a detailed literature review of models and theroies of behavioral change with a focus on breast cancer screening promotion",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/make-a-detailed-literature-review-f2decb36"
+  },
   "/make-a-weekly-vegan-meal-6cb16a0e": {
     "answered_at_utc": "2026-11-22T01:34:40.285Z",
     "first_seen_utc": "2026-11-22T01:36:02Z",
@@ -744,6 +754,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/what-are-the-current-published-536ae3ad"
+  },
+  "/what-articles-published-in-the-38bcdf3b": {
+    "answered_at_utc": "2026-11-22T10:22:11.367Z",
+    "first_seen_utc": "2026-11-22T10:28:53Z",
+    "question": "What articles published in the last 5 years support the claim that: \"In the early hyperinflammatory phase, low plasma micronutrient levels in critically ill patients are likely to be largely apparent, driven by redistribution, altered binding proteins, and ICU interventions such",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-articles-published-in-the-38bcdf3b"
   },
   "/what-effect-have-sulfonation-in-6a51664e": {
     "answered_at_utc": "2026-11-22T04:11:16.243Z",
