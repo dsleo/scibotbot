@@ -1,4 +1,13 @@
 {
+  "/birth-event-elasmobranchs-0755333b": {
+    "answered_at_utc": "2026-11-22T02:39:53.122Z",
+    "first_seen_utc": "2026-11-22T02:46:27Z",
+    "question": "Birth Event elasmobranchs",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/birth-event-elasmobranchs-0755333b"
+  },
   "/creative-metacognition-self-evaluation-of-ad3f4764": {
     "answered_at_utc": "2026-11-22T00:44:30.885Z",
     "first_seen_utc": "2026-11-22T00:45:45Z",
@@ -160,6 +169,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/transdiagnostic-metacognitive-models-of-psychopathology-d24dcb9e"
+  },
+  "/ultrasound-screening-for-urological-malformations-07dd136a": {
+    "answered_at_utc": "2026-11-22T02:38:13.372Z",
+    "first_seen_utc": "2026-11-22T02:46:27Z",
+    "question": "Ultrasound Screening for Urological Malformations in Children",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/ultrasound-screening-for-urological-malformations-07dd136a"
   },
   "/why-does-guanidation-increase-the-e40c4a8e": {
     "answered_at_utc": "2026-11-22T02:33:20.675Z",
