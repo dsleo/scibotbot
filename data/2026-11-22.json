@@ -75,6 +75,16 @@
     ],
     "url": "https://sci-bot.ru/looping-effect-mental-health-6b5ae077"
   },
+  "/make-a-weekly-vegan-meal-6cb16a0e": {
+    "answered_at_utc": "2026-11-22T01:34:40.285Z",
+    "first_seen_utc": "2026-11-22T01:36:02Z",
+    "question": "make a weekly vegan meal plan for a 28 y/o male, 1.88m high, 95 kg total weight, 67-70 kg of lean mass. Focus on hypertrophy and recomposition to lose body fat.(I will be training weightlifting on mondays, tuesdays, thursdays and fridays, and working on my feet saturdays and sund",
+    "topics": [
+      "nutrition",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/make-a-weekly-vegan-meal-6cb16a0e"
+  },
   "/metacomprehension-accuracy-in-reading-comprehension-9144e41e": {
     "answered_at_utc": "2026-11-22T00:06:51.806Z",
     "first_seen_utc": "2026-11-22T00:15:34Z",
@@ -84,5 +94,15 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/metacomprehension-accuracy-in-reading-comprehension-9144e41e"
+  },
+  "/rare-actinobacteria-a-potential-source-6c5ced90": {
+    "answered_at_utc": "2026-11-22T01:27:32.357Z",
+    "first_seen_utc": "2026-11-22T01:36:02Z",
+    "question": "Rare actinobacteria: a potential source of bioactive polyketides and peptides",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/rare-actinobacteria-a-potential-source-6c5ced90"
   }
 }
