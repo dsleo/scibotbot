@@ -836,6 +836,16 @@
     ],
     "url": "https://sci-bot.ru/midwives-perceptions-of-the-quality-a51ed9d0"
   },
+  "/modern-food-webs-structure-interactions-fa08ddc9": {
+    "answered_at_utc": "2026-11-22T14:50:27.336Z",
+    "first_seen_utc": "2026-11-22T14:58:10Z",
+    "question": "Modern Food webs: structure, interactions, dynamics, and perspectives for bioconservation",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/modern-food-webs-structure-interactions-fa08ddc9"
+  },
   "/monte-carlo-method-fe146e08": {
     "answered_at_utc": "2026-11-22T09:40:40.743Z",
     "first_seen_utc": "2026-11-22T09:48:39Z",
@@ -956,6 +966,13 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/prison-systems-in-el-salvador-fd42d379"
+  },
+  "/provide-an-in-depth-history-e3ef8de1": {
+    "answered_at_utc": "2026-11-22T14:58:06.873Z",
+    "first_seen_utc": "2026-11-22T14:58:10Z",
+    "question": "Provide an in depth history of mixing engineers. Then provide a detailed walkthrough of thier workflow of mixing a record.",
+    "topics": [],
+    "url": "https://sci-bot.ru/provide-an-in-depth-history-e3ef8de1"
   },
   "/quantum-resistant-blockchain-evaluating-falcon-bc70ddf4": {
     "answered_at_utc": "2026-11-22T13:53:44.174Z",
