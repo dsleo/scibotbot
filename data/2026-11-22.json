@@ -170,6 +170,15 @@
     ],
     "url": "https://sci-bot.ru/one-theorem-several-independent-proofs-9908dc52"
   },
+  "/parturition-elasmobranchs-2bf6657d": {
+    "answered_at_utc": "2026-11-22T03:41:19.870Z",
+    "first_seen_utc": "2026-11-22T03:46:44Z",
+    "question": "Parturition elasmobranchs",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/parturition-elasmobranchs-2bf6657d"
+  },
   "/rare-actinobacteria-a-potential-source-6c5ced90": {
     "answered_at_utc": "2026-11-22T01:27:32.357Z",
     "first_seen_utc": "2026-11-22T01:36:02Z",
@@ -243,5 +252,14 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/why-does-guanidation-increase-the-e40c4a8e"
+  },
+  "/y-x-wang-l-l-2ec40b08": {
+    "answered_at_utc": "2026-11-22T03:39:52.478Z",
+    "first_seen_utc": "2026-11-22T03:46:44Z",
+    "question": "Y. X. Wang, L. L. Ma, W. N. Xu, P. Z. Hu, and S. J. Yang, “Plexiform Fibrohistiocytic Tumor: A Series of 10 Case Studies,” American Journal of Clinical Pathology 162, no. 6 (2024): 549–558, https:// doi. org/ 10. 1093/ ajcp/ aqae069.",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/y-x-wang-l-l-2ec40b08"
   }
 }
