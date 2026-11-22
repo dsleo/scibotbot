@@ -936,6 +936,16 @@
     ],
     "url": "https://sci-bot.ru/literary-performance-965f4ca4"
   },
+  "/look-for-experimental-evidence-of-2f5fd9c2": {
+    "answered_at_utc": "2026-11-22T21:07:36.756Z",
+    "first_seen_utc": "2026-11-22T21:09:12Z",
+    "question": "Look for experimental evidence of thermophoresis that validates the Beresnev & Chernyak model, using either NaCl and/or PSL and others.",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/look-for-experimental-evidence-of-2f5fd9c2"
+  },
   "/looking-for-recent-psychological-qualitative-7b18784f": {
     "answered_at_utc": "2026-11-22T01:19:35.916Z",
     "first_seen_utc": "2026-11-22T01:25:59Z",
@@ -1048,6 +1058,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/meat-analogues-color-changes-cooking-25e77f38"
+  },
+  "/mercury-chloride-used-to-be-178b6047": {
+    "answered_at_utc": "2026-11-22T21:01:42.635Z",
+    "first_seen_utc": "2026-11-22T21:09:12Z",
+    "question": "Mercury chloride used to be used in pyrotechnics as a chlorine donor. Does it's presence offer any other functions, such as intensifying color or increaqsing luminosity?",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/mercury-chloride-used-to-be-178b6047"
   },
   "/meta-reasoning-frameworks-integrating-dual-b64aa2b1": {
     "answered_at_utc": "2026-11-22T09:32:20.948Z",
