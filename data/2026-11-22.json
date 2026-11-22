@@ -151,6 +151,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-a-political-scientist-1397dba4"
   },
+  "/i-am-conducting-an-academic-f9a52007": {
+    "answered_at_utc": "2026-11-22T06:33:47.214Z",
+    "first_seen_utc": "2026-11-22T06:37:48Z",
+    "question": "I am conducting an academic literature review for a research project focused on increasing the visibility of local social and cultural activities in Samsun, Türkiye, improving young people's and university students' participation in these activities, and demonstrating the importa",
+    "topics": [
+      "Humanities",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/i-am-conducting-an-academic-f9a52007"
+  },
   "/i-have-an-upcoming-bachelors-3e3bc96c": {
     "answered_at_utc": "2026-11-22T04:52:20.265Z",
     "first_seen_utc": "2026-11-22T04:57:07Z",
@@ -346,6 +356,15 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/research-quality-credibility-and-trustworthiness-1f732190"
+  },
+  "/rocket-nozzles-75-years-of-1f64edab": {
+    "answered_at_utc": "2026-11-22T06:35:23.524Z",
+    "first_seen_utc": "2026-11-22T06:37:48Z",
+    "question": "Rocket nozzles-75 years of research and development",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/rocket-nozzles-75-years-of-1f64edab"
   },
   "/social-metacognition-collective-decision-making-e32a0511": {
     "answered_at_utc": "2026-11-22T04:39:23.106Z",
