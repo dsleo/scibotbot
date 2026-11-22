@@ -38,6 +38,15 @@
     ],
     "url": "https://sci-bot.ru/archaic-hominin-introgression-in-african-7d064b90"
   },
+  "/are-early-morning-eating-windows-eb5f6022": {
+    "answered_at_utc": "2026-11-22T18:18:49.556Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Are early morning eating windows better than afternoon eating windows in time restricted feeding/intermittent fasting? Are there any science-backed timed ways of eating that improve health outcomes?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/are-early-morning-eating-windows-eb5f6022"
+  },
   "/as-of-11222026as-latest-as-ae8b35cf": {
     "answered_at_utc": "2026-11-22T07:37:16.505Z",
     "first_seen_utc": "2026-11-22T07:38:03Z",
@@ -64,6 +73,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/automated-payment-system-in-fuel-33cc9f66"
+  },
+  "/balanced-colourings-fibration-symmetries-and-7e1f51aa": {
+    "answered_at_utc": "2026-11-22T17:58:49.027Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Balanced colourings, fibration symmetries and equitable partitions of whole connectomes, second pass: fly connectomes and the 2025 book on symmetry fibrations (1) Which papers compute balanced colourings, minimal fibrations or coarsest equitable partitions of a WHOLE connectome (",
+    "topics": [
+      "Neuroscience"
+    ],
+    "url": "https://sci-bot.ru/balanced-colourings-fibration-symmetries-and-7e1f51aa"
   },
   "/behavioral-decision-research-on-the-3498c3ee": {
     "answered_at_utc": "2026-11-22T05:39:58.843Z",
@@ -197,6 +215,25 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/conduct-a-critical-literature-review-be3041ab"
+  },
+  "/construct-a-systematic-literature-review-4214a3e3": {
+    "answered_at_utc": "2026-11-22T17:52:02.796Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Construct a systematic literature review regarding sustainability issue in wastewater treatment and highlight the reason(s) or supporting point(s) in global setting and compare it with Indonesia. Use valid research publication with citation and trackable reference.",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/construct-a-systematic-literature-review-4214a3e3"
+  },
+  "/could-a-multilayermultilayer-perceptron-model-ac9e6c5d": {
+    "answered_at_utc": "2026-11-22T18:14:23.586Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Could a multilayermultilayer perceptron model (ann) be used to simulate shortwave radiation at surface from inputs: day number, incoming shortwave at top of atmosphere, max temperature, min temperature and maximal temperature difference",
+    "topics": [
+      "Computer science",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/could-a-multilayermultilayer-perceptron-model-ac9e6c5d"
   },
   "/could-explain-in-elementary-way-2598c9f6": {
     "answered_at_utc": "2026-11-22T15:32:49.645Z",
@@ -408,6 +445,16 @@
     ],
     "url": "https://sci-bot.ru/find-all-reference-papers-on-e6f18371"
   },
+  "/force-velocity-profile-and-best-f789b47c": {
+    "answered_at_utc": "2026-11-22T18:17:03.864Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Force-velocity profile and best way for estimated 1-RM by using linear encoder in strength training",
+    "topics": [
+      "Biomedicine",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/force-velocity-profile-and-best-f789b47c"
+  },
   "/from-a-psychodynamic-perspective-how-1fe0e7b5": {
     "answered_at_utc": "2026-11-22T00:05:10.151Z",
     "first_seen_utc": "2026-11-22T00:05:34Z",
@@ -436,6 +483,16 @@
     ],
     "url": "https://sci-bot.ru/give-birth-elasmobranch-be343a3f"
   },
+  "/give-me-a-roadmap-with-ec3c5715": {
+    "answered_at_utc": "2026-11-22T18:26:50.087Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "give me a roadmap with specific books to self-study statistics to a undergraduate or graduate level",
+    "topics": [
+      "Mathematics",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/give-me-a-roadmap-with-ec3c5715"
+  },
   "/give-me-all-the-credible-195de3b7": {
     "answered_at_utc": "2026-11-22T13:10:50.497Z",
     "first_seen_utc": "2026-11-22T13:17:20Z",
@@ -453,6 +510,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/give-me-empirical-studies-on-f83de421"
+  },
+  "/has-epsom-salt-or-mag-ed681395": {
+    "answered_at_utc": "2026-11-22T16:21:22.902Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "has epsom salt or mag chloride ever been tried for serotonin syndrome",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/has-epsom-salt-or-mag-ed681395"
   },
   "/how-can-blockchain-technology-digital-e25241e7": {
     "answered_at_utc": "2026-11-22T00:15:09.343Z",
@@ -653,6 +719,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/in-the-last-50-years-7627f754"
+  },
+  "/interoperability-between-bim-and-ladm-1a6a3ed7": {
+    "answered_at_utc": "2026-11-22T18:22:57.455Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "Interoperability between BIM and LADM for 3D cadastre and opportunities of integration",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/interoperability-between-bim-and-ladm-1a6a3ed7"
   },
   "/interpersonal-and-social-metacognition-dyadic-9672967b": {
     "answered_at_utc": "2026-11-22T04:44:06.094Z",
@@ -1005,6 +1080,16 @@
     ],
     "url": "https://sci-bot.ru/my-objective-is-factors-influencing-0da318bf"
   },
+  "/my-objective-is-factors-influencing-77b6991d": {
+    "answered_at_utc": "2026-11-22T17:31:18.057Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "My objective is factors influencing postharvest losses on among pineapple farmers in Uganda, please write for empirical literature review on studies on this. Expand to include the mehods used in the studies , sample size and gaps in the literature",
+    "topics": [
+      "agriculture",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/my-objective-is-factors-influencing-77b6991d"
+  },
   "/new-advances-in-mechanisms-transmissions-f250553c": {
     "answered_at_utc": "2026-11-22T12:46:57.948Z",
     "first_seen_utc": "2026-11-22T13:17:20Z",
@@ -1124,6 +1209,15 @@
     ],
     "url": "https://sci-bot.ru/recursive-language-models-rlms-with-0183348d"
   },
+  "/relationship-between-human-resources-development-4490e114": {
+    "answered_at_utc": "2026-11-22T17:33:04.114Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "relationship between human resources development and employees development4",
+    "topics": [
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/relationship-between-human-resources-development-4490e114"
+  },
   "/relationship-between-seductive-details-and-43ae15a8": {
     "answered_at_utc": "2026-11-22T03:56:31.631Z",
     "first_seen_utc": "2026-11-22T03:56:49Z",
@@ -1180,6 +1274,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/social-metacognition-collective-decision-making-e32a0511"
+  },
+  "/state-of-the-art-arcopilus-1416fbdd": {
+    "answered_at_utc": "2026-11-22T18:02:59.147Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "state of the art Arcopilus genus",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/state-of-the-art-arcopilus-1416fbdd"
   },
   "/strategic-human-resource-development-hrd-0e509c9b": {
     "answered_at_utc": "2026-11-22T09:54:43.243Z",
@@ -1262,6 +1365,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/the-use-of-hypnosis-or-b91974b3"
+  },
+  "/to-what-extent-does-the-d2918aab": {
+    "answered_at_utc": "2026-11-22T17:29:15.012Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "To what extent does the frequency of engagement in everyday creative arts practices (e.g., literary, visual, and musical arts) predict greater psychological resilience, and is this association mediated by emotional flexibility?",
+    "topics": [
+      "Psychology",
+      "Arts"
+    ],
+    "url": "https://sci-bot.ru/to-what-extent-does-the-d2918aab"
   },
   "/transdiagnostic-metacognitive-models-of-psychopathology-d24dcb9e": {
     "answered_at_utc": "2026-11-22T01:48:22.798Z",
@@ -1390,6 +1503,15 @@
     "question": "whats a proven hack against depression",
     "topics": [],
     "url": "https://sci-bot.ru/whats-a-proven-hack-against-125913c3"
+  },
+  "/when-people-with-and-without-f15bf107": {
+    "answered_at_utc": "2026-11-22T17:36:18.575Z",
+    "first_seen_utc": "2026-11-22T18:28:22Z",
+    "question": "When people with and without ADHD procrastinate, are the same psychological mechanisms at work in both groups?",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/when-people-with-and-without-f15bf107"
   },
   "/which-game-engine-would-you-c4ebe188": {
     "answered_at_utc": "2026-11-22T13:39:43.549Z",
