@@ -1139,6 +1139,16 @@
     ],
     "url": "https://sci-bot.ru/solving-a-biological-water-pollution-d3593951"
   },
+  "/state-of-the-art-for-9ccc1489": {
+    "answered_at_utc": "2026-11-23T18:57:31.797Z",
+    "first_seen_utc": "2026-11-23T19:02:51Z",
+    "question": "state of the art for CO2 absorption from air",
+    "topics": [
+      "Chemistry",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/state-of-the-art-for-9ccc1489"
+  },
   "/surgical-robots-in-germany-current-521fdcea": {
     "answered_at_utc": "2026-11-23T12:46:24.059Z",
     "first_seen_utc": "2026-11-23T12:56:48Z",
@@ -1245,6 +1255,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-quadrotor-01c341ed"
+  },
+  "/uav-or-drone-or-quadrotor-0e424cfe": {
+    "answered_at_utc": "2026-11-23T18:53:37.202Z",
+    "first_seen_utc": "2026-11-23T19:02:51Z",
+    "question": "(UAV OR drone OR quadrotor OR multirotor) AND (\"state of charge\" OR SOC OR \"state of energy\" OR SOE OR \"state of power\" OR SOP OR \"remaining flight time\") AND (battery OR \"energy estimation\" OR prediction)",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-quadrotor-0e424cfe"
   },
   "/uav-or-drone-or-quadrotor-5fd29b06": {
     "answered_at_utc": "2026-11-23T09:49:12.636Z",
