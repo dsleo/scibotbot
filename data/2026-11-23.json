@@ -57,6 +57,16 @@
     ],
     "url": "https://sci-bot.ru/donnes-aromagntiques-dans-la-prospection-26c6d911"
   },
+  "/electrophysiological-and-cognitive-control-studies-4de6031f": {
+    "answered_at_utc": "2026-11-23T03:37:09.614Z",
+    "first_seen_utc": "2026-11-23T03:43:21Z",
+    "question": "Electrophysiological and cognitive control studies of conscious error awareness versus unconscious error detection, dissociating Error-Related Negativity (ERN) and Error Positivity (Pe), and their role in post-error slowing and behavioral adaptation.",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/electrophysiological-and-cognitive-control-studies-4de6031f"
+  },
   "/empirical-studies-on-metacognition-in-2ba1c590": {
     "answered_at_utc": "2026-11-23T02:07:12.633Z",
     "first_seen_utc": "2026-11-23T02:13:15Z",
@@ -130,6 +140,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/how-to-improve-integrity-checks-ef35eaf3"
+  },
+  "/im-making-qrng-device-that-8f722050": {
+    "answered_at_utc": "2026-11-23T03:35:25.490Z",
+    "first_seen_utc": "2026-11-23T03:43:21Z",
+    "question": "I'm making QRNG device that have the same mechanism as this article \"A Compact Quantum Random Number Generator Based on Balanced Detection of Shot Noise\". Can you point out some main failure mode of this QRNG setup for NIST 800-90B EAR document?",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/im-making-qrng-device-that-8f722050"
   },
   "/is-any-known-monopropellant-suitable-f4a62632": {
     "answered_at_utc": "2026-11-23T02:40:40.960Z",
