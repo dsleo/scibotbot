@@ -125,6 +125,15 @@
     ],
     "url": "https://sci-bot.ru/are-regular-languages-powerful-enough-9f5ca9a9"
   },
+  "/are-there-any-known-pyrotechnic-53e058ca": {
+    "answered_at_utc": "2026-11-23T21:20:46.555Z",
+    "first_seen_utc": "2026-11-23T21:23:37Z",
+    "question": "Are there any known pyrotechnic reactions between Mg or Al and an inorganic compound which contains boron oxygen bonds ?",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/are-there-any-known-pyrotechnic-53e058ca"
+  },
   "/balanced-colourings-fibration-symmetries-and-acf3b251": {
     "answered_at_utc": "2026-11-23T18:41:01.300Z",
     "first_seen_utc": "2026-11-23T18:42:46Z",
@@ -1340,6 +1349,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-59921981"
+  },
+  "/uav-or-drone-or-multirotor-6f6bf536": {
+    "answered_at_utc": "2026-11-23T21:16:42.934Z",
+    "first_seen_utc": "2026-11-23T21:23:37Z",
+    "question": "(UAV OR drone OR multirotor OR quadrotor) AND (\"transfer learning\" OR \"domain adaptation\" OR generalization OR \"cross-platform validation\" OR \"cross-platform\") AND (\"energy prediction\" OR \"power prediction\" OR \"energy model\")",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-6f6bf536"
   },
   "/uav-or-drone-or-multirotor-c26a741e": {
     "answered_at_utc": "2026-11-23T17:44:50.121Z",
