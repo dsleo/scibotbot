@@ -46,6 +46,16 @@
     ],
     "url": "https://sci-bot.ru/can-i-ask-about-anatomy-58a514c4"
   },
+  "/chlorophyll-a-as-a-proxy-5bc69218": {
+    "answered_at_utc": "2026-11-23T05:17:31.906Z",
+    "first_seen_utc": "2026-11-23T05:23:44Z",
+    "question": "chlorophyll-a as a proxy for prey availability for seabirds",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/chlorophyll-a-as-a-proxy-5bc69218"
+  },
   "/cognitive-and-computational-studies-of-aad6189c": {
     "answered_at_utc": "2026-11-23T02:37:48.191Z",
     "first_seen_utc": "2026-11-23T02:43:08Z",
@@ -65,6 +75,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/conduct-a-scholarly-review-of-37909735"
+  },
+  "/conduct-a-scholarly-review-of-5e3d4cb6": {
+    "answered_at_utc": "2026-11-23T05:22:06.045Z",
+    "first_seen_utc": "2026-11-23T05:23:44Z",
+    "question": "Conduct a scholarly review of remote sensing methods used in urban and territorial planning. Focus on NDVI, LST, built-up indices, impervious surfaces, spectral unmixing, urban expansion and environmental diagnosis. Identify methodological workflows and planning applications.",
+    "topics": [
+      "Earth science",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/conduct-a-scholarly-review-of-5e3d4cb6"
   },
   "/conduct-a-scholarly-review-of-cc59b343": {
     "answered_at_utc": "2026-11-23T01:58:44.128Z",
