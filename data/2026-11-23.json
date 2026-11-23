@@ -55,6 +55,15 @@
     ],
     "url": "https://sci-bot.ru/empirical-studies-on-metacognition-in-6d55eb47"
   },
+  "/find-all-studies-that-have-c6891289": {
+    "answered_at_utc": "2026-11-23T02:52:47.038Z",
+    "first_seen_utc": "2026-11-23T02:53:17Z",
+    "question": "find all studies that have used more than 30mg withanolides total per day, tell me what have been the main objectives of those studies, and if any negative effects have been recorded as a result of these higher levels of withanolides per day. Also tell me about the highest withan",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/find-all-studies-that-have-c6891289"
+  },
   "/for-a-research-seminar-i-e8db135d": {
     "answered_at_utc": "2026-11-23T00:59:33.875Z",
     "first_seen_utc": "2026-11-23T01:02:44Z",
@@ -167,6 +176,16 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/the-mcgraw-hill-companies-is-8fb3f724"
+  },
+  "/what-causing-sea-surface-temperature-22ebc7b8": {
+    "answered_at_utc": "2026-11-23T02:43:56.755Z",
+    "first_seen_utc": "2026-11-23T02:53:17Z",
+    "question": "what causing sea surface temperature drifting away during long run simulation in ROMS model",
+    "topics": [
+      "Earth science",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/what-causing-sea-surface-temperature-22ebc7b8"
   },
   "/what-is-caries-vaccine-and-5409e4d2": {
     "answered_at_utc": "2026-11-23T02:09:17.406Z",
