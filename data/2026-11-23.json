@@ -705,6 +705,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-looking-for-research-e9e63ce0"
   },
+  "/i-want-to-know-about-573848c2": {
+    "answered_at_utc": "2026-11-23T21:10:58.436Z",
+    "first_seen_utc": "2026-11-23T21:13:43Z",
+    "question": "I want to know about the models focused on kinetic theory regarding thermophoresis in gases in a timeline",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/i-want-to-know-about-573848c2"
+  },
   "/im-making-qrng-device-that-8cb267a7": {
     "answered_at_utc": "2026-11-23T04:37:44.404Z",
     "first_seen_utc": "2026-11-23T04:43:36Z",
@@ -1568,6 +1578,15 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/what-needs-challenges-emotions-and-ffc70e75"
+  },
+  "/what-research-is-there-done-710f7297": {
+    "answered_at_utc": "2026-11-23T21:05:29.794Z",
+    "first_seen_utc": "2026-11-23T21:13:43Z",
+    "question": "what research is there done on mechanism on paper folding, targetting production machines",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/what-research-is-there-done-710f7297"
   },
   "/what-will-happen-if-a-207af757": {
     "answered_at_utc": "2026-11-23T11:26:34.836Z",
