@@ -248,6 +248,15 @@
     ],
     "url": "https://sci-bot.ru/find-all-studies-that-have-c6891289"
   },
+  "/find-formularelation-of-viscosity-to-1fdf8421": {
+    "answered_at_utc": "2026-11-23T07:04:05.087Z",
+    "first_seen_utc": "2026-11-23T07:10:52Z",
+    "question": "find formula/relation of viscosity to the theta in liquid solution for membrane separation experiment",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/find-formularelation-of-viscosity-to-1fdf8421"
+  },
   "/find-recent-scopus-indexed-studies-bbce4f4a": {
     "answered_at_utc": "2026-11-23T06:07:30.354Z",
     "first_seen_utc": "2026-11-23T06:40:46Z",
@@ -408,6 +417,16 @@
     "question": "Neuralli probiotics when is best time of day/with/without food, and what is the best way to get the best therapeutic benefits from this thanks.",
     "topics": [],
     "url": "https://sci-bot.ru/neuralli-probiotics-when-is-best-3258dce0"
+  },
+  "/neuropsychological-and-rehabilitation-studies-of-f95b31e9": {
+    "answered_at_utc": "2026-11-23T07:06:45.156Z",
+    "first_seen_utc": "2026-11-23T07:10:52Z",
+    "question": "Neuropsychological and rehabilitation studies of impaired self-awareness (ISA) following traumatic brain injury (TBI), anosognosia for hemiplegia after stroke, and structured clinical interventions to improve metacognitive awareness in acquired brain injury.",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/neuropsychological-and-rehabilitation-studies-of-f95b31e9"
   },
   "/pigskin-as-a-topical-hemostat-06cd80a5": {
     "answered_at_utc": "2026-11-23T01:05:09.268Z",
