@@ -738,6 +738,16 @@
     ],
     "url": "https://sci-bot.ru/multi-uav-or-multiple-uavs-8aafe837"
   },
+  "/multi-uav-or-uav-swarm-0e51c874": {
+    "answered_at_utc": "2026-11-23T16:05:33.109Z",
+    "first_seen_utc": "2026-11-23T16:07:38Z",
+    "question": "(\"multi-UAV\" OR \"UAV swarm\" OR \"UAV fleet\" OR \"multiple drones\") AND (hybrid OR \"physics-informed\" OR \"data-driven\" OR \"machine learning\") AND (energy OR power OR battery)",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/multi-uav-or-uav-swarm-0e51c874"
+  },
   "/multi-uav-or-uav-swarm-5da2ce9c": {
     "answered_at_utc": "2026-11-23T10:49:07.269Z",
     "first_seen_utc": "2026-11-23T11:40:48Z",
@@ -1109,6 +1119,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/unmanned-aerial-vehicle-or-uav-2d0594b6"
+  },
+  "/violin-bass-bar-calculating-47c46255": {
+    "answered_at_utc": "2026-11-23T16:03:33.931Z",
+    "first_seen_utc": "2026-11-23T16:07:38Z",
+    "question": "Violin bass bar calculating",
+    "topics": [
+      "Arts",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/violin-bass-bar-calculating-47c46255"
   },
   "/what-are-discrepancies-in-research-6301614b": {
     "answered_at_utc": "2026-11-23T12:37:34.723Z",
