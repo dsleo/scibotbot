@@ -66,6 +66,15 @@
     ],
     "url": "https://sci-bot.ru/abiotic-factors-shaping-plantherbivorepredatory-mite-031765c5"
   },
+  "/about-audio-design-what-are-9660336f": {
+    "answered_at_utc": "2026-11-23T14:47:33.349Z",
+    "first_seen_utc": "2026-11-23T14:57:21Z",
+    "question": "about audio design: what are the most advanced methods that have been studied to increase the bass perceived response from really small speaker boxes of less than one liter. I have seen speakers that at sizes like that seem to \"connect\" with the surrounding atmosphere in a way th",
+    "topics": [
+      "Arts"
+    ],
+    "url": "https://sci-bot.ru/about-audio-design-what-are-9660336f"
+  },
   "/act-as-a-senior-historian-e2f6a3b6": {
     "answered_at_utc": "2026-11-23T05:30:44.118Z",
     "first_seen_utc": "2026-11-23T05:33:50Z",
@@ -95,6 +104,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/all-biobased-seaweed-derived-composite-6869d8e9"
+  },
+  "/are-regular-languages-powerful-enough-9f5ca9a9": {
+    "answered_at_utc": "2026-11-23T14:53:04.434Z",
+    "first_seen_utc": "2026-11-23T14:57:21Z",
+    "question": "Are Regular Languages Powerful Enough for Most Practical Text-Processing Tasks?",
+    "topics": [
+      "Computer science",
+      "Language"
+    ],
+    "url": "https://sci-bot.ru/are-regular-languages-powerful-enough-9f5ca9a9"
   },
   "/best-writing-habit-for-a-a70c5eeb": {
     "answered_at_utc": "2026-11-23T03:59:53.310Z",
@@ -465,6 +484,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/game-theory-real-options-and-ef935060"
+  },
+  "/global-supply-chains-of-medicine-20ad7438": {
+    "answered_at_utc": "2026-11-23T14:54:51.296Z",
+    "first_seen_utc": "2026-11-23T14:57:21Z",
+    "question": "global supply chains of medicine production",
+    "topics": [
+      "Economics",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/global-supply-chains-of-medicine-20ad7438"
   },
   "/global-warming-ai-effects-8f681642": {
     "answered_at_utc": "2026-11-23T08:13:46.285Z",
@@ -1096,6 +1125,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/what-does-it-mean-narrating-d878cfe1"
+  },
+  "/what-does-the-existing-interdisciplinary-af4dc830": {
+    "answered_at_utc": "2026-11-23T14:50:14.652Z",
+    "first_seen_utc": "2026-11-23T14:57:21Z",
+    "question": "What does the existing interdisciplinary scientific literature tell us about the effects and implications of bilingualism and multilingualism on human cognition, learning, behaviour, memory, attention, information processing, decision-making, emotional functioning, social cogniti",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/what-does-the-existing-interdisciplinary-af4dc830"
   },
   "/what-induces-self-interference-matter-e027a31e": {
     "answered_at_utc": "2026-11-23T07:42:28.766Z",
