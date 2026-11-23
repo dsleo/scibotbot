@@ -1196,6 +1196,15 @@
     ],
     "url": "https://sci-bot.ru/the-mcgraw-hill-companies-is-8fb3f724"
   },
+  "/too-hot-to-learn-evaluation-0f93f300": {
+    "answered_at_utc": "2026-11-23T19:28:40.409Z",
+    "first_seen_utc": "2026-11-23T19:32:57Z",
+    "question": "Too hot to learn? Evaluation of passive design strategies for schools in the warm humid tropics",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/too-hot-to-learn-evaluation-0f93f300"
+  },
   "/translation-english-indonesia-2d79f682": {
     "answered_at_utc": "2026-11-23T11:23:46.793Z",
     "first_seen_utc": "2026-11-23T11:40:48Z",
@@ -1205,6 +1214,16 @@
       "Humanities"
     ],
     "url": "https://sci-bot.ru/translation-english-indonesia-2d79f682"
+  },
+  "/uav-or-drone-or-multirotor-4c1763de": {
+    "answered_at_utc": "2026-11-23T19:31:25.795Z",
+    "first_seen_utc": "2026-11-23T19:32:57Z",
+    "question": "(UAV OR drone OR multirotor) AND (\"uncertainty quantification\" OR probabilistic OR \"prediction interval\" OR \"quantile regression\" OR \"risk assessment\" OR CVaR) AND (energy OR power OR battery)",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-4c1763de"
   },
   "/uav-or-drone-or-multirotor-501b720f": {
     "answered_at_utc": "2026-11-23T16:11:00.186Z",
