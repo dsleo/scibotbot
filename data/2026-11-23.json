@@ -994,6 +994,16 @@
     ],
     "url": "https://sci-bot.ru/provide-academic-sources-on-mosque-9f04eaf6"
   },
+  "/provide-me-with-original-approches-e9b6085b": {
+    "answered_at_utc": "2026-11-23T20:04:57.559Z",
+    "first_seen_utc": "2026-11-23T20:13:12Z",
+    "question": "provide me with original approches regarding slavery in ancient times",
+    "topics": [
+      "History",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/provide-me-with-original-approches-e9b6085b"
+  },
   "/psychology-ai-3d62d512": {
     "answered_at_utc": "2026-11-23T02:10:33.262Z",
     "first_seen_utc": "2026-11-23T02:13:15Z",
@@ -1312,6 +1322,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-eb441ad3"
+  },
+  "/uav-or-drone-or-multirotor-f22ee981": {
+    "answered_at_utc": "2026-11-23T20:11:06.833Z",
+    "first_seen_utc": "2026-11-23T20:13:12Z",
+    "question": "(UAV OR drone OR multirotor) AND (\"uncertainty quantification\" OR probabilistic OR \"prediction interval\" OR \"quantile regression\" OR \"risk assessment\" OR CVaR) AND (energy OR power OR battery)",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-f22ee981"
   },
   "/uav-or-drone-or-quadrotor-01c341ed": {
     "answered_at_utc": "2026-11-23T08:34:56.101Z",
