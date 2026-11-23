@@ -219,6 +219,16 @@
     ],
     "url": "https://sci-bot.ru/cognitive-and-computational-studies-of-aad6189c"
   },
+  "/comparison-of-pl-temperature-dependent-a7735514": {
+    "answered_at_utc": "2026-11-23T20:37:11.726Z",
+    "first_seen_utc": "2026-11-23T20:43:19Z",
+    "question": "comparison of PL temperature dependent GaAsN grown by MOVPE using TMGa+TBAs+DMHy and TMGa+TBAs+TBHy",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/comparison-of-pl-temperature-dependent-a7735514"
+  },
   "/computational-and-experimental-studies-on-0c0c52bf": {
     "answered_at_utc": "2026-11-23T06:05:32.127Z",
     "first_seen_utc": "2026-11-23T06:40:46Z",
@@ -965,6 +975,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/predatory-behaviour-of-the-cronius-e1f0a5f8"
+  },
+  "/predatory-behaviour-of-the-octopus-f25afec2": {
+    "answered_at_utc": "2026-11-23T20:40:23.057Z",
+    "first_seen_utc": "2026-11-23T20:43:19Z",
+    "question": "Predatory behaviour of the octopus vulgaris",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/predatory-behaviour-of-the-octopus-f25afec2"
   },
   "/predatory-behaviour-of-the-stenorhynchus-ed9d8583": {
     "answered_at_utc": "2026-11-23T05:13:18.428Z",
