@@ -544,6 +544,15 @@
     ],
     "url": "https://sci-bot.ru/global-warming-ai-effects-8f681642"
   },
+  "/glyson-score-4f5a03c7": {
+    "answered_at_utc": "2026-11-23T18:12:45.007Z",
+    "first_seen_utc": "2026-11-23T18:22:18Z",
+    "question": "Glyson score",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/glyson-score-4f5a03c7"
+  },
   "/hemoglobin-s-5afaee2f": {
     "answered_at_utc": "2026-11-23T09:52:01.102Z",
     "first_seen_utc": "2026-11-23T10:11:38Z",
@@ -985,6 +994,16 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/research-the-most-cutting-edge-856d7b06"
+  },
+  "/role-act-as-a-clinical-f30d9953": {
+    "answered_at_utc": "2026-11-23T18:15:23.974Z",
+    "first_seen_utc": "2026-11-23T18:22:18Z",
+    "question": "**Role:** Act as a clinical neuropsychologist and researcher studying cognitive and behavioral pathology associated with short-form digital media. **Context:** I want an analysis of the major dysfunctions and impairments that occur in people exposed to short-form content. Focus",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/role-act-as-a-clinical-f30d9953"
   },
   "/role-tone-act-as-a-cc4f18a2": {
     "answered_at_utc": "2026-11-23T06:20:09.775Z",
