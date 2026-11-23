@@ -1,4 +1,14 @@
 {
+  "/2-acevedo-c-2011-influence-fd64f241": {
+    "answered_at_utc": "2026-11-23T09:57:29.232Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "2. Acevedo, C. (2011). Influence of Residual Stresses on Fatigue Response of Welded Tubular K-Joints. PhD thesis no. 5056, EPFL.",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/2-acevedo-c-2011-influence-fd64f241"
+  },
   "/3d-modelling-and-feasibility-assessment-355fa98e": {
     "answered_at_utc": "2026-11-23T03:16:56.581Z",
     "first_seen_utc": "2026-11-23T03:23:18Z",
@@ -267,6 +277,15 @@
     ],
     "url": "https://sci-bot.ru/electrophysiological-and-cognitive-control-studies-4de6031f"
   },
+  "/empirical-and-theoretical-research-on-a1158c98": {
+    "answered_at_utc": "2026-11-23T09:59:24.790Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "Empirical and theoretical research on creative metacognition (CMC), including self-evaluation of idea originality and usefulness, creative self-efficacy calibration, and metacognitive monitoring during divergent and convergent creative problem solving.",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/empirical-and-theoretical-research-on-a1158c98"
+  },
   "/empirical-studies-on-metacognition-in-2ba1c590": {
     "answered_at_utc": "2026-11-23T02:07:12.633Z",
     "first_seen_utc": "2026-11-23T02:13:15Z",
@@ -303,6 +322,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/est-ce-que-le-gne-f95d12d6"
+  },
+  "/everything-about-early-christian-and-f74e6dab": {
+    "answered_at_utc": "2026-11-23T10:06:18.795Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "everything about early christian and early medieval monasticism in mediterranean",
+    "topics": [
+      "Humanities",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/everything-about-early-christian-and-f74e6dab"
   },
   "/experimental-studies-testing-the-plasticity-5659e938": {
     "answered_at_utc": "2026-11-23T08:00:16.350Z",
@@ -369,6 +398,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/global-warming-ai-effects-8f681642"
+  },
+  "/hemoglobin-s-5afaee2f": {
+    "answered_at_utc": "2026-11-23T09:52:01.102Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "hemoglobin S",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/hemoglobin-s-5afaee2f"
   },
   "/hocl-vs-octenidine-vs-saline-ce3db0f8": {
     "answered_at_utc": "2026-11-23T06:35:08.651Z",
@@ -505,6 +544,16 @@
     ],
     "url": "https://sci-bot.ru/metamemory-studies-on-strategic-regulation-9e108310"
   },
+  "/multi-uav-or-multiple-uavs-8aafe837": {
+    "answered_at_utc": "2026-11-23T09:42:34.703Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "(\"multi-UAV\" OR \"multiple UAVs\" OR \"UAV swarm\" OR \"drone swarm\" OR \"UAV fleet\") AND (\"energy prediction\" OR \"energy consumption\" OR \"power consumption\" OR \"energy estimation\") AND (model OR prediction OR estimation OR forecasting)",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/multi-uav-or-multiple-uavs-8aafe837"
+  },
   "/neuralli-probiotics-when-is-best-3258dce0": {
     "answered_at_utc": "2026-11-23T01:22:50.135Z",
     "first_seen_utc": "2026-11-23T01:22:52Z",
@@ -521,6 +570,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/neuropsychological-and-rehabilitation-studies-of-f95b31e9"
+  },
+  "/office-politics-381c84cb": {
+    "answered_at_utc": "2026-11-23T10:08:21.009Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "office politics",
+    "topics": [
+      "Humanities",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/office-politics-381c84cb"
   },
   "/pigskin-as-a-topical-hemostat-06cd80a5": {
     "answered_at_utc": "2026-11-23T01:05:09.268Z",
@@ -635,6 +694,16 @@
     ],
     "url": "https://sci-bot.ru/several-methods-for-laboratory-preparation-9c0ad6e5"
   },
+  "/shielding-in-nuclear-medicine-3578bffb": {
+    "answered_at_utc": "2026-11-23T10:11:06.218Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "shielding in nuclear medicine",
+    "topics": [
+      "Biomedicine",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/shielding-in-nuclear-medicine-3578bffb"
+  },
   "/the-mcgraw-hill-companies-is-8fb3f724": {
     "answered_at_utc": "2026-11-23T01:25:00.531Z",
     "first_seen_utc": "2026-11-23T01:28:50Z",
@@ -652,6 +721,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-quadrotor-01c341ed"
+  },
+  "/uav-or-drone-or-quadrotor-5fd29b06": {
+    "answered_at_utc": "2026-11-23T09:49:12.636Z",
+    "first_seen_utc": "2026-11-23T10:11:38Z",
+    "question": "(UAV OR drone OR quadrotor OR multirotor OR multicopter) AND (\"flight data\" OR dataset OR telemetry OR \"flight test\" OR \"experimental validation\") AND (\"energy consumption\" OR \"power consumption\" OR \"battery current\" OR \"battery voltage\")",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-quadrotor-5fd29b06"
   },
   "/unmanned-aerial-vehicle-or-uav-2d0594b6": {
     "answered_at_utc": "2026-11-23T08:39:46.502Z",
