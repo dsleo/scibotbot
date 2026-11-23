@@ -37,6 +37,16 @@
     ],
     "url": "https://sci-bot.ru/conduct-a-scholarly-review-of-cc59b343"
   },
+  "/donnes-aromagntiques-dans-la-prospection-26c6d911": {
+    "answered_at_utc": "2026-11-23T00:48:45.145Z",
+    "first_seen_utc": "2026-11-23T03:13:15Z",
+    "question": "donnèes aèromagnètiques dans la prospection miniére",
+    "topics": [
+      "Earth science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/donnes-aromagntiques-dans-la-prospection-26c6d911"
+  },
   "/empirical-studies-on-metacognition-in-2ba1c590": {
     "answered_at_utc": "2026-11-23T02:07:12.633Z",
     "first_seen_utc": "2026-11-23T02:13:15Z",
@@ -54,6 +64,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/empirical-studies-on-metacognition-in-6d55eb47"
+  },
+  "/est-ce-que-le-gne-f95d12d6": {
+    "answered_at_utc": "2026-11-23T02:32:19.192Z",
+    "first_seen_utc": "2026-11-23T03:13:15Z",
+    "question": "Est-ce que le gène rpmB (bL28) est essentiel chez S. pneumoniae?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/est-ce-que-le-gne-f95d12d6"
   },
   "/find-all-studies-that-have-c6891289": {
     "answered_at_utc": "2026-11-23T02:52:47.038Z",
@@ -131,6 +150,15 @@
     ],
     "url": "https://sci-bot.ru/list-the-must-influential-articles-58b4cf15"
   },
+  "/maladie-de-moya-moya-765f275b": {
+    "answered_at_utc": "2026-11-23T00:34:39.992Z",
+    "first_seen_utc": "2026-11-23T03:13:15Z",
+    "question": "maladie de moya moya",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/maladie-de-moya-moya-765f275b"
+  },
   "/neuralli-probiotics-when-is-best-3258dce0": {
     "answered_at_utc": "2026-11-23T01:22:50.135Z",
     "first_seen_utc": "2026-11-23T01:22:52Z",
@@ -156,6 +184,25 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/psychology-ai-3d62d512"
+  },
+  "/quelle-indication-pour-une-suspicion-29ca452f": {
+    "answered_at_utc": "2026-11-23T01:27:58.842Z",
+    "first_seen_utc": "2026-11-23T03:13:15Z",
+    "question": "Quelle indication pour une suspicion de syndrôme de Brugada ?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/quelle-indication-pour-une-suspicion-29ca452f"
+  },
+  "/quelles-sont-les-causes-fondamentales-1a01dc05": {
+    "answered_at_utc": "2026-11-23T01:11:13.993Z",
+    "first_seen_utc": "2026-11-23T03:13:15Z",
+    "question": "Quelles sont les causes fondamentales du syndrome de Brugada ? Vulgarisation puis détails biochimiques",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/quelles-sont-les-causes-fondamentales-1a01dc05"
   },
   "/rusuah-rusuah-hati-6318b77c": {
     "answered_at_utc": "2026-11-23T01:19:45.098Z",
