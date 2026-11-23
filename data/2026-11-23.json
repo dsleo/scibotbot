@@ -1170,6 +1170,16 @@
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-59921981"
   },
+  "/uav-or-drone-or-multirotor-c26a741e": {
+    "answered_at_utc": "2026-11-23T17:44:50.121Z",
+    "first_seen_utc": "2026-11-23T17:51:21Z",
+    "question": "(UAV OR drone OR multirotor OR quadrotor) AND (wind OR turbulence OR weather OR \"environmental conditions\" OR \"wind speed\") AND (\"energy consumption\" OR \"power prediction\" OR \"flight energy\" OR \"energy model\")",
+    "topics": [
+      "Physics",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-c26a741e"
+  },
   "/uav-or-drone-or-quadrotor-01c341ed": {
     "answered_at_utc": "2026-11-23T08:34:56.101Z",
     "first_seen_utc": "2026-11-23T09:42:19Z",
