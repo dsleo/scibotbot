@@ -1217,6 +1217,26 @@
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-c26a741e"
   },
+  "/uav-or-drone-or-multirotor-c7ab4cba": {
+    "answered_at_utc": "2026-11-23T18:47:27.801Z",
+    "first_seen_utc": "2026-11-23T18:53:04Z",
+    "question": "(UAV OR drone OR multirotor OR quadrotor) AND (payload OR \"flight speed\" OR airspeed OR altitude OR acceleration OR \"climb rate\" OR mass) AND (\"energy consumption\" OR \"power consumption\" OR \"energy model\")",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-c7ab4cba"
+  },
+  "/uav-or-drone-or-multirotor-eb441ad3": {
+    "answered_at_utc": "2026-11-23T18:50:21.959Z",
+    "first_seen_utc": "2026-11-23T18:53:04Z",
+    "question": "(UAV OR drone OR multirotor OR quadrotor) AND (payload OR \"flight speed\" OR airspeed OR altitude OR acceleration OR \"climb rate\" OR mass) AND (\"energy consumption\" OR \"power consumption\" OR \"energy model\")",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/uav-or-drone-or-multirotor-eb441ad3"
+  },
   "/uav-or-drone-or-quadrotor-01c341ed": {
     "answered_at_utc": "2026-11-23T08:34:56.101Z",
     "first_seen_utc": "2026-11-23T09:42:19Z",
