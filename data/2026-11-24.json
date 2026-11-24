@@ -27,6 +27,15 @@
     ],
     "url": "https://sci-bot.ru/a-patient-with-repeated-itching-528c0a7b"
   },
+  "/a-patient-with-repeated-itching-9a62e721": {
+    "answered_at_utc": "2026-11-24T13:07:34.898Z",
+    "first_seen_utc": "2026-11-24T13:08:33Z",
+    "question": "a patient with repeated itching around the rectum after a hemmorrhoidectomy, usually after the area is being wet. the doctor prescribed dermacombin, a drug with 3 types of antibiotics, 1 antifungal and a steroid. was the decision justified? where should the patient apply the crea",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/a-patient-with-repeated-itching-9a62e721"
+  },
   "/aae-assessment-in-zebrafish-larvae-95aa6ff3": {
     "answered_at_utc": "2026-11-24T08:45:23.539Z",
     "first_seen_utc": "2026-11-24T08:47:08Z",
@@ -761,6 +770,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/when-using-the-direct-transcript-cb22a00a"
+  },
+  "/why-states-cannot-agree-in-0a408fa4": {
+    "answered_at_utc": "2026-11-24T13:02:48.561Z",
+    "first_seen_utc": "2026-11-24T13:08:33Z",
+    "question": "why states cannot agree in water negotatiations",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/why-states-cannot-agree-in-0a408fa4"
   },
   "/write-in-russian-acetylsalicylic-acid-12bade74": {
     "answered_at_utc": "2026-11-24T06:43:17.336Z",
