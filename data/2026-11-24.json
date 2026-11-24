@@ -47,6 +47,15 @@
     ],
     "url": "https://sci-bot.ru/cognitive-and-neuroscience-research-on-1ae314f4"
   },
+  "/definition-of-cbir-xai-explainable-6383e79a": {
+    "answered_at_utc": "2026-11-24T05:54:35.474Z",
+    "first_seen_utc": "2026-11-24T05:56:16Z",
+    "question": "definition of CBIR, XAI-Explainable Artificial Intelligence and Transfer Learning",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/definition-of-cbir-xai-explainable-6383e79a"
+  },
   "/diet-of-callistoctopus-macropus-eb3ccbbe": {
     "answered_at_utc": "2026-11-24T04:13:14.868Z",
     "first_seen_utc": "2026-11-24T04:15:43Z",
@@ -280,5 +289,14 @@
       "Philosophy"
     ],
     "url": "https://sci-bot.ru/what-are-the-common-interpretations-3ee34015"
+  },
+  "/when-using-the-direct-transcript-cb22a00a": {
+    "answered_at_utc": "2026-11-24T05:53:02.306Z",
+    "first_seen_utc": "2026-11-24T05:56:16Z",
+    "question": "When using the direct-transcript approach for dynamic optimization applied to chemical processes, some modifications are made to the DAE system that approximates the process behaviour. One of many transformations is converting the Arrhenius law equation that relates temperature a",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/when-using-the-direct-transcript-cb22a00a"
   }
 }
