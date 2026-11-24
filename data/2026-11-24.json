@@ -193,6 +193,16 @@
     ],
     "url": "https://sci-bot.ru/capstone-c30-a3387897"
   },
+  "/chinas-emergence-as-the-global-9a2e05f7": {
+    "answered_at_utc": "2026-11-24T22:24:56.800Z",
+    "first_seen_utc": "2026-11-24T22:32:05Z",
+    "question": "China's emergence as the global fintech capital and implications for Southeast Asia",
+    "topics": [
+      "Economics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/chinas-emergence-as-the-global-9a2e05f7"
+  },
   "/co2-control-indoor-farming-0b908874": {
     "answered_at_utc": "2026-11-24T16:42:48.145Z",
     "first_seen_utc": "2026-11-24T16:49:52Z",
@@ -819,6 +829,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/prepare-a-literature-review-on-395c0fa0"
+  },
+  "/preservation-theorems-in-model-theory-05a704e2": {
+    "answered_at_utc": "2026-11-24T22:31:02.312Z",
+    "first_seen_utc": "2026-11-24T22:32:05Z",
+    "question": "Preservation theorems in model theory and complete abstractions in abstract interpretation: which statements survive a lossy translation (1) Which classical theorems characterise the first-order sentences preserved under homomorphic images, under substructures, and under unions o",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/preservation-theorems-in-model-theory-05a704e2"
   },
   "/preservation-theorems-in-model-theory-de028d7b": {
     "answered_at_utc": "2026-11-24T11:11:26.574Z",
