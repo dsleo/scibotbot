@@ -282,6 +282,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-preparing-a-chemistry-4adb23ec"
   },
+  "/i-want-to-learn-about-9fcdb5d3": {
+    "answered_at_utc": "2026-11-24T08:18:34.347Z",
+    "first_seen_utc": "2026-11-24T08:27:00Z",
+    "question": "I want to learn about DFIG and FC control. Give me a list of papers from generalities about generator and converter structure and modelling equations to more detailed papers until ending with current trends in CCU control techniques",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/i-want-to-learn-about-9fcdb5d3"
+  },
   "/im-preparing-a-phd-research-2b0d5f2a": {
     "answered_at_utc": "2026-11-24T00:09:55.213Z",
     "first_seen_utc": "2026-11-24T00:14:38Z",
@@ -380,6 +390,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/selection-of-pulsing-parameters-and-28f5f0e6"
+  },
+  "/stretching-again-what-does-it-ac8274ae": {
+    "answered_at_utc": "2026-11-24T08:20:40.947Z",
+    "first_seen_utc": "2026-11-24T08:27:00Z",
+    "question": "stretching again: what does it do, does it prevent injuries, does it prevent something about sports, is it worth after workouts or practice systematic reviews in evey language",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/stretching-again-what-does-it-ac8274ae"
   },
   "/synergistic-of-lipoic-acid-and-ba59b5cf": {
     "answered_at_utc": "2026-11-24T03:10:08.453Z",
