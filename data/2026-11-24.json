@@ -571,6 +571,16 @@
     ],
     "url": "https://sci-bot.ru/how-could-a-man-with-8dd298da"
   },
+  "/how-to-anatomically-correctly-fit-ed2183a2": {
+    "answered_at_utc": "2026-11-24T23:39:39.400Z",
+    "first_seen_utc": "2026-11-24T23:42:36Z",
+    "question": "how to anatomically correctly fit shoes on 3D foot model (two soft-bodies)?",
+    "topics": [
+      "Computer science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-to-anatomically-correctly-fit-ed2183a2"
+  },
   "/how-to-anatomically-correctly-model-225cf037": {
     "answered_at_utc": "2026-11-24T19:01:05.023Z",
     "first_seen_utc": "2026-11-24T19:10:48Z",
@@ -763,6 +773,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/part-1-of-4-msc-a60b6880"
+  },
+  "/pfa-3d-geothermal-7b5978c3": {
+    "answered_at_utc": "2026-11-24T23:36:14.120Z",
+    "first_seen_utc": "2026-11-24T23:42:36Z",
+    "question": "PFA 3D Geothermal",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/pfa-3d-geothermal-7b5978c3"
   },
   "/phgg-all-the-studies-regarding-1e7ee578": {
     "answered_at_utc": "2026-11-24T13:33:21.857Z",
@@ -1127,6 +1146,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/weak-lumpability-of-finite-markov-0df270ec"
+  },
+  "/weak-lumpability-of-finite-markov-49697fdc": {
+    "answered_at_utc": "2026-11-24T23:33:36.225Z",
+    "first_seen_utc": "2026-11-24T23:42:36Z",
+    "question": "Weak lumpability of finite Markov chains: is the family of weakly lumpable partitions closed under the join? Already have: Kemeny et al. 1976, Finite Markov Chains; Rubino et al. 1989, On weak lumpability in Markov chains; Buchholz 1994, Exact and ordinary lumpability in finite M",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/weak-lumpability-of-finite-markov-49697fdc"
   },
   "/what-are-the-best-remedies-a928d0c6": {
     "answered_at_utc": "2026-11-24T01:49:02.440Z",
