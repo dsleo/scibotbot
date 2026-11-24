@@ -220,6 +220,15 @@
     ],
     "url": "https://sci-bot.ru/does-a-higher-level-of-4449cd1c"
   },
+  "/drug-administration-frotocol-for-pre-7a3b5a07": {
+    "answered_at_utc": "2026-11-24T11:53:20.993Z",
+    "first_seen_utc": "2026-11-24T11:58:10Z",
+    "question": "Drug administration frotocol for pre 45 dpf Zebrafish juvenile using 10.1242/jeb.245186",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/drug-administration-frotocol-for-pre-7a3b5a07"
+  },
   "/energy-consumption-modeling-prediction-and-e8992455": {
     "answered_at_utc": "2026-11-24T08:14:59.915Z",
     "first_seen_utc": "2026-11-24T08:17:01Z",
@@ -687,5 +696,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/write-in-russian-acetylsalicylic-acid-12bade74"
+  },
+  "/you-are-a-psychology-student-0502a3ee": {
+    "answered_at_utc": "2026-11-24T09:19:34.917Z",
+    "first_seen_utc": "2026-11-24T11:58:10Z",
+    "question": "You are a psychology student doing your master degree on clinical psychology and personalities. You want to teach other first year bachelor students about personality, more specifically you want to emphasize what aptitudes are, how they are classified, what is their importance an",
+    "topics": [
+      "Psychology",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/you-are-a-psychology-student-0502a3ee"
   }
 }
