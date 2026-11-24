@@ -47,6 +47,16 @@
     ],
     "url": "https://sci-bot.ru/find-recent-peer-reviewed-studies-33f471f8"
   },
+  "/find-recent-scopus-indexed-studies-d8d6264a": {
+    "answered_at_utc": "2026-11-24T01:00:32.723Z",
+    "first_seen_utc": "2026-11-24T01:04:47Z",
+    "question": "Find recent Scopus-indexed studies (2017–2026), preferably Q1/Q2, explaining why landfill-derived compost may contain higher microplastic abundance than commercial compost and agricultural soil. Focus on waste sorting and source separation as key factors in reducing plastic conta",
+    "topics": [
+      "Earth science",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/find-recent-scopus-indexed-studies-d8d6264a"
+  },
   "/im-preparing-a-phd-research-2b0d5f2a": {
     "answered_at_utc": "2026-11-24T00:09:55.213Z",
     "first_seen_utc": "2026-11-24T00:14:38Z",
