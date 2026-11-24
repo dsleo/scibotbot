@@ -75,6 +75,15 @@
     ],
     "url": "https://sci-bot.ru/find-recent-scopus-indexed-studies-d8d6264a"
   },
+  "/give-me-the-state-of-51ac5648": {
+    "answered_at_utc": "2026-11-24T03:05:12.504Z",
+    "first_seen_utc": "2026-11-24T03:05:16Z",
+    "question": "Give me the state of research about the structure and organization of political parties",
+    "topics": [
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/give-me-the-state-of-51ac5648"
+  },
   "/i-am-modeling-the-potential-c9be09a6": {
     "answered_at_utc": "2026-11-24T02:29:37.418Z",
     "first_seen_utc": "2026-11-24T02:35:13Z",
@@ -137,6 +146,16 @@
       "Education"
     ],
     "url": "https://sci-bot.ru/play-things-to-bridge-the-f0bbca57"
+  },
+  "/selection-of-pulsing-parameters-and-28f5f0e6": {
+    "answered_at_utc": "2026-11-24T03:03:20.428Z",
+    "first_seen_utc": "2026-11-24T03:05:16Z",
+    "question": "Selection of pulsing parameters and bead geometry in pulsed GMAW of 316L stainless steel 1.2mm and 0.8mm WAAM, and transition current on Ar-2%O2 for these.",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/selection-of-pulsing-parameters-and-28f5f0e6"
   },
   "/totally-ignoring-any-dangers-from-b35bc10d": {
     "answered_at_utc": "2026-11-24T01:52:30.649Z",
