@@ -26,6 +26,15 @@
     ],
     "url": "https://sci-bot.ru/any-research-articles-that-explicitly-437e7f58"
   },
+  "/are-there-any-new-emerging-73157c7f": {
+    "answered_at_utc": "2026-11-24T06:46:06.146Z",
+    "first_seen_utc": "2026-11-24T06:46:24Z",
+    "question": "are there any new emerging peripheral blood based biomarkers that can give us information on acute concussion? even concussion in general. I want to know if new purposed of existing molecs, new discoveries!",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/are-there-any-new-emerging-73157c7f"
+  },
   "/auditory-masking-threshold-in-right-a1291021": {
     "answered_at_utc": "2026-11-24T00:13:16.043Z",
     "first_seen_utc": "2026-11-24T00:14:38Z",
@@ -346,5 +355,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/when-using-the-direct-transcript-cb22a00a"
+  },
+  "/write-in-russian-acetylsalicylic-acid-12bade74": {
+    "answered_at_utc": "2026-11-24T06:43:17.336Z",
+    "first_seen_utc": "2026-11-24T06:46:24Z",
+    "question": "write in russian: acetylsalicylic acid (ASA) as on object of analytical research. structure 1. Chemical structure, physicochemical properties, solubility, stability, stability and hydrolylis of ASA. 2. Main quantitative determination methods (titrimetric, spectrophotometric, HPLC",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/write-in-russian-acetylsalicylic-acid-12bade74"
   }
 }
