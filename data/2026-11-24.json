@@ -488,6 +488,16 @@
     ],
     "url": "https://sci-bot.ru/network-05ac6076"
   },
+  "/phgg-all-the-studies-regarding-1e7ee578": {
+    "answered_at_utc": "2026-11-24T13:33:21.857Z",
+    "first_seen_utc": "2026-11-24T13:38:38Z",
+    "question": "phgg all the studies regarding human health",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/phgg-all-the-studies-regarding-1e7ee578"
+  },
   "/play-things-to-bridge-the-f0bbca57": {
     "answered_at_utc": "2026-11-24T01:33:38.680Z",
     "first_seen_utc": "2026-11-24T01:34:56Z",
@@ -599,6 +609,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/research-literature-papers-related-to-28966a2b"
+  },
+  "/seamounts-what-are-they-can-75a277ac": {
+    "answered_at_utc": "2026-11-24T13:29:42.675Z",
+    "first_seen_utc": "2026-11-24T13:38:38Z",
+    "question": "Seamounts? What are they? Can the SICE effect be observed using satellites?",
+    "topics": [
+      "Earth science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/seamounts-what-are-they-can-75a277ac"
   },
   "/search-for-all-literature-available-5d9560a0": {
     "answered_at_utc": "2026-11-24T09:20:56.085Z",
