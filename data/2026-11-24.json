@@ -249,6 +249,16 @@
     ],
     "url": "https://sci-bot.ru/conduct-a-focused-academic-literature-3c94b26e"
   },
+  "/conduct-a-focused-academic-literature-98fb8ebe": {
+    "answered_at_utc": "2026-11-24T23:23:18.932Z",
+    "first_seen_utc": "2026-11-24T23:32:22Z",
+    "question": "Conduct a focused academic literature search on: \"Energy-Aware Model Predictive Control and Online Energy Prediction for UAV Systems\" Investigate: 1. Model Predictive Control (MPC) for UAV energy management. 2. Energy-aware trajectory optimization. 3. Online energy consumption",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/conduct-a-focused-academic-literature-98fb8ebe"
+  },
   "/conduct-a-focused-academic-literature-fc9139b7": {
     "answered_at_utc": "2026-11-24T07:14:16.460Z",
     "first_seen_utc": "2026-11-24T07:16:35Z",
@@ -744,6 +754,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/nutrition-transition-bf40edf4"
+  },
+  "/part-1-of-4-msc-a60b6880": {
+    "answered_at_utc": "2026-11-24T23:28:41.845Z",
+    "first_seen_utc": "2026-11-24T23:32:22Z",
+    "question": "PART 1 of 4. MSc literature search. Be exhaustive and honest. Only list real papers with a DOI or URL. If unsure a paper exists, leave it out. Say when you saw only the abstract. QUESTION: does oxygen supply limit how a living-cell bioartificial kidney (BAK) hollow-fibre bioreac",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/part-1-of-4-msc-a60b6880"
   },
   "/phgg-all-the-studies-regarding-1e7ee578": {
     "answered_at_utc": "2026-11-24T13:33:21.857Z",
