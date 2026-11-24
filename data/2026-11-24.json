@@ -75,6 +75,15 @@
     ],
     "url": "https://sci-bot.ru/diet-of-callistoctopus-macropus-eb3ccbbe"
   },
+  "/diet-of-synodus-saurus-and-8fa08f95": {
+    "answered_at_utc": "2026-11-24T06:17:28.276Z",
+    "first_seen_utc": "2026-11-24T06:26:24Z",
+    "question": "Diet of Synodus saurus and Synodus synodus",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/diet-of-synodus-saurus-and-8fa08f95"
+  },
   "/do-binaural-beats-do-anything-737c9a80": {
     "answered_at_utc": "2026-11-24T04:34:28.282Z",
     "first_seen_utc": "2026-11-24T04:35:42Z",
@@ -130,6 +139,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/find-recent-scopus-indexed-studies-d8d6264a"
+  },
+  "/give-me-a-roadmap-with-1e820a67": {
+    "answered_at_utc": "2026-11-24T06:23:45.272Z",
+    "first_seen_utc": "2026-11-24T06:26:24Z",
+    "question": "give me a roadmap with specific books to self-study mathematics to an undergraduate or graduate level",
+    "topics": [
+      "Mathematics",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/give-me-a-roadmap-with-1e820a67"
   },
   "/give-me-the-state-of-51ac5648": {
     "answered_at_utc": "2026-11-24T03:05:12.504Z",
@@ -230,6 +249,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/predatory-behaviour-of-the-synodus-7b669428"
+  },
+  "/research-literature-papers-related-to-28966a2b": {
+    "answered_at_utc": "2026-11-24T06:18:57.388Z",
+    "first_seen_utc": "2026-11-24T06:26:24Z",
+    "question": "research literature papers related to green finance",
+    "topics": [
+      "Economics",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/research-literature-papers-related-to-28966a2b"
   },
   "/selection-of-pulsing-parameters-and-28f5f0e6": {
     "answered_at_utc": "2026-11-24T03:03:20.428Z",
