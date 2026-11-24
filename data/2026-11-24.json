@@ -286,6 +286,15 @@
     ],
     "url": "https://sci-bot.ru/evolution-on-realistic-fitness-landscapes-91c9f845"
   },
+  "/find-1520-peer-reviewed-journal-34309129": {
+    "answered_at_utc": "2026-11-24T13:43:14.053Z",
+    "first_seen_utc": "2026-11-24T13:48:54Z",
+    "question": "Find 15–20 peer-reviewed journal articles for a university research project on univariate time-series forecasting of outdoor relative humidity (RH, %) using weather-station data from Chachapoyas, Peru. The project will use historical relative humidity as the only observed predict",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-1520-peer-reviewed-journal-34309129"
+  },
   "/find-1520-peer-reviewed-journal-d80aa519": {
     "answered_at_utc": "2026-11-24T01:14:05.137Z",
     "first_seen_utc": "2026-11-24T01:14:53Z",
@@ -453,6 +462,16 @@
     "question": "Is Ceratonereis tentaculata in Guam a cryptogenic species?",
     "topics": [],
     "url": "https://sci-bot.ru/is-ceratonereis-tentaculata-in-guam-f38c8c82"
+  },
+  "/japanese-websites-user-interface-especialy-17cbeb95": {
+    "answered_at_utc": "2026-11-24T13:40:11.600Z",
+    "first_seen_utc": "2026-11-24T13:48:54Z",
+    "question": "Japanese websites user interface, especialy in terms of information architecture and contrast with western websites. Why do they look cluttered?",
+    "topics": [
+      "Computer science",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/japanese-websites-user-interface-especialy-17cbeb95"
   },
   "/logics-preserved-by-lumpability-bisimulation-b1a49b36": {
     "answered_at_utc": "2026-11-24T12:17:02.469Z",
