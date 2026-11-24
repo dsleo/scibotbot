@@ -8,6 +8,16 @@
     ],
     "url": "https://sci-bot.ru/a-clock-out-of-synchronization-f4b2da5f"
   },
+  "/auditory-masking-threshold-in-right-a1291021": {
+    "answered_at_utc": "2026-11-24T00:13:16.043Z",
+    "first_seen_utc": "2026-11-24T00:14:38Z",
+    "question": "auditory masking threshold in right whales",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/auditory-masking-threshold-in-right-a1291021"
+  },
   "/find-recent-peer-reviewed-studies-33f471f8": {
     "answered_at_utc": "2026-11-23T23:59:34.517Z",
     "first_seen_utc": "2026-11-24T00:04:32Z",
@@ -17,5 +27,23 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/find-recent-peer-reviewed-studies-33f471f8"
+  },
+  "/im-preparing-a-phd-research-2b0d5f2a": {
+    "answered_at_utc": "2026-11-24T00:09:55.213Z",
+    "first_seen_utc": "2026-11-24T00:14:38Z",
+    "question": "I'm preparing a PhD research plan on how early-stage, university-origin ventures in the life sciences build legitimacy through narratives, and how the conditions of newness (limited resources, forming processes, no track record) shape those narratives. Please find peer-reviewed",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/im-preparing-a-phd-research-2b0d5f2a"
+  },
+  "/im-trying-to-plan-a-05324e42": {
+    "answered_at_utc": "2026-11-24T00:04:49.422Z",
+    "first_seen_utc": "2026-11-24T00:14:38Z",
+    "question": "i'm trying to plan a week that involves hops, running, skillwork, 4 minute continuous endurance sets of pullups/dips, norwegian 4x4 on rowing machine, and rock climbing. for the continuous pullups my current limiting factor is my grip endurance so I am doing repeaters 10s on 6s",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/im-trying-to-plan-a-05324e42"
   }
 }
