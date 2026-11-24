@@ -522,6 +522,15 @@
     ],
     "url": "https://sci-bot.ru/uav-or-drone-or-multi-52472ec7"
   },
+  "/water-immersion-adminstration-of-drugs-e5d523c5": {
+    "answered_at_utc": "2026-11-24T09:58:20.157Z",
+    "first_seen_utc": "2026-11-24T10:07:37Z",
+    "question": "Water immersion adminstration of drugs for zebrafish larva/juvenile protocol?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/water-immersion-adminstration-of-drugs-e5d523c5"
+  },
   "/what-are-the-best-remedies-a928d0c6": {
     "answered_at_utc": "2026-11-24T01:49:02.440Z",
     "first_seen_utc": "2026-11-24T01:55:01Z",
@@ -549,6 +558,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/what-are-the-proposd-geodynamic-81918f32"
+  },
+  "/what-is-the-recent-literature-648dec5c": {
+    "answered_at_utc": "2026-11-24T10:04:44.233Z",
+    "first_seen_utc": "2026-11-24T10:07:37Z",
+    "question": "what is the recent literature about this topic? Patient-Centered Approaches and Quality of Life, Functional Outcomes, Clinical Outcomes, and Patient Experience in Orthopaedic Care",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-recent-literature-648dec5c"
   },
   "/what-research-looks-into-metal-197ec453": {
     "answered_at_utc": "2026-11-24T09:41:24.121Z",
