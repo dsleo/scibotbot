@@ -37,6 +37,24 @@
     ],
     "url": "https://sci-bot.ru/evolution-on-realistic-fitness-landscapes-91c9f845"
   },
+  "/find-1520-peer-reviewed-journal-d80aa519": {
+    "answered_at_utc": "2026-11-24T01:14:05.137Z",
+    "first_seen_utc": "2026-11-24T01:14:53Z",
+    "question": "Find 15–20 peer-reviewed journal articles for a university research project on univariate time-series forecasting of outdoor relative humidity (RH, %) using weather-station data from Chachapoyas, Peru. The project will use historical relative humidity as the only observed predict",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-1520-peer-reviewed-journal-d80aa519"
+  },
+  "/find-peer-reviewed-articles-4-e37a5d3b": {
+    "answered_at_utc": "2026-11-24T01:07:20.760Z",
+    "first_seen_utc": "2026-11-24T01:14:53Z",
+    "question": "Find peer reviewed articles 4 \"Case 3: The Data Agreement Background. Artificial intelligence (AI) tools that read scans, flag patients who are getting sicker or draft clinical notes are built from very large collections of patient records. Most of those records come from a small",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-articles-4-e37a5d3b"
+  },
   "/find-recent-peer-reviewed-studies-33f471f8": {
     "answered_at_utc": "2026-11-23T23:59:34.517Z",
     "first_seen_utc": "2026-11-24T00:04:32Z",
