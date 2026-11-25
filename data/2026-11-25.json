@@ -1,4 +1,13 @@
 {
+  "/act-as-a-research-librarian-ca9442e0": {
+    "answered_at_utc": "2026-11-25T15:05:08.910Z",
+    "first_seen_utc": "2026-11-25T15:10:54Z",
+    "question": "Act as a research librarian specializing in statistical modeling, time series, and environmental meteorology. Find peer-reviewed scientific articles (2010–2026) relevant to modeling and probabilistic forecasting of relative humidity (RH) as a bounded response in (0,1), with empha",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-research-librarian-ca9442e0"
+  },
   "/activated-charcoal-in-barium-sulphate-2f040489": {
     "answered_at_utc": "2026-11-25T09:15:50.918Z",
     "first_seen_utc": "2026-11-25T09:20:48Z",
