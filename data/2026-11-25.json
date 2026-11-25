@@ -160,6 +160,16 @@
     ],
     "url": "https://sci-bot.ru/heterostructure-ganalgan-2cc03059"
   },
+  "/i-am-preparing-a-literature-12c62f50": {
+    "answered_at_utc": "2026-11-25T09:35:01.334Z",
+    "first_seen_utc": "2026-11-25T09:44:29Z",
+    "question": "I am preparing a literature review for an LES study of a laboratory-scale lean premixed Bunsen flame (methane/air with hydrogen enrichment) using Flamelet-Generated Manifolds (FGM) in ANSYS Fluent, compared against an OpenFOAM FGM solver. I need peer-reviewed papers and PhD these",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/i-am-preparing-a-literature-12c62f50"
+  },
   "/i-would-like-a-comprehensive-5667320b": {
     "answered_at_utc": "2026-11-25T06:53:23.459Z",
     "first_seen_utc": "2026-11-25T06:59:53Z",
@@ -236,6 +246,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/search-for-scientific-articles-of-ef33e5dd"
+  },
+  "/static-network-topology-layout-without-e1c5d8c9": {
+    "answered_at_utc": "2026-11-25T09:43:35.537Z",
+    "first_seen_utc": "2026-11-25T09:44:29Z",
+    "question": "static network topology layout without colliding nodes or edges",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/static-network-topology-layout-without-e1c5d8c9"
   },
   "/the-control-strategicalgorithms-for-formation-91fcc6fe": {
     "answered_at_utc": "2026-11-25T06:20:31.288Z",
