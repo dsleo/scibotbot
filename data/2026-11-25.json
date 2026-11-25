@@ -233,6 +233,15 @@
     ],
     "url": "https://sci-bot.ru/diet-and-predatory-behaviour-of-ce5873a1"
   },
+  "/does-a-formalised-statement-say-929b5437": {
+    "answered_at_utc": "2026-11-25T21:46:33.949Z",
+    "first_seen_utc": "2026-11-25T21:47:21Z",
+    "question": "Does a formalised statement say what was meant? Statement fidelity in formal libraries, and certifying algorithms (1) For formal libraries (Lean, Isabelle, Coq, Mizar): studies of how often a formalised statement differs from the intended theorem, and techniques to detect it (red",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/does-a-formalised-statement-say-929b5437"
+  },
   "/evaluate-the-feasibility-of-a-8e81314b": {
     "answered_at_utc": "2026-11-25T17:36:21.823Z",
     "first_seen_utc": "2026-11-25T17:45:31Z",
@@ -829,6 +838,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/what-paper-built-on-the-f73fe7fb"
+  },
+  "/who-has-critiqued-adhd-and-f1066c11": {
+    "answered_at_utc": "2026-11-25T21:40:28.632Z",
+    "first_seen_utc": "2026-11-25T21:47:21Z",
+    "question": "who has critiqued adhd and on which basis",
+    "topics": [
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/who-has-critiqued-adhd-and-f1066c11"
   },
   "/write-a-research-paper-mentioning-2e1c5483": {
     "answered_at_utc": "2026-11-25T01:31:32.321Z",
