@@ -28,6 +28,15 @@
     ],
     "url": "https://sci-bot.ru/after-the-suicide-in-things-79852d6f"
   },
+  "/automatic-parallelism-via-dynamical-system-26e9de49": {
+    "answered_at_utc": "2026-11-25T14:52:34.080Z",
+    "first_seen_utc": "2026-11-25T15:01:04Z",
+    "question": "automatic Parallelism via dynamical system theory",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/automatic-parallelism-via-dynamical-system-26e9de49"
+  },
   "/best-tnu2-and-visc2-values-aea21ba0": {
     "answered_at_utc": "2026-11-25T05:02:56.724Z",
     "first_seen_utc": "2026-11-25T05:03:49Z",
@@ -344,6 +353,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/is-domestic-phytoremediation-really-viable-68355465"
+  },
+  "/is-it-proper-to-set-0012324c": {
+    "answered_at_utc": "2026-11-25T14:57:19.331Z",
+    "first_seen_utc": "2026-11-25T15:01:04Z",
+    "question": "is it proper to set zero values of TNU2 and VISC2 in ROMS model",
+    "topics": [
+      "Earth science",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/is-it-proper-to-set-0012324c"
   },
   "/is-there-a-possible-interaction-c02f43ea": {
     "answered_at_utc": "2026-11-25T14:18:05.189Z",
