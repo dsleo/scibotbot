@@ -57,6 +57,15 @@
     ],
     "url": "https://sci-bot.ru/critical-criminology-and-its-main-82d35fc8"
   },
+  "/diet-and-predatory-behaviour-of-b6159877": {
+    "answered_at_utc": "2026-11-25T07:48:09.898Z",
+    "first_seen_utc": "2026-11-25T07:50:07Z",
+    "question": "Diet and predatory behaviour of Peltodoris atromaculata",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/diet-and-predatory-behaviour-of-b6159877"
+  },
   "/find-me-article-related-to-179c9dca": {
     "answered_at_utc": "2026-11-25T07:26:12.924Z",
     "first_seen_utc": "2026-11-25T07:30:04Z",
@@ -230,6 +239,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/what-are-the-best-recent-99b56848"
+  },
+  "/what-is-the-cellular-function-df74baa7": {
+    "answered_at_utc": "2026-11-25T07:44:39.915Z",
+    "first_seen_utc": "2026-11-25T07:50:07Z",
+    "question": "What is the cellular function of the gene yoaA from D39 S. pneumoniae (alias SPV_0705,SPD_0705, spr0711, SP_0802, SPV_RS03790)? Is there any link with the elongasome?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-cellular-function-df74baa7"
   },
   "/what-paper-built-on-the-f73fe7fb": {
     "answered_at_utc": "2026-11-25T06:16:25.671Z",
