@@ -280,6 +280,15 @@
     ],
     "url": "https://sci-bot.ru/find-me-article-related-to-179c9dca"
   },
+  "/find-me-the-range-of-ad4f6797": {
+    "answered_at_utc": "2026-11-25T23:06:37.849Z",
+    "first_seen_utc": "2026-11-25T23:07:56Z",
+    "question": "Find me the range of the following parameters for the Himalayas please. Having a wide range of possible values is acceptable, and the values can come from non-HBV related studies (field measurements are preferred) 1) MAXBAS: length of equilateral triangular weighting function 2)",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-me-the-range-of-ad4f6797"
+  },
   "/find-peer-reviewed-empirical-studies-2ba11175": {
     "answered_at_utc": "2026-11-25T07:12:01.616Z",
     "first_seen_utc": "2026-11-25T07:19:56Z",
@@ -849,6 +858,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/what-is-a-classification-of-c3dc67f3"
+  },
+  "/what-is-the-age-of-d9265222": {
+    "answered_at_utc": "2026-11-25T22:59:51.404Z",
+    "first_seen_utc": "2026-11-25T23:07:56Z",
+    "question": "what is the age of the Beja-Acebuches Ophiolitic Complex?",
+    "topics": [
+      "Earth science",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-age-of-d9265222"
   },
   "/what-is-the-cellular-function-df74baa7": {
     "answered_at_utc": "2026-11-25T07:44:39.915Z",
