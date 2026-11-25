@@ -224,6 +224,16 @@
     ],
     "url": "https://sci-bot.ru/evaluate-the-feasibility-of-a-8e81314b"
   },
+  "/explain-the-concept-of-mycoremediation-e98ecd14": {
+    "answered_at_utc": "2026-11-25T20:32:26.761Z",
+    "first_seen_utc": "2026-11-25T20:37:16Z",
+    "question": "Explain the concept of mycoremediation. I understand that mushrooms are great at bioaccumulating certain pollutants, but is the whole idea that you just bioaccumulate them into the mushroom tissue and then transport that somewhere and dispose of it in a controlled manner, like in",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/explain-the-concept-of-mycoremediation-e98ecd14"
+  },
   "/extension-variables-and-compression-of-8762c8f1": {
     "answered_at_utc": "2026-11-25T12:16:05.253Z",
     "first_seen_utc": "2026-11-25T14:51:07Z",
@@ -317,6 +327,15 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/geonorphologic-mapping-862556f3"
+  },
+  "/give-me-5-recommendations-for-dd352149": {
+    "answered_at_utc": "2026-11-25T20:28:50.103Z",
+    "first_seen_utc": "2026-11-25T20:37:16Z",
+    "question": "give me 5 recommendations for litchi yield improvement via cultural methodology",
+    "topics": [
+      "agriculture"
+    ],
+    "url": "https://sci-bot.ru/give-me-5-recommendations-for-dd352149"
   },
   "/help-me-get-the-best-4d6368b6": {
     "answered_at_utc": "2026-11-25T05:15:46.202Z",
