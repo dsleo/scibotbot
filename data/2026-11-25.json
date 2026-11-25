@@ -84,6 +84,15 @@
     ],
     "url": "https://sci-bot.ru/find-peer-reviewed-empirical-studies-2ba11175"
   },
+  "/find-scientific-articles-that-present-95ddcb92": {
+    "answered_at_utc": "2026-11-25T07:59:07.230Z",
+    "first_seen_utc": "2026-11-25T08:00:12Z",
+    "question": "Find scientific articles that present their introductions following this structure: What is already known about the topic? What is the knowledge gap? Why is filling this knowledge gap important? What hypothesis, objective, or research question does the paper address? The topic sh",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/find-scientific-articles-that-present-95ddcb92"
+  },
   "/foaming-capacity-of-mucilage-using-3c309b7e": {
     "answered_at_utc": "2026-11-25T06:36:31.318Z",
     "first_seen_utc": "2026-11-25T06:39:48Z",
@@ -103,6 +112,15 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/friction-stir-welding-of-aluminum-37dca466"
+  },
+  "/geonorphologic-mapping-862556f3": {
+    "answered_at_utc": "2026-11-25T07:50:34.166Z",
+    "first_seen_utc": "2026-11-25T08:00:12Z",
+    "question": "geonorphologic mapping",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/geonorphologic-mapping-862556f3"
   },
   "/help-me-get-the-best-4d6368b6": {
     "answered_at_utc": "2026-11-25T05:15:46.202Z",
