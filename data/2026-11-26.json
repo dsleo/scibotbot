@@ -91,6 +91,16 @@
     ],
     "url": "https://sci-bot.ru/blastocyst-1ad468c8"
   },
+  "/can-anything-be-more-efficient-2126e643": {
+    "answered_at_utc": "2026-11-26T15:01:42.474Z",
+    "first_seen_utc": "2026-11-26T15:03:32Z",
+    "question": "Can anything be more efficient than EqF as an ArduPilot state filter superseding EKF3, given boundaries of a STM32H7 based flight controller?",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/can-anything-be-more-efficient-2126e643"
+  },
   "/can-you-tell-me-about-cf22d11f": {
     "answered_at_utc": "2026-11-26T08:16:13.170Z",
     "first_seen_utc": "2026-11-26T08:20:47Z",
@@ -387,6 +397,16 @@
     ],
     "url": "https://sci-bot.ru/how-do-i-train-my-39455d3a"
   },
+  "/how-does-spinorbit-coupling-soc-9eafefb5": {
+    "answered_at_utc": "2026-11-26T14:45:23.150Z",
+    "first_seen_utc": "2026-11-26T15:03:32Z",
+    "question": "How does spin–orbit coupling (SOC) influence the electronic band structure, band splitting, and Rashba spin splitting in two-dimensional Janus semiconductor monolayers with broken inversion symmetry? What are the reported Rashba coefficients and maximum spin-splitting energies in",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/how-does-spinorbit-coupling-soc-9eafefb5"
+  },
   "/i-have-a-gigabyte-aero-6c0c61e4": {
     "answered_at_utc": "2026-11-26T05:50:01.896Z",
     "first_seen_utc": "2026-11-26T05:50:08Z",
@@ -537,6 +557,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/please-write-a-literature-review-70d83fcd"
+  },
+  "/prediction-markets-70f483a1": {
+    "answered_at_utc": "2026-11-26T14:50:48.629Z",
+    "first_seen_utc": "2026-11-26T15:03:32Z",
+    "question": "prediction markets",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/prediction-markets-70f483a1"
   },
   "/provide-a-literature-review-on-32d359af": {
     "answered_at_utc": "2026-11-26T13:04:17.166Z",
