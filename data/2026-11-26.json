@@ -101,6 +101,16 @@
     ],
     "url": "https://sci-bot.ru/can-anything-be-more-efficient-2126e643"
   },
+  "/can-you-help-me-adapt-8112f05a": {
+    "answered_at_utc": "2026-11-26T17:11:31.567Z",
+    "first_seen_utc": "2026-11-26T17:14:43Z",
+    "question": "Can you help me adapt the CASE method (collaborate, About Me, Science, Explain) to be used in the ED and in EMS, where time is limited? I want to create a science-based method/tool so we can discuss vaccine-hesitancy with parents in a time-sensitive environment like the ED and EM",
+    "topics": [
+      "Biomedicine",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/can-you-help-me-adapt-8112f05a"
+  },
   "/can-you-tell-me-about-cf22d11f": {
     "answered_at_utc": "2026-11-26T08:16:13.170Z",
     "first_seen_utc": "2026-11-26T08:20:47Z",
@@ -639,6 +649,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/please-write-a-literature-review-70d83fcd"
+  },
+  "/positive-emotional-arousal-e070d7bd": {
+    "answered_at_utc": "2026-11-26T17:07:30.924Z",
+    "first_seen_utc": "2026-11-26T17:14:43Z",
+    "question": "positive emotional arousal",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/positive-emotional-arousal-e070d7bd"
   },
   "/prediction-markets-70f483a1": {
     "answered_at_utc": "2026-11-26T14:50:48.629Z",
