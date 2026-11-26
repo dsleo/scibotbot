@@ -889,6 +889,16 @@
     ],
     "url": "https://sci-bot.ru/role-you-are-a-scientific-18cdfee0"
   },
+  "/search-for-research-papers-explaining-141ef2e3": {
+    "answered_at_utc": "2026-11-26T20:44:46.898Z",
+    "first_seen_utc": "2026-11-26T20:52:49Z",
+    "question": "Search for research papers explaining the microscopic origin of ferroelectricity and piezoelectricity in tetramethylammonium bromotrichloroferrate ([(CH₃)₄N][FeBrCl₃]). Identify the contributions of molecular orientation, ionic displacement, symmetry breaking and lattice deformat",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/search-for-research-papers-explaining-141ef2e3"
+  },
   "/search-for-scientific-literature-protocols-e0044521": {
     "answered_at_utc": "2026-11-26T09:45:24.310Z",
     "first_seen_utc": "2026-11-26T09:51:25Z",
