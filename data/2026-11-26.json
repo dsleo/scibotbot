@@ -101,6 +101,16 @@
     ],
     "url": "https://sci-bot.ru/can-anything-be-more-efficient-2126e643"
   },
+  "/can-anything-be-more-efficient-5cc85349": {
+    "answered_at_utc": "2026-11-26T19:24:02.834Z",
+    "first_seen_utc": "2026-11-26T19:32:05Z",
+    "question": "Can anything be more efficient and/or precise than EqF (Equivariant Filter) as an ArduPilot state filter superseding EKF3, within boundaries of STM32H7 based flight controllers?",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/can-anything-be-more-efficient-5cc85349"
+  },
   "/can-you-help-me-adapt-8112f05a": {
     "answered_at_utc": "2026-11-26T17:11:31.567Z",
     "first_seen_utc": "2026-11-26T17:14:43Z",
@@ -900,6 +910,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/the-toxicity-of-chlorine-dioxide-fc341def"
+  },
+  "/the-weather-forecasting-applied-agriculture-3975c3eb": {
+    "answered_at_utc": "2026-11-26T19:29:31.986Z",
+    "first_seen_utc": "2026-11-26T19:32:05Z",
+    "question": "the weather forecasting applied agriculture",
+    "topics": [
+      "Earth science",
+      "agriculture"
+    ],
+    "url": "https://sci-bot.ru/the-weather-forecasting-applied-agriculture-3975c3eb"
   },
   "/tin-schotkky-contact-hemt-07bf21c6": {
     "answered_at_utc": "2026-11-26T18:41:50.637Z",
