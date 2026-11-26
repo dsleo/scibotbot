@@ -412,6 +412,15 @@
     "topics": [],
     "url": "https://sci-bot.ru/h1-interoceptive-confusion-icq-explains-f4376a1b"
   },
+  "/hi-could-you-look-for-a2a6f4fd": {
+    "answered_at_utc": "2026-11-26T21:42:15.525Z",
+    "first_seen_utc": "2026-11-26T21:48:23Z",
+    "question": "Hi, could you look for statistics regarding the total amount of injuries / incarcerated priests etc during the 1837 Cologne Conflict in Prussia?",
+    "topics": [
+      "History"
+    ],
+    "url": "https://sci-bot.ru/hi-could-you-look-for-a2a6f4fd"
+  },
   "/hi-please-let-me-the-6d576b31": {
     "answered_at_utc": "2026-11-26T02:37:51.510Z",
     "first_seen_utc": "2026-11-26T02:39:17Z",
@@ -1101,6 +1110,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-is-de-likelihood-of-fc4cc000"
+  },
+  "/what-is-remainder-stochastic-sampling-e281e81f": {
+    "answered_at_utc": "2026-11-26T21:45:23.449Z",
+    "first_seen_utc": "2026-11-26T21:48:23Z",
+    "question": "what is remainder stochastic sampling without replacement? where was it first described?",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/what-is-remainder-stochastic-sampling-e281e81f"
   },
   "/what-is-the-differnece-in-8e30925b": {
     "answered_at_utc": "2026-11-26T01:10:37.083Z",
