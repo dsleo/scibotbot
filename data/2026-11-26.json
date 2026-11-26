@@ -82,6 +82,16 @@
     ],
     "url": "https://sci-bot.ru/can-you-tell-me-about-cf22d11f"
   },
+  "/cardiac-glycosides-secondary-metabolites-4ff78705": {
+    "answered_at_utc": "2026-11-26T11:39:36.694Z",
+    "first_seen_utc": "2026-11-26T11:42:08Z",
+    "question": "cardiac glycosides secondary metabolites",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/cardiac-glycosides-secondary-metabolites-4ff78705"
+  },
   "/clavicular-perforator-flap-2265b938": {
     "answered_at_utc": "2026-11-26T07:16:30.916Z",
     "first_seen_utc": "2026-11-26T07:20:29Z",
@@ -305,6 +315,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/microinjection-of-cells-in-zebrafish-507cc25f"
+  },
+  "/need-some-statistical-answer-i-61cc0268": {
+    "answered_at_utc": "2026-11-26T11:36:49.632Z",
+    "first_seen_utc": "2026-11-26T11:42:08Z",
+    "question": "Need some statistical answer, I dont need any calculations but write the formulas only for each question. I mentioned the varaible i worked with data. Find me the relevent answer with related journals. I have given Question, method and Varaible. So find statistical answers. \"1.",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/need-some-statistical-answer-i-61cc0268"
   },
   "/ocular-ataxia-7f4848f7": {
     "answered_at_utc": "2026-11-26T04:54:42.329Z",
