@@ -585,6 +585,16 @@
     ],
     "url": "https://sci-bot.ru/i-am-working-on-an-c44da806"
   },
+  "/i-am-writing-a-masters-a30120cf": {
+    "answered_at_utc": "2026-11-26T22:59:37.401Z",
+    "first_seen_utc": "2026-11-26T23:09:38Z",
+    "question": "I am writing a master's thesis in Digital Humanities a web archiving project. What I study: - Object: websites from the 1990s that are still online today. I call them \"fossils\" (content frozen for more than ten years) and \"living fossils\" (still updated, but keeping their 1990s",
+    "topics": [
+      "Humanities",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/i-am-writing-a-masters-a30120cf"
+  },
   "/i-have-a-gigabyte-aero-6c0c61e4": {
     "answered_at_utc": "2026-11-26T05:50:01.896Z",
     "first_seen_utc": "2026-11-26T05:50:08Z",
@@ -1159,6 +1169,16 @@
       "History"
     ],
     "url": "https://sci-bot.ru/what-are-the-factors-that-395b4796"
+  },
+  "/what-are-the-major-factors-c44caf5d": {
+    "answered_at_utc": "2026-11-26T23:08:37.005Z",
+    "first_seen_utc": "2026-11-26T23:09:38Z",
+    "question": "What are the major factors contributing to the quality of a night's sleep?",
+    "topics": [
+      "Psychology",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-are-the-major-factors-c44caf5d"
   },
   "/what-does-the-scientific-literature-eb222fcf": {
     "answered_at_utc": "2026-11-26T20:00:50.019Z",
