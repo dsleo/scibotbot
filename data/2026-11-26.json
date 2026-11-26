@@ -82,6 +82,16 @@
     ],
     "url": "https://sci-bot.ru/can-you-tell-me-about-cf22d11f"
   },
+  "/can-you-write-me-a-0e6c804c": {
+    "answered_at_utc": "2026-11-26T13:19:03.891Z",
+    "first_seen_utc": "2026-11-26T13:22:44Z",
+    "question": "Can you write me a literature review about red fox bilogy in Europe?",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/can-you-write-me-a-0e6c804c"
+  },
   "/canavalia-intercroping-banana-09d9dbdf": {
     "answered_at_utc": "2026-11-26T12:11:31.229Z",
     "first_seen_utc": "2026-11-26T12:12:17Z",
@@ -431,6 +441,16 @@
       "History"
     ],
     "url": "https://sci-bot.ru/please-provide-me-with-10-b2763b4f"
+  },
+  "/provide-a-literature-review-on-32d359af": {
+    "answered_at_utc": "2026-11-26T13:04:17.166Z",
+    "first_seen_utc": "2026-11-26T13:22:44Z",
+    "question": "provide a literature review on the effects of traffic exposure especially, noise on cogitive inhibition and is it a research when that is examined using eyetracking",
+    "topics": [
+      "Neuroscience",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/provide-a-literature-review-on-32d359af"
   },
   "/radar-reflector-for-nonpalpable-breast-902794bd": {
     "answered_at_utc": "2026-11-26T06:20:06.909Z",
