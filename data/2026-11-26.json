@@ -453,6 +453,15 @@
     ],
     "url": "https://sci-bot.ru/how-does-spinorbit-coupling-soc-9eafefb5"
   },
+  "/i-am-looking-for-published-887edf66": {
+    "answered_at_utc": "2026-11-26T17:59:18.239Z",
+    "first_seen_utc": "2026-11-26T18:04:57Z",
+    "question": "I am looking for published literature describing the synthesis of poly(acrylate-co-acrylamide) (pAAm) or closely related copolymers under non-aqueous conditions, specifically using N,N-dimethylformamide (DMF) as the reaction solvent. The conventional synthesis of this copolymer",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/i-am-looking-for-published-887edf66"
+  },
   "/i-am-working-on-an-c44da806": {
     "answered_at_utc": "2026-11-26T16:34:43.596Z",
     "first_seen_utc": "2026-11-26T16:44:28Z",
@@ -638,6 +647,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/omw-i-podsumuj-badanie-pt-3a8e718f"
+  },
+  "/phytobezoar-a5e576d6": {
+    "answered_at_utc": "2026-11-26T18:01:12.051Z",
+    "first_seen_utc": "2026-11-26T18:04:57Z",
+    "question": "Phytobezoar",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/phytobezoar-a5e576d6"
   },
   "/plant-tissue-perfusion-0d30650b": {
     "answered_at_utc": "2026-11-26T01:02:30.483Z",
