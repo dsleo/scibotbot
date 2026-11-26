@@ -6,6 +6,16 @@
     "topics": [],
     "url": "https://sci-bot.ru/act-as-a-scientific-research-99fb6822"
   },
+  "/answer-entanswer-entirely-in-spanish-01139078": {
+    "answered_at_utc": "2026-11-26T13:50:48.945Z",
+    "first_seen_utc": "2026-11-26T13:53:05Z",
+    "question": "Answer entAnswer entirely in Spanish citing peer-reviewed papers with DOIs: How does spatial texture of satellite vegetation indices (such as EVI or NDVI texture metrics) act as a proxy for forest canopy structural heterogeneity, vertical stratification, and habitat suitability f",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/answer-entanswer-entirely-in-spanish-01139078"
+  },
   "/answer-entirely-in-spanish-with-5caebc09": {
     "answered_at_utc": "2026-11-26T04:32:31.695Z",
     "first_seen_utc": "2026-11-26T04:39:46Z",
@@ -166,6 +176,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/currently-is-there-a-gap-fd620752"
+  },
+  "/cyanogenic-glycosides-steviol-glycosides-polyphenolic-f841c0c4": {
+    "answered_at_utc": "2026-11-26T13:43:37.796Z",
+    "first_seen_utc": "2026-11-26T13:53:05Z",
+    "question": "cyanogenic glycosides, steviol glycosides, polyphenolic glycosides (flavonoids), iridoid glycosides, saponin glycosides seconder metabolites",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/cyanogenic-glycosides-steviol-glycosides-polyphenolic-f841c0c4"
   },
   "/de-qu-habla-este-artculo-ab5ce1dd": {
     "answered_at_utc": "2026-11-26T02:53:48.097Z",
