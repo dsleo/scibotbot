@@ -110,6 +110,15 @@
     ],
     "url": "https://sci-bot.ru/find-scientific-papers-and-empirical-b3d07936"
   },
+  "/find-surveys-from-the-past-4449446d": {
+    "answered_at_utc": "2026-11-26T08:06:48.335Z",
+    "first_seen_utc": "2026-11-26T08:10:43Z",
+    "question": "Find surveys from the past 5 years about the most common faults in motors, valves and cylinders in industry",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/find-surveys-from-the-past-4449446d"
+  },
   "/grip-training-9d47570c": {
     "answered_at_utc": "2026-11-26T06:32:45.720Z",
     "first_seen_utc": "2026-11-26T06:40:16Z",
