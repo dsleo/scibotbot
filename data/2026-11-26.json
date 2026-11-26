@@ -252,6 +252,16 @@
     ],
     "url": "https://sci-bot.ru/how-can-digital-vegetation-representation-2246727a"
   },
+  "/how-do-i-ensure-good-2f67f975": {
+    "answered_at_utc": "2026-11-26T11:53:23.227Z",
+    "first_seen_utc": "2026-11-26T12:02:15Z",
+    "question": "How do I ensure good communication in time-sensitive environments, like the ER or EMS?",
+    "topics": [
+      "Biomedicine",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/how-do-i-ensure-good-2f67f975"
+  },
   "/how-do-i-train-my-39455d3a": {
     "answered_at_utc": "2026-11-26T02:18:04.818Z",
     "first_seen_utc": "2026-11-26T02:27:37Z",
@@ -288,6 +298,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/im-developing-a-natural-canine-85e6b1e1"
+  },
+  "/im-writing-a-case-report-a16787f6": {
+    "answered_at_utc": "2026-11-26T11:56:41.374Z",
+    "first_seen_utc": "2026-11-26T12:02:15Z",
+    "question": "Im writing a case report on hypersensitivity reactions to metal implants in ortho surgery. What is the most up to date literature regarding the use of patch testing prior to surgery and diagnosis of hypersensitivity following reaction?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/im-writing-a-case-report-a16787f6"
   },
   "/in-adults-with-acquired-brain-0fc4a295": {
     "answered_at_utc": "2026-11-26T11:46:49.741Z",
