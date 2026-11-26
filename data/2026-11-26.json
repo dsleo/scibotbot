@@ -16,6 +16,16 @@
     ],
     "url": "https://sci-bot.ru/answer-entirely-in-spanish-with-5caebc09"
   },
+  "/answer-entirely-in-spanish-with-626d84bb": {
+    "answered_at_utc": "2026-11-26T05:35:53.952Z",
+    "first_seen_utc": "2026-11-26T05:40:03Z",
+    "question": "Answer entirely in Spanish with scientific references and DOIs: Why is the Enhanced Vegetation Index (EVI) preferred over NDVI to avoid signal saturation and characterize canopy productivity in dense tropical montane and cloud forests for avian habitat modeling?",
+    "topics": [
+      "Earth science",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/answer-entirely-in-spanish-with-626d84bb"
+  },
   "/blasting-mining-32e7d4ca": {
     "answered_at_utc": "2026-11-26T02:58:17.134Z",
     "first_seen_utc": "2026-11-26T02:59:17Z",
@@ -193,6 +203,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-is-the-differnece-in-8e30925b"
+  },
+  "/what-steps-should-be-included-4dcaa3d8": {
+    "answered_at_utc": "2026-11-26T05:31:33.087Z",
+    "first_seen_utc": "2026-11-26T05:40:03Z",
+    "question": "What steps should be included in a pipeline for peptide structure prediction?",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-steps-should-be-included-4dcaa3d8"
   },
   "/which-peer-reviewed-studies-test-aab48ea7": {
     "answered_at_utc": "2026-11-26T00:37:30.247Z",
