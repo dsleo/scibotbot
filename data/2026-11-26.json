@@ -35,6 +35,15 @@
     ],
     "url": "https://sci-bot.ru/based-on-the-empirical-panel-0eed16bc"
   },
+  "/bitemporal-hemianopsia-16c1a496": {
+    "answered_at_utc": "2026-11-26T07:07:27.545Z",
+    "first_seen_utc": "2026-11-26T07:10:34Z",
+    "question": "bitemporal hemianopsia",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/bitemporal-hemianopsia-16c1a496"
+  },
   "/blasting-mining-32e7d4ca": {
     "answered_at_utc": "2026-11-26T02:58:17.134Z",
     "first_seen_utc": "2026-11-26T02:59:17Z",
@@ -206,6 +215,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/plant-tissue-perfusion-0d30650b"
+  },
+  "/please-provide-me-with-10-b2763b4f": {
+    "answered_at_utc": "2026-11-26T07:09:05.219Z",
+    "first_seen_utc": "2026-11-26T07:10:34Z",
+    "question": "Please provide me with 10 best papers on geopolitics that I will use for the theoretical chapter in my PhD on geopolitics as a whole. Not necessarily about specific geopolitical thinkers such as Mackinder and others, but about geopolitics as a science, a field of research, or so",
+    "topics": [
+      "Humanities",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/please-provide-me-with-10-b2763b4f"
   },
   "/radar-reflector-for-nonpalpable-breast-902794bd": {
     "answered_at_utc": "2026-11-26T06:20:06.909Z",
