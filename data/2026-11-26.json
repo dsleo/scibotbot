@@ -308,6 +308,15 @@
     ],
     "url": "https://sci-bot.ru/radar-reflector-for-nonpalpable-breast-902794bd"
   },
+  "/role-you-are-a-scientific-18cdfee0": {
+    "answered_at_utc": "2026-11-26T10:01:16.118Z",
+    "first_seen_utc": "2026-11-26T10:01:25Z",
+    "question": "Role: You are a scientific literature analyst specializing in neurogenetics and ALS. Task: Write a comprehensive, evidence-based review of the SOD1 variant NM_000454.5:c.272A>C, p.Asp91Ala (legacy name: D90A, rs80265967). Answer in Russian, but keep gene/protein names, variant",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/role-you-are-a-scientific-18cdfee0"
+  },
   "/search-for-scientific-literature-protocols-e0044521": {
     "answered_at_utc": "2026-11-26T09:45:24.310Z",
     "first_seen_utc": "2026-11-26T09:51:25Z",
@@ -396,5 +405,14 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/which-peer-reviewed-studies-test-aab48ea7"
+  },
+  "/word-order-in-usku-26c2879f": {
+    "answered_at_utc": "2026-11-26T09:52:45.522Z",
+    "first_seen_utc": "2026-11-26T10:01:25Z",
+    "question": "word order in Usku",
+    "topics": [
+      "Language"
+    ],
+    "url": "https://sci-bot.ru/word-order-in-usku-26c2879f"
   }
 }
