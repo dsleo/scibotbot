@@ -6,6 +6,25 @@
     "topics": [],
     "url": "https://sci-bot.ru/act-as-a-scientific-research-99fb6822"
   },
+  "/blasting-mining-32e7d4ca": {
+    "answered_at_utc": "2026-11-26T02:58:17.134Z",
+    "first_seen_utc": "2026-11-26T02:59:17Z",
+    "question": "blasting mining",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/blasting-mining-32e7d4ca"
+  },
+  "/de-qu-habla-este-artculo-ab5ce1dd": {
+    "answered_at_utc": "2026-11-26T02:53:48.097Z",
+    "first_seen_utc": "2026-11-26T02:59:17Z",
+    "question": "de qué habla este artículo Decolonizzare il limite. Archetipi, identità migrante e architettura etica ai margini desertici di Anapra in Messico. Decolonising the Limit. Archetypes, Migrant Identity and Ethical Architecture at the Desertic Margins of Anapra, Mexico",
+    "topics": [
+      "Humanities",
+      "Arts"
+    ],
+    "url": "https://sci-bot.ru/de-qu-habla-este-artculo-ab5ce1dd"
+  },
   "/find-scientific-papers-and-empirical-b3d07936": {
     "answered_at_utc": "2026-11-26T00:15:58.580Z",
     "first_seen_utc": "2026-11-26T00:18:34Z",
