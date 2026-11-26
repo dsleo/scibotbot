@@ -121,6 +121,15 @@
     ],
     "url": "https://sci-bot.ru/can-you-tell-me-about-cf22d11f"
   },
+  "/can-you-use-schreger-lines-c9bcd772": {
+    "answered_at_utc": "2026-11-26T17:25:20.641Z",
+    "first_seen_utc": "2026-11-26T17:34:51Z",
+    "question": "Can you use Schreger lines to discern between mammoth, mastodon and cuvieronius ivory?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/can-you-use-schreger-lines-c9bcd772"
+  },
   "/can-you-write-me-a-0e6c804c": {
     "answered_at_utc": "2026-11-26T13:19:03.891Z",
     "first_seen_utc": "2026-11-26T13:22:44Z",
@@ -735,6 +744,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/search-for-scientific-literature-protocols-e0044521"
+  },
+  "/segmental-arterial-mediolysis-e101b99a": {
+    "answered_at_utc": "2026-11-26T17:34:18.930Z",
+    "first_seen_utc": "2026-11-26T17:34:51Z",
+    "question": "Segmental Arterial Mediolysis",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/segmental-arterial-mediolysis-e101b99a"
   },
   "/synthesis-of-lead-tetraaceate-from-b58e2fcf": {
     "answered_at_utc": "2026-11-26T05:29:59.129Z",
