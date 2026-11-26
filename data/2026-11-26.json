@@ -1,4 +1,11 @@
 {
+  "/act-as-a-scientific-research-99fb6822": {
+    "answered_at_utc": "2026-11-26T00:34:09.653Z",
+    "first_seen_utc": "2026-11-26T00:38:32Z",
+    "question": "Act as a scientific research assistant specialized in applied statistics, probability models, and tourism. PROJECT CONTEXT Applied research project (UNSAAC, Cusco, Peru): \"Probability models for tourism analysis in Cusco.\" Quantitative approach, descriptive-analytical. - General",
+    "topics": [],
+    "url": "https://sci-bot.ru/act-as-a-scientific-research-99fb6822"
+  },
   "/find-scientific-papers-and-empirical-b3d07936": {
     "answered_at_utc": "2026-11-26T00:15:58.580Z",
     "first_seen_utc": "2026-11-26T00:18:34Z",
@@ -17,5 +24,14 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/if-a-patient-has-an-14e47421"
+  },
+  "/which-peer-reviewed-studies-test-aab48ea7": {
+    "answered_at_utc": "2026-11-26T00:37:30.247Z",
+    "first_seen_utc": "2026-11-26T00:38:32Z",
+    "question": "Which peer-reviewed studies test time-series momentum on equity index futures with explicit transaction cost modelling? For each, report authors, year, markets, lookback rules, net Sharpe.",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/which-peer-reviewed-studies-test-aab48ea7"
   }
 }
