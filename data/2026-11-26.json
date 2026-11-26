@@ -6,6 +6,16 @@
     "topics": [],
     "url": "https://sci-bot.ru/act-as-a-scientific-research-99fb6822"
   },
+  "/an-overview-of-wireless-communications-e00a7a3a": {
+    "answered_at_utc": "2026-11-26T22:32:19.922Z",
+    "first_seen_utc": "2026-11-26T22:38:47Z",
+    "question": "An overview of wireless communications",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/an-overview-of-wireless-communications-e00a7a3a"
+  },
   "/answer-entanswer-entirely-in-spanish-01139078": {
     "answered_at_utc": "2026-11-26T13:50:48.945Z",
     "first_seen_utc": "2026-11-26T13:53:05Z",
@@ -347,6 +357,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/find-concise-answers-for-the-099df241"
+  },
+  "/find-concise-answers-to-the-c1e26bdd": {
+    "answered_at_utc": "2026-11-26T22:29:13.514Z",
+    "first_seen_utc": "2026-11-26T22:38:47Z",
+    "question": "Find concise answers to the following questions: \"Cell Signaling III How does ligand binding induce RTK activation? What is meant by dimerization and trans-phosphorylation, and why is this essential for generating docking sites? How do SH2-domain-containing proteins rec",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/find-concise-answers-to-the-c1e26bdd"
   },
   "/find-me-new-problems-and-c81feff2": {
     "answered_at_utc": "2026-11-26T11:43:31.263Z",
@@ -1111,6 +1130,15 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/we-are-developing-a-qualitativesemi-d1813eea"
+  },
+  "/what-are-the-factors-that-395b4796": {
+    "answered_at_utc": "2026-11-26T22:38:06.003Z",
+    "first_seen_utc": "2026-11-26T22:38:47Z",
+    "question": "what are the factors that led to the downfall of DMK in the 2026 Assembly Elections in Tamil Nadu?",
+    "topics": [
+      "History"
+    ],
+    "url": "https://sci-bot.ru/what-are-the-factors-that-395b4796"
   },
   "/what-does-the-scientific-literature-eb222fcf": {
     "answered_at_utc": "2026-11-26T20:00:50.019Z",
