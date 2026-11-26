@@ -53,6 +53,15 @@
     ],
     "url": "https://sci-bot.ru/blasting-mining-32e7d4ca"
   },
+  "/blastocyst-1ad468c8": {
+    "answered_at_utc": "2026-11-26T08:34:48.773Z",
+    "first_seen_utc": "2026-11-26T08:50:52Z",
+    "question": "blastocyst",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/blastocyst-1ad468c8"
+  },
   "/can-you-tell-me-about-cf22d11f": {
     "answered_at_utc": "2026-11-26T08:16:13.170Z",
     "first_seen_utc": "2026-11-26T08:20:47Z",
@@ -323,6 +332,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/under-what-market-conditions-does-63a42f41"
+  },
+  "/we-are-developing-a-qualitativesemi-d1813eea": {
+    "answered_at_utc": "2026-11-26T08:32:59.506Z",
+    "first_seen_utc": "2026-11-26T08:50:52Z",
+    "question": "We are developing a qualitative/semi-quantitative decision-support tool for slope stability analysis in the face of climate change. Below, you will find 216 distinct slope scenarios resulting from the exact Cartesian product of five geotechnical and geomorphological parameters:",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/we-are-developing-a-qualitativesemi-d1813eea"
   },
   "/what-is-the-differnece-in-8e30925b": {
     "answered_at_utc": "2026-11-26T01:10:37.083Z",
