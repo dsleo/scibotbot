@@ -25,6 +25,16 @@
     ],
     "url": "https://sci-bot.ru/de-qu-habla-este-artculo-ab5ce1dd"
   },
+  "/find-10-real-and-verifiable-693d6f78": {
+    "answered_at_utc": "2026-11-26T03:49:56.819Z",
+    "first_seen_utc": "2026-11-26T03:59:38Z",
+    "question": "Find 10 real and verifiable scientific articles related to **relative humidity forecasting using statistical models and recurrent neural networks (RNN, LSTM, and GRU)**. My research focuses on predicting hourly relative humidity in Chachapoyas, Peru, using meteorological data fr",
+    "topics": [
+      "Computer science",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/find-10-real-and-verifiable-693d6f78"
+  },
   "/find-scientific-papers-and-empirical-b3d07936": {
     "answered_at_utc": "2026-11-26T00:15:58.580Z",
     "first_seen_utc": "2026-11-26T00:18:34Z",
@@ -82,6 +92,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/im-developing-a-natural-canine-85e6b1e1"
+  },
+  "/ocular-paresis-196fb4d1": {
+    "answered_at_utc": "2026-11-26T03:53:34.636Z",
+    "first_seen_utc": "2026-11-26T03:59:38Z",
+    "question": "ocular paresis",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/ocular-paresis-196fb4d1"
   },
   "/plant-tissue-perfusion-0d30650b": {
     "answered_at_utc": "2026-11-26T01:02:30.483Z",
