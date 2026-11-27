@@ -301,6 +301,16 @@
     ],
     "url": "https://sci-bot.ru/narrowband-hf-ssb-2427-khz-47cb72d3"
   },
+  "/narrowband-hf-ssb-2427-khz-de8c3797": {
+    "answered_at_utc": "2026-11-27T11:39:20.386Z",
+    "first_seen_utc": "2026-11-27T11:50:10Z",
+    "question": "Narrowband HF SSB (2.4–2.7 kHz) Zak-OTFS modem constraints: - Single-packet, zero-handshake (0.5–1 s burst; no TX CSI, no ARQ). - Continuous Gaussian-like payload (~384 complex floats; NO QAM, NO slicing, NO FEC). - Diffuse Watterson multipath (2–5 ms, 0.1–10 Hz), heavy impulsive",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/narrowband-hf-ssb-2427-khz-de8c3797"
+  },
   "/oq-and-pq-document-js02rpt036-2ceddd6f": {
     "answered_at_utc": "2026-11-27T04:56:56.167Z",
     "first_seen_utc": "2026-11-27T05:01:37Z",
@@ -452,6 +462,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/rice-noodle-enriched-with-nutritional-c695a098"
+  },
+  "/scrivi-lintro-di-un-paper-7c38587e": {
+    "answered_at_utc": "2026-11-27T11:42:34.927Z",
+    "first_seen_utc": "2026-11-27T11:50:10Z",
+    "question": "scrivi l'intro di un paper \"Spatial stacking of co-located distributed acoustic sensing fibers\". ti do qualche appunto % Known: the costs of spatial stacking are small. The sections are recorded together in every shot, so spatial stacking adds no field time. Its instrument-side c",
+    "topics": [
+      "Physics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/scrivi-lintro-di-un-paper-7c38587e"
   },
   "/summarise-v-vollers-paper-in-e435761b": {
     "answered_at_utc": "2026-11-27T08:33:37.459Z",
