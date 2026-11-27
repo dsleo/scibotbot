@@ -1,4 +1,11 @@
 {
+  "/act-as-a-professor-of-a8eb9ef4": {
+    "answered_at_utc": "2026-11-27T04:31:15.431Z",
+    "first_seen_utc": "2026-11-27T04:31:19Z",
+    "question": "Act as a professor of Natural Products Chemistry and tabulate sesquiterpenoid compounds isolated from Artabotrys sahyadricus or Artabotrys genus also looking at previous Isolation, structural elucidation, and bioactivity",
+    "topics": [],
+    "url": "https://sci-bot.ru/act-as-a-professor-of-a8eb9ef4"
+  },
   "/act-as-a-senior-polymer-dd1b46e7": {
     "answered_at_utc": "2026-11-27T04:02:14.442Z",
     "first_seen_utc": "2026-11-27T04:11:26Z",
@@ -72,6 +79,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/in-functional-connectivity-studies-that-c1dac1a1"
+  },
+  "/provide-me-with-a-literature-59316825": {
+    "answered_at_utc": "2026-11-27T04:26:00.074Z",
+    "first_seen_utc": "2026-11-27T04:31:19Z",
+    "question": "provide me with a literature summary. I am interested in people solving two phase stefan problems using fractional order calculus",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/provide-me-with-a-literature-59316825"
   },
   "/quel-est-le-rle-de-f14fcade": {
     "answered_at_utc": "2026-11-26T20:28:58.187Z",
