@@ -8,6 +8,16 @@
     ],
     "url": "https://sci-bot.ru/13-c-nmr-spectra-of-e7ce651b"
   },
+  "/a-patient-with-er-her2-687d66a9": {
+    "answered_at_utc": "2026-11-27T23:19:35.293Z",
+    "first_seen_utc": "2026-11-27T23:29:27Z",
+    "question": "A patient with ER+, HER2- breast cancer who is not receiving conventional treatment is taking the following supplements: -curcumin phytosome, berberine phytosome, selenium, quercetin, wheatgrass juice powder, omega-3, vitamin D&K, fenbendazole. Indicate what order and therapeuti",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/a-patient-with-er-her2-687d66a9"
+  },
   "/act-as-a-professor-of-a8eb9ef4": {
     "answered_at_utc": "2026-11-27T04:31:15.431Z",
     "first_seen_utc": "2026-11-27T04:31:19Z",
@@ -227,6 +237,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/compare-these-four-papers-side-9d86f13f"
+  },
+  "/compare-these-four-papers-side-e7eddaca": {
+    "answered_at_utc": "2026-11-27T23:29:10.068Z",
+    "first_seen_utc": "2026-11-27T23:29:27Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1021/bi047571e, (2) 10.1021/bi060728d, (3) 10.1016/j.bbamem.2015.02.030, and (4) 10.1021/acs.biochem.7b00526. For each paper, quote verbatim: (a) the exact protein/peptide sequence, species (human vs. rabbit/mouse), and re",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-e7eddaca"
   },
   "/cosmic-ray-air-shower-057f0b0b": {
     "answered_at_utc": "2026-11-27T20:15:57.302Z",
