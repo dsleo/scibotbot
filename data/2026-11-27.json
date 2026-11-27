@@ -25,6 +25,15 @@
     ],
     "url": "https://sci-bot.ru/all-prey-of-loligo-vulgaris-aa35b782"
   },
+  "/anscr-962d6a80": {
+    "answered_at_utc": "2026-11-27T06:52:14.327Z",
+    "first_seen_utc": "2026-11-27T06:56:38Z",
+    "question": "ANSCR",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/anscr-962d6a80"
+  },
   "/assessment-tool-for-observing-classroom-913c5bf2": {
     "answered_at_utc": "2026-11-27T05:32:53.490Z",
     "first_seen_utc": "2026-11-27T05:41:47Z",
@@ -118,6 +127,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/hemt-architectures-931f2dff"
+  },
+  "/how-bg-ratio-is-related-340fbe1a": {
+    "answered_at_utc": "2026-11-27T06:54:12.499Z",
+    "first_seen_utc": "2026-11-27T06:56:38Z",
+    "question": "how B/G ratio is related to ductility",
+    "topics": [
+      "Physics",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/how-bg-ratio-is-related-340fbe1a"
   },
   "/i-have-to-fix-leakage-3e166706": {
     "answered_at_utc": "2026-11-27T05:41:56.546Z",
