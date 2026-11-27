@@ -408,6 +408,16 @@
     ],
     "url": "https://sci-bot.ru/find-scientific-papers-for-afir-e6f3d353"
   },
+  "/for-doi-101021bi9820659-quote-the-1373ef6c": {
+    "answered_at_utc": "2026-11-27T21:43:22.325Z",
+    "first_seen_utc": "2026-11-27T21:48:49Z",
+    "question": "For DOI 10.1021/bi9820659, quote the exact PDB accession code, crystallographic resolution, R/R_{\\text{free}}, PKA species/isoform, and any active-site contacts or conformational state described for the balanol–PKA complex.",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/for-doi-101021bi9820659-quote-the-1373ef6c"
+  },
   "/for-doi-101038nbt1358-what-kd-81a5ec8b": {
     "answered_at_utc": "2026-11-27T20:50:06.617Z",
     "first_seen_utc": "2026-11-27T20:58:33Z",
