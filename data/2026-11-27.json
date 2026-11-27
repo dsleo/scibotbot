@@ -141,6 +141,16 @@
     ],
     "url": "https://sci-bot.ru/can-muscimol-be-converted-into-50ca465d"
   },
+  "/can-muscimol-be-re-carboxylated-b7f868b3": {
+    "answered_at_utc": "2026-11-27T18:27:29.011Z",
+    "first_seen_utc": "2026-11-27T18:27:40Z",
+    "question": "Can muscimol be re-carboxylated back to ibotenic acid?",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/can-muscimol-be-re-carboxylated-b7f868b3"
+  },
   "/ce2o3-based-electrochemical-or-resistive-8020529e": {
     "answered_at_utc": "2026-11-27T16:37:28.271Z",
     "first_seen_utc": "2026-11-27T16:42:06Z",
@@ -1087,5 +1097,14 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/wool-fiber-quality-comparison-between-78c49482"
+  },
+  "/write-in-russian-principle-of-0e689400": {
+    "answered_at_utc": "2026-11-27T18:22:09.169Z",
+    "first_seen_utc": "2026-11-27T18:27:40Z",
+    "question": "Write in Russian : \"Principle of Back Titration of Acetylsalicylic Acid\". Explain the chemical reactions of ASA with excess NaOH, including neutralization of the carboxyl group and alkaline hydrolysis of the acetyl ester group. Present balanced chemical equations and explain why",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/write-in-russian-principle-of-0e689400"
   }
 }
