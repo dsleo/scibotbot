@@ -44,6 +44,16 @@
     ],
     "url": "https://sci-bot.ru/assessment-tool-for-observing-classroom-913c5bf2"
   },
+  "/cellular-automata-idempotent-permutive-rules-51bbbeee": {
+    "answered_at_utc": "2026-11-27T10:22:55.123Z",
+    "first_seen_utc": "2026-11-27T10:29:34Z",
+    "question": "Cellular automata: idempotent permutive rules, surjective number-conserving rules, rule ranges of Life patterns, minimal radius for a prescribed orbit Already have: García-Ramos 2012, Product decomposition for surjective 2-block NCCA; Formenti, Grange 2003, Number conserving cell",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/cellular-automata-idempotent-permutive-rules-51bbbeee"
+  },
   "/cite-moi-toutes-les-techniques-b1cbaa75": {
     "answered_at_utc": "2026-11-26T23:46:34.268Z",
     "first_seen_utc": "2026-11-27T00:40:04Z",
