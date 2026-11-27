@@ -408,6 +408,16 @@
     ],
     "url": "https://sci-bot.ru/find-scientific-papers-for-afir-e6f3d353"
   },
+  "/for-doi-101038nbt1358-what-kd-81a5ec8b": {
+    "answered_at_utc": "2026-11-27T20:50:06.617Z",
+    "first_seen_utc": "2026-11-27T20:58:33Z",
+    "question": "For DOI 10.1038/nbt1358, what K_d values (with exact units) are reported for PKA (PRKACA) binding to staurosporine, H-89, and balanol? Quote the exact table/text values and state if any of those inhibitors were not tested.",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/for-doi-101038nbt1358-what-kd-81a5ec8b"
+  },
   "/genetic-determinants-and-metabolites-of-7578bd28": {
     "answered_at_utc": "2026-11-27T15:57:50.474Z",
     "first_seen_utc": "2026-11-27T16:01:41Z",
@@ -821,6 +831,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/reformulate-the-classical-stefan-problem-7ade3b07"
+  },
+  "/regarding-the-generation-of-artificial-a0fa6a52": {
+    "answered_at_utc": "2026-11-27T20:58:19.062Z",
+    "first_seen_utc": "2026-11-27T20:58:33Z",
+    "question": "Regarding the generation of artificial ovaries for endocrine restoration, what are the most suitable microenvironments and bioreactors? Please discuss perfusion systems and the addition of growth factors (VEGF, FSH/LH). I would also like to know about the expected outcomes for ho",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/regarding-the-generation-of-artificial-a0fa6a52"
   },
   "/related-literature-on-using-sensors-81f64449": {
     "answered_at_utc": "2026-11-27T01:22:12.528Z",
