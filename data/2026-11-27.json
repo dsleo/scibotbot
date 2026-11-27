@@ -612,6 +612,15 @@
     ],
     "url": "https://sci-bot.ru/review-and-summarize-the-latest-ed2af00e"
   },
+  "/review-state-of-the-art-a654a6ed": {
+    "answered_at_utc": "2026-11-27T14:04:23.499Z",
+    "first_seen_utc": "2026-11-27T14:11:01Z",
+    "question": "Review state-of-the-art statistical and machine learning methods for spatiotemporal anomaly detection and non-recurrent crowd surge identification using high-frequency aggregated mobile network data (5-minute to 15-minute grid time series). Specifically address: 1. Time-series de",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/review-state-of-the-art-a654a6ed"
+  },
   "/rice-noodle-enriched-with-nutritional-c695a098": {
     "answered_at_utc": "2026-11-27T05:24:33.750Z",
     "first_seen_utc": "2026-11-27T05:31:48Z",
