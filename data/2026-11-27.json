@@ -24,6 +24,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-senior-polymer-dd1b46e7"
   },
+  "/act-as-an-experienced-ux-870f35ad": {
+    "answered_at_utc": "2026-11-27T12:12:59.625Z",
+    "first_seen_utc": "2026-11-27T12:20:24Z",
+    "question": "Act as an experienced UX Researcher and literature analyst. Synthesize current evidence on: Global Notifications UX Patterns & Notification Systems. Use academic, conference, and industry sources. 1. Research Overview - Topic description - Relevance for UX, Product Design & Bu",
+    "topics": [
+      "Computer science",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/act-as-an-experienced-ux-870f35ad"
+  },
   "/all-prey-of-loligo-vulgaris-aa35b782": {
     "answered_at_utc": "2026-11-27T05:14:21.222Z",
     "first_seen_utc": "2026-11-27T05:21:45Z",
@@ -62,6 +72,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/assessment-tool-for-observing-classroom-913c5bf2"
+  },
+  "/boosting-lower-limb-motor-imagery-a1bfab14": {
+    "answered_at_utc": "2026-11-27T12:01:21.977Z",
+    "first_seen_utc": "2026-11-27T12:20:24Z",
+    "question": "Boosting lower-limb motor imagery performance through an ensemble method for gait rehabilitatio",
+    "topics": [
+      "Neuroscience",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/boosting-lower-limb-motor-imagery-a1bfab14"
   },
   "/cellular-automata-idempotent-permutive-rules-51bbbeee": {
     "answered_at_utc": "2026-11-27T10:22:55.123Z",
@@ -252,6 +272,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/how-does-the-aiml-is-5406be3d"
+  },
+  "/how-is-the-economic-and-4e8a35a6": {
+    "answered_at_utc": "2026-11-27T12:16:39.086Z",
+    "first_seen_utc": "2026-11-27T12:20:24Z",
+    "question": "How is the economic and organizational structure of architectural practice evolving in response to artificial intelligence, automation, and generational change? Investigate historical trends in architectural firm sizes from 1970 to 2026, staffing requirements, revenue per employe",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/how-is-the-economic-and-4e8a35a6"
   },
   "/i-have-a-compound-that-ad2f30c7": {
     "answered_at_utc": "2026-11-27T12:04:14.643Z",
