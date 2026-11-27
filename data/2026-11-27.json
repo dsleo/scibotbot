@@ -72,6 +72,15 @@
     ],
     "url": "https://sci-bot.ru/anscr-962d6a80"
   },
+  "/are-there-prospective-or-longitudinal-af6a9394": {
+    "answered_at_utc": "2026-11-27T13:28:48.898Z",
+    "first_seen_utc": "2026-11-27T13:40:50Z",
+    "question": "Are there prospective or longitudinal studies showing that dynamic iris or angle parameters measured across light and dark conditions (change in iris area, volume, or angle width per mm of pupil change) predict incident angle closure, or progression from PACS to PAC/PACG, better",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/are-there-prospective-or-longitudinal-af6a9394"
+  },
   "/assessment-tool-for-observing-classroom-913c5bf2": {
     "answered_at_utc": "2026-11-27T05:32:53.490Z",
     "first_seen_utc": "2026-11-27T05:41:47Z",
@@ -176,6 +185,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/does-a-formalised-statement-say-813fa459"
+  },
+  "/does-this-article-explains-about-0ddc3e6c": {
+    "answered_at_utc": "2026-11-27T13:39:42.442Z",
+    "first_seen_utc": "2026-11-27T13:40:50Z",
+    "question": "Does this article explains about mitf before being called that way 10.1101/gad.8.22.2770?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/does-this-article-explains-about-0ddc3e6c"
   },
   "/en-quoi-le-rod-and-f27778b5": {
     "answered_at_utc": "2026-11-26T21:57:15.699Z",
@@ -471,6 +489,15 @@
     ],
     "url": "https://sci-bot.ru/predators-of-marthasterias-glacialis-682eb7bf"
   },
+  "/pregnant-womens-perceptions-of-the-088a8aaf": {
+    "answered_at_utc": "2026-11-27T13:36:18.100Z",
+    "first_seen_utc": "2026-11-27T13:40:50Z",
+    "question": "Pregnant Women’s Perceptions of the Quality of Health Education in Antenatal and Perinatal Care",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/pregnant-womens-perceptions-of-the-088a8aaf"
+  },
   "/preoperative-psma-petct-as-a-42781e9b": {
     "answered_at_utc": "2026-11-27T07:01:14.688Z",
     "first_seen_utc": "2026-11-27T07:18:18Z",
@@ -662,6 +689,15 @@
     ],
     "url": "https://sci-bot.ru/the-person-being-mobbed-has-54c29e71"
   },
+  "/there-is-a-distortion-in-86447e3d": {
+    "answered_at_utc": "2026-11-27T13:35:01.147Z",
+    "first_seen_utc": "2026-11-27T13:40:50Z",
+    "question": "There is a distortion in the estimation of pairwise genomic distances when comparing a small number of samples versus a large number of samples (a difference of 1–2 orders of magnitude in the number of sequences being compared).",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/there-is-a-distortion-in-86447e3d"
+  },
   "/using-synchrotron-radiation-to-evaluate-8c56dc48": {
     "answered_at_utc": "2026-11-27T07:56:55.945Z",
     "first_seen_utc": "2026-11-27T07:58:32Z",
@@ -747,6 +783,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/when-picking-the-values-of-1e40a65a"
+  },
+  "/which-computational-or-biomechanical-models-8665b750": {
+    "answered_at_utc": "2026-11-27T13:35:09.595Z",
+    "first_seen_utc": "2026-11-27T13:40:50Z",
+    "question": "Which computational or biomechanical models of the iris and anterior chamber compute the angle opening as a continuous function of pupil diameter over the physiological range, and what do they report about where the minimum angle opening occurs?",
+    "topics": [
+      "Biomedicine",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/which-computational-or-biomechanical-models-8665b750"
   },
   "/why-are-indonesians-so-stupid-d5c221f6": {
     "answered_at_utc": "2026-11-27T08:57:59.933Z",
