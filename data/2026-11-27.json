@@ -281,6 +281,15 @@
     ],
     "url": "https://sci-bot.ru/hemt-architectures-931f2dff"
   },
+  "/how-are-bodys-organ-develop-29333e74": {
+    "answered_at_utc": "2026-11-27T13:02:54.373Z",
+    "first_seen_utc": "2026-11-27T13:10:42Z",
+    "question": "How are body's organ develop in a perticular structure?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-are-bodys-organ-develop-29333e74"
+  },
   "/how-bg-ratio-is-related-340fbe1a": {
     "answered_at_utc": "2026-11-27T06:54:12.499Z",
     "first_seen_utc": "2026-11-27T06:56:38Z",
@@ -461,6 +470,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/provide-a-comprehensive-literature-review-094958ae"
+  },
+  "/provide-an-overview-of-peer-0df2a5cb": {
+    "answered_at_utc": "2026-11-27T13:01:27.370Z",
+    "first_seen_utc": "2026-11-27T13:10:42Z",
+    "question": "Provide an overview of peer-reviewed studies on tsunami evacuation modeling, pedestrian clearance times, risk perception, and civil protection preparedness in Portugal (specifically Lisbon, Downtown Baixa Pombalina, and the Algarve coast such as Quarteira) and the Southwest Iberi",
+    "topics": [
+      "Earth science",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/provide-an-overview-of-peer-0df2a5cb"
   },
   "/provide-me-with-a-literature-59316825": {
     "answered_at_utc": "2026-11-27T04:26:00.074Z",
