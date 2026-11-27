@@ -209,6 +209,16 @@
     ],
     "url": "https://sci-bot.ru/cognitive-significance-of-dendritic-spines-73f3893d"
   },
+  "/cosmic-ray-air-shower-057f0b0b": {
+    "answered_at_utc": "2026-11-27T20:15:57.302Z",
+    "first_seen_utc": "2026-11-27T20:18:17Z",
+    "question": "Cosmic ray air shower",
+    "topics": [
+      "Physics",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/cosmic-ray-air-shower-057f0b0b"
+  },
   "/devo-scrivere-lintroduzion-di-un-3704b94f": {
     "answered_at_utc": "2026-11-27T10:05:58.264Z",
     "first_seen_utc": "2026-11-27T10:09:23Z",
@@ -1080,6 +1090,15 @@
       "History"
     ],
     "url": "https://sci-bot.ru/what-is-structural-change-in-ffdb171b"
+  },
+  "/what-is-the-model-being-31d64583": {
+    "answered_at_utc": "2026-11-27T20:17:12.977Z",
+    "first_seen_utc": "2026-11-27T20:18:17Z",
+    "question": "what is the model being used here?",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-model-being-31d64583"
   },
   "/what-is-the-status-and-67c19510": {
     "answered_at_utc": "2026-11-27T16:10:50.258Z",
