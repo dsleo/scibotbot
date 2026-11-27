@@ -253,6 +253,16 @@
     ],
     "url": "https://sci-bot.ru/find-peer-reviewed-experimental-studies-f5bfa07e"
   },
+  "/find-scientific-papers-for-afir-e6f3d353": {
+    "answered_at_utc": "2026-11-27T13:25:09.082Z",
+    "first_seen_utc": "2026-11-27T13:30:43Z",
+    "question": "Find scientific papers for AFIR (Adaptive Financial Intelligence & Research), an autonomous system combining quantitative finance, AI, mathematical discovery, economic reasoning, adaptive learning and trading. Its objective is sustainable net profit after trading, computing, data",
+    "topics": [
+      "Economics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-scientific-papers-for-afir-e6f3d353"
+  },
   "/give-me-papers-that-found-b39cac37": {
     "answered_at_utc": "2026-11-27T00:42:22.995Z",
     "first_seen_utc": "2026-11-27T00:50:01Z",
@@ -356,6 +366,15 @@
     ],
     "url": "https://sci-bot.ru/in-functional-connectivity-studies-that-c1dac1a1"
   },
+  "/is-there-experimental-clinical-or-3ec0cea7": {
+    "answered_at_utc": "2026-11-27T13:21:37.772Z",
+    "first_seen_utc": "2026-11-27T13:30:43Z",
+    "question": "Is there experimental, clinical or theoretical evidence that pupillary block force or anterior chamber angle narrowing reaches a maximum at an intermediate (mid-dilated) pupil diameter rather than at full miosis or full mydriasis? Include Mapstone's mechanics of pupil block and a",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/is-there-experimental-clinical-or-3ec0cea7"
+  },
   "/market-makingfor-prediction-markets-9f509bf4": {
     "answered_at_utc": "2026-11-27T07:45:52.678Z",
     "first_seen_utc": "2026-11-27T07:48:28Z",
@@ -364,6 +383,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/market-makingfor-prediction-markets-9f509bf4"
+  },
+  "/markings-and-rigidification-resolutions-explained-e06841f7": {
+    "answered_at_utc": "2026-11-27T13:28:50.586Z",
+    "first_seen_utc": "2026-11-27T13:30:43Z",
+    "question": "Markings and rigidification; resolutions explained, and resolutions outside algebra (hidden state for stochastic processes) (1) In moduli theory and homotopy theory, which general principles state that adding a marking, framing, level structure or base point makes a classificatio",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/markings-and-rigidification-resolutions-explained-e06841f7"
   },
   "/mxe-synthes-details-0d8f1e0c": {
     "answered_at_utc": "2026-11-27T11:35:07.695Z",
