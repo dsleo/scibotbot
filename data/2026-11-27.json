@@ -234,6 +234,16 @@
     ],
     "url": "https://sci-bot.ru/find-concise-answers-to-the-68e3e6d0"
   },
+  "/find-peer-reviewed-experimental-studies-f5bfa07e": {
+    "answered_at_utc": "2026-11-27T12:35:08.991Z",
+    "first_seen_utc": "2026-11-27T12:40:40Z",
+    "question": "Find peer-reviewed experimental studies on extrusion-based 3D printing of clay pastes that answer this question: Do clay pastes that recover faster after high shear spread less or retain more of their height immediately after deposition? Search for clay paste extrusion, direct i",
+    "topics": [
+      "Chemistry",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/find-peer-reviewed-experimental-studies-f5bfa07e"
+  },
   "/give-me-papers-that-found-b39cac37": {
     "answered_at_utc": "2026-11-27T00:42:22.995Z",
     "first_seen_utc": "2026-11-27T00:50:01Z",
@@ -623,6 +633,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/what-are-the-current-guilines-a598b5c6"
+  },
+  "/what-are-the-natural-compound-10ace198": {
+    "answered_at_utc": "2026-11-27T12:38:41.664Z",
+    "first_seen_utc": "2026-11-27T12:40:40Z",
+    "question": "what are the natural compound that act like tolterodine",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-are-the-natural-compound-10ace198"
   },
   "/what-is-c3g-pigment-and-38c8d9f2": {
     "answered_at_utc": "2026-11-27T00:51:51.233Z",
