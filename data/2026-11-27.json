@@ -112,6 +112,15 @@
     ],
     "url": "https://sci-bot.ru/diet-of-loligo-vulgaris-2b903e3a"
   },
+  "/does-a-formalised-statement-say-06f2b7b3": {
+    "answered_at_utc": "2026-11-27T11:26:05.789Z",
+    "first_seen_utc": "2026-11-27T11:29:58Z",
+    "question": "Does a formalised statement say what was meant? Statement fidelity in formal libraries, and certifying algorithms (1) For formal libraries (Lean, Isabelle, Coq, Mizar): studies of how often a formalised statement differs from the intended theorem, and techniques to detect it (red",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/does-a-formalised-statement-say-06f2b7b3"
+  },
   "/does-a-formalised-statement-say-094cdfb9": {
     "answered_at_utc": "2026-11-27T04:47:58.675Z",
     "first_seen_utc": "2026-11-27T04:51:30Z",
