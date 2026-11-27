@@ -25,6 +25,16 @@
     ],
     "url": "https://sci-bot.ru/all-prey-of-loligo-vulgaris-aa35b782"
   },
+  "/analyze-this-paper-and-place-9431f51b": {
+    "answered_at_utc": "2026-11-27T10:11:06.264Z",
+    "first_seen_utc": "2026-11-27T10:49:40Z",
+    "question": "Analyze this paper and place it within the broader context of the field.",
+    "topics": [
+      "Biomedicine",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/analyze-this-paper-and-place-9431f51b"
+  },
   "/anscr-962d6a80": {
     "answered_at_utc": "2026-11-27T06:52:14.327Z",
     "first_seen_utc": "2026-11-27T06:56:38Z",
@@ -387,6 +397,16 @@
       "Physics"
     ],
     "url": "https://sci-bot.ru/summarise-v-vollers-paper-in-e435761b"
+  },
+  "/synchronicity-of-medial-prefrontal-cortex-9a3f58a4": {
+    "answered_at_utc": "2026-11-27T10:48:34.773Z",
+    "first_seen_utc": "2026-11-27T10:49:40Z",
+    "question": "synchronicity of medial prefrontal cortex unit with paraventricular thalamus during sleep and stress",
+    "topics": [
+      "Neuroscience",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/synchronicity-of-medial-prefrontal-cortex-9a3f58a4"
   },
   "/the-adoption-and-implementation-of-40c93edf": {
     "answered_at_utc": "2026-11-27T02:08:07.108Z",
