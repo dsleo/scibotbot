@@ -176,6 +176,16 @@
     ],
     "url": "https://sci-bot.ru/market-makingfor-prediction-markets-9f509bf4"
   },
+  "/narrowband-hf-ssb-2427-khz-47cb72d3": {
+    "answered_at_utc": "2026-11-27T07:51:34.408Z",
+    "first_seen_utc": "2026-11-27T07:58:32Z",
+    "question": "Narrowband HF SSB (2.4–2.7 kHz) Zak-OTFS modem constraints: - Single-packet, zero-handshake (0.5–1 s burst; no TX CSI, no ARQ). - Continuous Gaussian-like payload (~384 complex floats; NO QAM, NO slicing, NO FEC). - Diffuse Watterson multipath (2–5 ms, 0.1–10 Hz), heavy impulsive",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/narrowband-hf-ssb-2427-khz-47cb72d3"
+  },
   "/oq-and-pq-document-js02rpt036-2ceddd6f": {
     "answered_at_utc": "2026-11-27T04:56:56.167Z",
     "first_seen_utc": "2026-11-27T05:01:37Z",
@@ -280,6 +290,15 @@
     ],
     "url": "https://sci-bot.ru/related-literature-on-using-sensors-81f64449"
   },
+  "/review-and-summarize-the-latest-ed2af00e": {
+    "answered_at_utc": "2026-11-27T07:54:34.317Z",
+    "first_seen_utc": "2026-11-27T07:58:32Z",
+    "question": "Review and summarize the latest scientific and clinical developments in urology over the past three years. Focus on: Updates to national and international clinical guidelines (EAU, AUA, etc.). Changes in treatment recommendations and clinical algorithms. Newly developed pharma",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/review-and-summarize-the-latest-ed2af00e"
+  },
   "/rice-noodle-enriched-with-nutritional-c695a098": {
     "answered_at_utc": "2026-11-27T05:24:33.750Z",
     "first_seen_utc": "2026-11-27T05:31:48Z",
@@ -308,6 +327,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/the-person-being-mobbed-has-54c29e71"
+  },
+  "/using-synchrotron-radiation-to-evaluate-8c56dc48": {
+    "answered_at_utc": "2026-11-27T07:56:55.945Z",
+    "first_seen_utc": "2026-11-27T07:58:32Z",
+    "question": "using synchrotron radiation to evaluate thermally modified wood",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/using-synchrotron-radiation-to-evaluate-8c56dc48"
   },
   "/variational-auto-encoders-e87b3d79": {
     "answered_at_utc": "2026-11-27T03:10:38.819Z",
