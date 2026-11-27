@@ -1,4 +1,13 @@
 {
+  "/13-c-nmr-spectra-of-e7ce651b": {
+    "answered_at_utc": "2026-11-27T12:54:23.007Z",
+    "first_seen_utc": "2026-11-27T13:00:48Z",
+    "question": "13 C NMR spectra of halocarbons",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/13-c-nmr-spectra-of-e7ce651b"
+  },
   "/act-as-a-professor-of-a8eb9ef4": {
     "answered_at_utc": "2026-11-27T04:31:15.431Z",
     "first_seen_utc": "2026-11-27T04:31:19Z",
@@ -643,6 +652,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/what-are-the-natural-compound-10ace198"
+  },
+  "/what-happens-during-miosis-and-c722becf": {
+    "answered_at_utc": "2026-11-27T11:14:30.972Z",
+    "first_seen_utc": "2026-11-27T13:00:48Z",
+    "question": "what happens during miosis and mydriasis with the irideocorneal angle at the iris?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-happens-during-miosis-and-c722becf"
   },
   "/what-is-c3g-pigment-and-38c8d9f2": {
     "answered_at_utc": "2026-11-27T00:51:51.233Z",
