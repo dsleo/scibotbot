@@ -34,6 +34,15 @@
     ],
     "url": "https://sci-bot.ru/diet-of-loligo-vulgaris-2b903e3a"
   },
+  "/does-a-formalised-statement-say-094cdfb9": {
+    "answered_at_utc": "2026-11-27T04:47:58.675Z",
+    "first_seen_utc": "2026-11-27T04:51:30Z",
+    "question": "Does a formalised statement say what was meant? Statement fidelity in formal libraries, and certifying algorithms (1) For formal libraries (Lean, Isabelle, Coq, Mizar): studies of how often a formalised statement differs from the intended theorem, and techniques to detect it (red",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/does-a-formalised-statement-say-094cdfb9"
+  },
   "/en-quoi-le-rod-and-f27778b5": {
     "answered_at_utc": "2026-11-26T21:57:15.699Z",
     "first_seen_utc": "2026-11-27T00:40:04Z",
@@ -116,6 +125,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/recommandations-hyperparathyroidie-8186bd01"
+  },
+  "/reformulate-the-classical-stefan-problem-7ade3b07": {
+    "answered_at_utc": "2026-11-27T04:42:52.280Z",
+    "first_seen_utc": "2026-11-27T04:51:30Z",
+    "question": "Reformulate the classical stefan problem using a Riemann-Liouville derivative",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/reformulate-the-classical-stefan-problem-7ade3b07"
   },
   "/related-literature-on-using-sensors-81f64449": {
     "answered_at_utc": "2026-11-27T01:22:12.528Z",
