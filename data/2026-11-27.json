@@ -159,6 +159,15 @@
     ],
     "url": "https://sci-bot.ru/does-a-formalised-statement-say-094cdfb9"
   },
+  "/does-a-formalised-statement-say-813fa459": {
+    "answered_at_utc": "2026-11-27T12:26:24.281Z",
+    "first_seen_utc": "2026-11-27T12:30:21Z",
+    "question": "Does a formalised statement say what was meant? Statement fidelity in formal libraries, and certifying algorithms (1) For formal libraries (Lean, Isabelle, Coq, Mizar): studies of how often a formalised statement differs from the intended theorem, and techniques to detect it (red",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/does-a-formalised-statement-say-813fa459"
+  },
   "/en-quoi-le-rod-and-f27778b5": {
     "answered_at_utc": "2026-11-26T21:57:15.699Z",
     "first_seen_utc": "2026-11-27T00:40:04Z",
@@ -395,6 +404,16 @@
       "Earth science"
     ],
     "url": "https://sci-bot.ru/predators-of-holothuria-arguinensis-d0005189"
+  },
+  "/predators-of-marthasterias-glacialis-682eb7bf": {
+    "answered_at_utc": "2026-11-27T12:29:37.254Z",
+    "first_seen_utc": "2026-11-27T12:30:21Z",
+    "question": "Predators of Marthasterias glacialis",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/predators-of-marthasterias-glacialis-682eb7bf"
   },
   "/preoperative-psma-petct-as-a-42781e9b": {
     "answered_at_utc": "2026-11-27T07:01:14.688Z",
