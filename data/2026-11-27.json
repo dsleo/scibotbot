@@ -940,6 +940,16 @@
     ],
     "url": "https://sci-bot.ru/search-for-academic-research-papers-3e20f10c"
   },
+  "/skarmoutsos-and-jannis-samios-have-6b696564": {
+    "answered_at_utc": "2026-11-27T21:14:45.091Z",
+    "first_seen_utc": "2026-11-27T21:18:44Z",
+    "question": "Skarmoutsos and Jannis Samios have co authored seminal work on supercritical water. While their results seem complete, further investigation using machine learning is crucial. I am particularly interested in MACE and works that simulated similar conditions with Skarmoutsos. Is th",
+    "topics": [
+      "Chemistry",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/skarmoutsos-and-jannis-samios-have-6b696564"
+  },
   "/state-of-the-art-regarding-daffa05d": {
     "answered_at_utc": "2026-11-27T18:35:41.941Z",
     "first_seen_utc": "2026-11-27T18:37:35Z",
@@ -1129,6 +1139,15 @@
       "History"
     ],
     "url": "https://sci-bot.ru/what-is-structural-change-in-ffdb171b"
+  },
+  "/what-is-the-desorption-and-3447f80a": {
+    "answered_at_utc": "2026-11-27T21:09:46.341Z",
+    "first_seen_utc": "2026-11-27T21:18:44Z",
+    "question": "What is the desorption and reusability method following the removal of polycyclic aromatic hydrocarbons (acenaphthene, fluorene, and phenanthrene) from wastewater using MXene (Ti3C2Tx) intercalated with tetramethylammonium hydroxide or tetrabutylammonium hydroxide (an investigati",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/what-is-the-desorption-and-3447f80a"
   },
   "/what-is-the-model-being-31d64583": {
     "answered_at_utc": "2026-11-27T20:17:12.977Z",
