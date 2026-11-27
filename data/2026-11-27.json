@@ -15,6 +15,16 @@
     "topics": [],
     "url": "https://sci-bot.ru/act-as-a-professor-of-a8eb9ef4"
   },
+  "/act-as-a-professor-of-ab65fce6": {
+    "answered_at_utc": "2026-11-27T16:50:42.075Z",
+    "first_seen_utc": "2026-11-27T16:51:57Z",
+    "question": "Act as a professor of Natural Products Chemistry and tabulate sesquiterpenoid compounds isolated from Artabotrys sahyadricus or Artabotrys genus also looking at previous Isolation, structural elucidation, and bioactivity",
+    "topics": [
+      "Chemistry",
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-professor-of-ab65fce6"
+  },
   "/act-as-a-senior-electromagnetic-d019d038": {
     "answered_at_utc": "2026-11-27T11:08:31.970Z",
     "first_seen_utc": "2026-11-27T11:09:52Z",
@@ -704,6 +714,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/related-literature-on-using-sensors-81f64449"
+  },
+  "/research-development-prompt-criminological-investigation-f9731aae": {
+    "answered_at_utc": "2026-11-27T16:48:22.681Z",
+    "first_seen_utc": "2026-11-27T16:51:57Z",
+    "question": "# Research Development Prompt: Criminological Investigation into the Conditions of ATM Security Guards and Their Implications for Banking Security in Bangladesh Act as a senior academic research supervisor, criminologist, and empirical research methodologist with expertise in cr",
+    "topics": [
+      "Law",
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/research-development-prompt-criminological-investigation-f9731aae"
   },
   "/return-me-a-full-protocol-131d7298": {
     "answered_at_utc": "2026-11-27T08:18:20.844Z",
