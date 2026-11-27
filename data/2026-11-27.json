@@ -253,6 +253,15 @@
     ],
     "url": "https://sci-bot.ru/how-does-the-aiml-is-5406be3d"
   },
+  "/i-have-a-compound-that-ad2f30c7": {
+    "answered_at_utc": "2026-11-27T12:04:14.643Z",
+    "first_seen_utc": "2026-11-27T12:10:18Z",
+    "question": "I have a compound that I ran NMR experiments to and we saw isomeric composition. This compound has like 80 heavy atoms (so no Hs included). I want to do a computational study, maybe using DFT to get the isomers and conformations probable, and then simulate their NMR experiments (",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/i-have-a-compound-that-ad2f30c7"
+  },
   "/i-have-to-fix-leakage-3e166706": {
     "answered_at_utc": "2026-11-27T05:41:56.546Z",
     "first_seen_utc": "2026-11-27T05:51:51Z",
@@ -501,6 +510,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/synchronicity-of-medial-prefrontal-cortex-9a3f58a4"
+  },
+  "/synthesize-the-academic-literature-on-1fa6cfe5": {
+    "answered_at_utc": "2026-11-27T12:01:48.267Z",
+    "first_seen_utc": "2026-11-27T12:10:18Z",
+    "question": "Synthesize the academic literature on the Modifiable Areal Unit Problem (MAUP), spatial border effects (edge effects), and multiscale areal interpolation when integrating fine-resolution flood or tsunami hazard maps (e.g., 2m to 10m urban meshes) with coarser regular population g",
+    "topics": [
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/synthesize-the-academic-literature-on-1fa6cfe5"
   },
   "/the-adoption-and-implementation-of-40c93edf": {
     "answered_at_utc": "2026-11-27T02:08:07.108Z",
