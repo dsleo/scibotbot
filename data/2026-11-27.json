@@ -6,6 +6,15 @@
     "topics": [],
     "url": "https://sci-bot.ru/act-as-a-professor-of-a8eb9ef4"
   },
+  "/act-as-a-senior-electromagnetic-d019d038": {
+    "answered_at_utc": "2026-11-27T11:08:31.970Z",
+    "first_seen_utc": "2026-11-27T11:09:52Z",
+    "question": "Act as a senior electromagnetic propulsion engineer specializing in Electromagnetic Launchers (EML). Based strictly on all the research papers, datasheets, and documents in your knowledge base, analyze and create an optimal design blueprint for a Coilgun (reluctance accelerator)",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-senior-electromagnetic-d019d038"
+  },
   "/act-as-a-senior-polymer-dd1b46e7": {
     "answered_at_utc": "2026-11-27T04:02:14.442Z",
     "first_seen_utc": "2026-11-27T04:11:26Z",
@@ -521,5 +530,14 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/why-is-the-philippine-so-8b67a991"
+  },
+  "/wool-fiber-quality-comparison-between-78c49482": {
+    "answered_at_utc": "2026-11-27T11:02:00.469Z",
+    "first_seen_utc": "2026-11-27T11:09:52Z",
+    "question": "wool fiber quality comparison between tibetan and newzeland wool",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/wool-fiber-quality-comparison-between-78c49482"
   }
 }
