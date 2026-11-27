@@ -310,6 +310,16 @@
     ],
     "url": "https://sci-bot.ru/find-scientific-papers-for-afir-e6f3d353"
   },
+  "/genetic-determinants-and-metabolites-of-7578bd28": {
+    "answered_at_utc": "2026-11-27T15:57:50.474Z",
+    "first_seen_utc": "2026-11-27T16:01:41Z",
+    "question": "Genetic determinants and metabolites of bacteria of the genus rhodococcs that provide antibacterial and antifungal activity",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/genetic-determinants-and-metabolites-of-7578bd28"
+  },
   "/give-me-papers-that-found-b39cac37": {
     "answered_at_utc": "2026-11-27T00:42:22.995Z",
     "first_seen_utc": "2026-11-27T00:50:01Z",
@@ -840,6 +850,16 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/what-are-the-natural-compound-10ace198"
+  },
+  "/what-can-you-tell-me-1cdf9383": {
+    "answered_at_utc": "2026-11-27T15:54:23.278Z",
+    "first_seen_utc": "2026-11-27T16:01:41Z",
+    "question": "What can you tell me about the organization of stress in epithelial tissue, cell division, and self-tuning properties ?",
+    "topics": [
+      "Biomedicine",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/what-can-you-tell-me-1cdf9383"
   },
   "/what-does-latest-research-conclude-61e6a9a5": {
     "answered_at_utc": "2026-11-27T15:24:23.485Z",
