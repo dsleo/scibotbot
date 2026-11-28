@@ -1,4 +1,14 @@
 {
+  "/compare-these-four-papers-side-3cd3a1d2": {
+    "answered_at_utc": "2026-11-28T00:45:38.567Z",
+    "first_seen_utc": "2026-11-28T00:49:47Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1021/ja992908z, (2) 10.1021/ja0354723, (3) 10.1016/j.jmb.2005.09.038, and (4) 10.1002/prot.20639. For each paper, quote verbatim: (a) the stated construct length and whether C-terminal amidation or N-terminal tags are disc",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-3cd3a1d2"
+  },
   "/employment-prediction-48f880a6": {
     "answered_at_utc": "2026-11-28T00:27:20.821Z",
     "first_seen_utc": "2026-11-28T00:29:42Z",
