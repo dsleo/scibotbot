@@ -184,6 +184,16 @@
     ],
     "url": "https://sci-bot.ru/compare-these-four-papers-side-ebbbcf47"
   },
+  "/compare-these-four-papers-side-f1bdeb06": {
+    "answered_at_utc": "2026-11-28T07:02:20.735Z",
+    "first_seen_utc": "2026-11-28T07:12:02Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1021/ja992908z, (2) 10.1016/j.bbapap.2016.08.017, (3) 10.1016/j.bbamem.2014.09.007, and (4) 10.1021/bi0601813. For each paper, quote verbatim: (a) exact restraint counts (intra-, sequential, medium-, long-range NOEs, H-bon",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-f1bdeb06"
+  },
   "/complete-systematic-comprehensive-overview-of-de0b4b58": {
     "answered_at_utc": "2026-11-28T02:45:13.080Z",
     "first_seen_utc": "2026-11-28T02:50:34Z",
@@ -264,6 +274,15 @@
     "question": "find me the paper by voller in which he modifies the two-phase classical stefan problem by introducing a fractional order temporal derivative to remove the singularity at x=s(t)",
     "topics": [],
     "url": "https://sci-bot.ru/find-me-the-paper-by-440bcbf4"
+  },
+  "/hand-osteoarthrytis-nav17-nav18-nav19-f1ab96ac": {
+    "answered_at_utc": "2026-11-28T07:05:04.836Z",
+    "first_seen_utc": "2026-11-28T07:12:02Z",
+    "question": "hand osteoarthrytis, NaV1.7, NaV1.8, NaV1.9, Piezo",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/hand-osteoarthrytis-nav17-nav18-nav19-f1ab96ac"
   },
   "/how-did-the-exploration-of-e3db9e99": {
     "answered_at_utc": "2026-11-28T05:42:00.564Z",
