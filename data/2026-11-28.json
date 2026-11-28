@@ -84,6 +84,13 @@
     ],
     "url": "https://sci-bot.ru/employment-prediction-48f880a6"
   },
+  "/find-me-the-paper-by-440bcbf4": {
+    "answered_at_utc": "2026-11-28T02:23:19.225Z",
+    "first_seen_utc": "2026-11-28T02:30:27Z",
+    "question": "find me the paper by voller in which he modifies the two-phase classical stefan problem by introducing a fractional order temporal derivative to remove the singularity at x=s(t)",
+    "topics": [],
+    "url": "https://sci-bot.ru/find-me-the-paper-by-440bcbf4"
+  },
   "/how-to-sample-xylem-sap-60e315ea": {
     "answered_at_utc": "2026-11-28T01:59:58.138Z",
     "first_seen_utc": "2026-11-28T02:00:14Z",
