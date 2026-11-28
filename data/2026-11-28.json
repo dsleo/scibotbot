@@ -427,6 +427,15 @@
     ],
     "url": "https://sci-bot.ru/how-did-the-exploration-of-e3db9e99"
   },
+  "/how-do-published-papers-construct-2a76464e": {
+    "answered_at_utc": "2026-11-28T10:33:13.005Z",
+    "first_seen_utc": "2026-11-28T10:33:22Z",
+    "question": "How do published papers construct trading rules robust to backtest overfitting? Deflated Sharpe, combinatorial purged cross-validation, multiple testing.`",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/how-do-published-papers-construct-2a76464e"
+  },
   "/how-much-does-nandrolone-affect-bc930887": {
     "answered_at_utc": "2026-11-28T04:54:21.618Z",
     "first_seen_utc": "2026-11-28T05:01:20Z",
@@ -575,6 +584,15 @@
       "Mathematics"
     ],
     "url": "https://sci-bot.ru/markings-and-rigidification-resolutions-explained-05847cef"
+  },
+  "/markings-and-rigidification-resolutions-explained-697d2431": {
+    "answered_at_utc": "2026-11-28T10:26:54.431Z",
+    "first_seen_utc": "2026-11-28T10:33:22Z",
+    "question": "Markings and rigidification; resolutions explained, and resolutions outside algebra (hidden state for stochastic processes) (1) In moduli theory and homotopy theory, which general principles state that adding a marking, framing, level structure or base point makes a classificatio",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/markings-and-rigidification-resolutions-explained-697d2431"
   },
   "/methodologies-a-review-of-methods-ae1320ca": {
     "answered_at_utc": "2026-11-28T06:43:41.982Z",
