@@ -74,6 +74,15 @@
     ],
     "url": "https://sci-bot.ru/employment-prediction-48f880a6"
   },
+  "/how-to-sample-xylem-sap-60e315ea": {
+    "answered_at_utc": "2026-11-28T01:59:58.138Z",
+    "first_seen_utc": "2026-11-28T02:00:14Z",
+    "question": "How to sample xylem sap from trees in the field? Most of the methods with plants imply working in a lab. But these trees are big and they dwell in agroforestry crops. the goal is to analize the xylem for compounds, so the transport is also impotant.",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-to-sample-xylem-sap-60e315ea"
+  },
   "/is-duloxetine-effective-for-ocd-d0b824e9": {
     "answered_at_utc": "2026-11-28T00:24:03.405Z",
     "first_seen_utc": "2026-11-28T00:29:42Z",
@@ -92,6 +101,16 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/llm-web-browsing-harness-7b1809a2"
+  },
+  "/proof-speed-up-between-formal-919fd4df": {
+    "answered_at_utc": "2026-11-28T01:53:30.672Z",
+    "first_seen_utc": "2026-11-28T02:00:14Z",
+    "question": "Proof speed-up between formal systems: added axioms, reflection principles, definitional extensions and the cut rule Already have: Buss 1994, On Gödel's theorems on lengths of proofs I; Krajíček, Pudlák 1989, Propositional proof systems, the consistency of first order theories. K",
+    "topics": [
+      "Mathematics",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/proof-speed-up-between-formal-919fd4df"
   },
   "/what-is-the-current-evidence-b43fa2b9": {
     "answered_at_utc": "2026-11-28T00:51:24.516Z",
