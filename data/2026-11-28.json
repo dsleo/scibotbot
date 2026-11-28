@@ -162,6 +162,15 @@
     ],
     "url": "https://sci-bot.ru/comprehensive-overview-of-pathogens-and-9d62b376"
   },
+  "/conduct-a-comprehensive-evidence-based-ddbe3936": {
+    "answered_at_utc": "2026-11-28T05:03:17.731Z",
+    "first_seen_utc": "2026-11-28T05:11:24Z",
+    "question": "Conduct a comprehensive, evidence-based comparative analysis of **ibuprofen 200 mg versus paracetamol (acetaminophen) 500 mg** in the management of acute pain, focusing on clinical efficacy, safety, and the potential additional benefits of liquid-filled ibuprofen formulations (li",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/conduct-a-comprehensive-evidence-based-ddbe3936"
+  },
   "/description-of-slc30a7-gene-mutation-e8a623b4": {
     "answered_at_utc": "2026-11-28T01:04:01.044Z",
     "first_seen_utc": "2026-11-28T01:09:55Z",
@@ -327,6 +336,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-is-the-current-evidence-b43fa2b9"
+  },
+  "/what-lookback-horizons-holding-periods-da1c85ab": {
+    "answered_at_utc": "2026-11-28T05:06:17.749Z",
+    "first_seen_utc": "2026-11-28T05:11:24Z",
+    "question": "What lookback horizons, holding periods, and position sizing rules do published dual-momentum studies report? Give parameter ranges per paper.`",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/what-lookback-horizons-holding-periods-da1c85ab"
   },
   "/what-published-evidence-rejects-or-4a57b9ce": {
     "answered_at_utc": "2026-11-28T04:04:05.308Z",
