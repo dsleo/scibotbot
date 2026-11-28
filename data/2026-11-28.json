@@ -309,6 +309,15 @@
     ],
     "url": "https://sci-bot.ru/proof-speed-up-between-formal-919fd4df"
   },
+  "/research-prompt-k5-associahedron-testing-e44e8f8f": {
+    "answered_at_utc": "2026-11-28T05:18:05.211Z",
+    "first_seen_utc": "2026-11-28T05:21:24Z",
+    "question": "# RESEARCH PROMPT: K5 ASSOCIAHEDRON (TESTING CASE AND NON-TESTING LINKS) TOPIC The 3-dimensional associahedron K5 (the Stasheff polytope): 14 vertices, 21 edges, 9 faces (6 pentagons, 3 quadrilaterals). This is NOT the complete graph K5. Authors index these polytopes differently",
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "https://sci-bot.ru/research-prompt-k5-associahedron-testing-e44e8f8f"
+  },
   "/tell-me-how-to-solve-a2202b53": {
     "answered_at_utc": "2026-11-28T04:29:35.174Z",
     "first_seen_utc": "2026-11-28T04:31:10Z",
@@ -354,5 +363,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/what-published-evidence-rejects-or-4a57b9ce"
+  },
+  "/who-are-the-annunaki-97f15d37": {
+    "answered_at_utc": "2026-11-28T05:21:03.016Z",
+    "first_seen_utc": "2026-11-28T05:21:24Z",
+    "question": "who are the annunaki",
+    "topics": [
+      "Humanities",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/who-are-the-annunaki-97f15d37"
   }
 }
