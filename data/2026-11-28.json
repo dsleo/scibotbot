@@ -145,6 +145,16 @@
     ],
     "url": "https://sci-bot.ru/check-every-claim-most-important-e611425d"
   },
+  "/compare-these-four-papers-side-01c08b68": {
+    "answered_at_utc": "2026-11-28T07:22:26.555Z",
+    "first_seen_utc": "2026-11-28T07:32:08Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1016/j.jmb.2006.02.047, (2) 10.1016/j.jmb.2021.167123, (3) 10.1007/s10858-011-9551-z, and (4) 10.1016/j.jmb.2006.02.005. For each paper, quote verbatim: (a) every printed Hill, binding, paramagnetic relaxation enhancement",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-01c08b68"
+  },
   "/compare-these-four-papers-side-0cfb46cd": {
     "answered_at_utc": "2026-11-28T04:36:38.384Z",
     "first_seen_utc": "2026-11-28T04:41:14Z",
@@ -238,6 +248,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/description-of-slc30a7-gene-mutation-f6ba55d3"
+  },
+  "/education-reform-and-gender-ideals-93114933": {
+    "answered_at_utc": "2026-11-28T07:24:14.093Z",
+    "first_seen_utc": "2026-11-28T07:32:08Z",
+    "question": "Education, Reform and Gender Ideals in Meiji Japan.",
+    "topics": [
+      "History",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/education-reform-and-gender-ideals-93114933"
   },
   "/emergency-evacuation-and-vulnerable-people-d1323fa8": {
     "answered_at_utc": "2026-11-28T06:27:24.317Z",
