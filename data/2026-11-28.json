@@ -658,6 +658,16 @@
     ],
     "url": "https://sci-bot.ru/llm-web-browsing-harness-7b1809a2"
   },
+  "/look-for-sources-describing-the-11061ccc": {
+    "answered_at_utc": "2026-11-28T11:54:34.731Z",
+    "first_seen_utc": "2026-11-28T12:03:49Z",
+    "question": "Look for sources describing the necessary qualities of concrete for usage in 3D-printing",
+    "topics": [
+      "Chemistry",
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/look-for-sources-describing-the-11061ccc"
+  },
   "/markings-and-rigidification-resolutions-explained-05847cef": {
     "answered_at_utc": "2026-11-28T09:45:50.892Z",
     "first_seen_utc": "2026-11-28T09:53:11Z",
