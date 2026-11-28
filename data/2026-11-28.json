@@ -28,6 +28,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-clinical-dermatology-9ac21b90"
   },
+  "/act-as-a-senior-researcher-77e4e90e": {
+    "answered_at_utc": "2026-11-28T05:00:36.677Z",
+    "first_seen_utc": "2026-11-28T05:01:20Z",
+    "question": "Act as a senior researcher in relational databases, data engineering, and agricultural supply chain management. Find 15–20 peer-reviewed scientific articles written in English to support the research project entitled: **\"Design and Implementation of a Normalized Relational Datab",
+    "topics": [
+      "Computer science",
+      "agriculture"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-senior-researcher-77e4e90e"
+  },
   "/all-predators-of-sparisoma-cretense-30ba30bd": {
     "answered_at_utc": "2026-11-28T01:19:12.817Z",
     "first_seen_utc": "2026-11-28T01:20:06Z",
@@ -187,6 +197,15 @@
     "topics": [],
     "url": "https://sci-bot.ru/find-me-the-paper-by-440bcbf4"
   },
+  "/how-much-does-nandrolone-affect-bc930887": {
+    "answered_at_utc": "2026-11-28T04:54:21.618Z",
+    "first_seen_utc": "2026-11-28T05:01:20Z",
+    "question": "how much does nandrolone affect aromatase expression and prolactin? in cases of combination with testosterone? to what degree",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/how-much-does-nandrolone-affect-bc930887"
+  },
   "/how-to-sample-xylem-sap-60e315ea": {
     "answered_at_utc": "2026-11-28T01:59:58.138Z",
     "first_seen_utc": "2026-11-28T02:00:14Z",
@@ -195,6 +214,15 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/how-to-sample-xylem-sap-60e315ea"
+  },
+  "/i-want-the-proprties-of-cd8380ea": {
+    "answered_at_utc": "2026-11-28T04:57:33.834Z",
+    "first_seen_utc": "2026-11-28T05:01:20Z",
+    "question": "I want the proprties of 5 small inorganic compounds which contain N-Cl bonds and which are stable up to 70 C.",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/i-want-the-proprties-of-cd8380ea"
   },
   "/i-want-to-learn-design-fe72e1e2": {
     "answered_at_utc": "2026-11-28T03:37:58.882Z",
