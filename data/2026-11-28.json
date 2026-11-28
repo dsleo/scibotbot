@@ -1,4 +1,22 @@
 {
+  "/all-predators-of-sparisoma-cretense-30ba30bd": {
+    "answered_at_utc": "2026-11-28T01:19:12.817Z",
+    "first_seen_utc": "2026-11-28T01:20:06Z",
+    "question": "All predators of Sparisoma cretense",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/all-predators-of-sparisoma-cretense-30ba30bd"
+  },
+  "/byte-level-and-patch-based-b336259b": {
+    "answered_at_utc": "2026-11-28T01:12:44.068Z",
+    "first_seen_utc": "2026-11-28T01:20:06Z",
+    "question": "Byte-level and patch-based language models against subword tokenizers on mathematical text and formal proofs (1) Since the Byte Latent Transformer (2024), which papers compare byte-level or patch-based models with subword tokenizers on mathematical text or formal proofs specifica",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/byte-level-and-patch-based-b336259b"
+  },
   "/compare-these-four-papers-side-3cd3a1d2": {
     "answered_at_utc": "2026-11-28T00:45:38.567Z",
     "first_seen_utc": "2026-11-28T00:49:47Z",
