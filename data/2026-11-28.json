@@ -68,6 +68,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-sociology-admissions-376dd238"
   },
+  "/all-predators-of-narcissia-canariensis-b733a97f": {
+    "answered_at_utc": "2026-11-28T08:12:42.873Z",
+    "first_seen_utc": "2026-11-28T08:22:39Z",
+    "question": "All predators of Narcissia canariensis",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/all-predators-of-narcissia-canariensis-b733a97f"
+  },
   "/all-predators-of-sparisoma-cretense-30ba30bd": {
     "answered_at_utc": "2026-11-28T01:19:12.817Z",
     "first_seen_utc": "2026-11-28T01:20:06Z",
@@ -144,6 +154,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/check-every-claim-most-important-e611425d"
+  },
+  "/classification-chihuahua-vs-muffins-c615628d": {
+    "answered_at_utc": "2026-11-28T08:20:30.189Z",
+    "first_seen_utc": "2026-11-28T08:22:39Z",
+    "question": "classification chihuahua vs muffins",
+    "topics": [
+      "Computer science",
+      "Psychology"
+    ],
+    "url": "https://sci-bot.ru/classification-chihuahua-vs-muffins-c615628d"
   },
   "/compare-these-four-papers-side-01c08b68": {
     "answered_at_utc": "2026-11-28T07:22:26.555Z",
