@@ -87,6 +87,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-systematic-review-f9e73408"
   },
+  "/add-the-citation-to-the-ce47c89f": {
+    "answered_at_utc": "2026-11-28T16:48:14.312Z",
+    "first_seen_utc": "2026-11-28T16:55:44Z",
+    "question": "Add the citation to the following sentence: Deciphering the molecular architecture that determines a bacterium's sensitivity to different classes of toxic substances, and leveraging this knowledge to develop a modular bioluminescent chassis for environmental biosensing.",
+    "topics": [
+      "Biomedicine",
+      "Earth science"
+    ],
+    "url": "https://sci-bot.ru/add-the-citation-to-the-ce47c89f"
+  },
   "/all-predators-of-charonia-lampas-0903b097": {
     "answered_at_utc": "2026-11-28T09:41:32.171Z",
     "first_seen_utc": "2026-11-28T09:43:03Z",
@@ -427,6 +437,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/description-of-slc30a7-gene-mutation-f6ba55d3"
+  },
+  "/design-of-a-targeted-nanoplatform-49d694b7": {
+    "answered_at_utc": "2026-11-28T16:45:50.792Z",
+    "first_seen_utc": "2026-11-28T16:55:44Z",
+    "question": "Design of a targeted nanoplatform for the imaging and treatment of solidtumours. (with these topics in mind Target features Challenges (physicochemical properties drug, barriers,…) Nanoparticles –Type, material, surface functionalization Nanoparticles features desirability –targe",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/design-of-a-targeted-nanoplatform-49d694b7"
   },
   "/diet-of-charonia-lampas-a534d5f7": {
     "answered_at_utc": "2026-11-28T10:39:38.901Z",
