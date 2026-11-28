@@ -38,6 +38,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-clinical-dermatology-9ac21b90"
   },
+  "/act-as-a-doctoral-researcher-af3a01d7": {
+    "answered_at_utc": "2026-11-28T13:25:22.757Z",
+    "first_seen_utc": "2026-11-28T13:34:19Z",
+    "question": "Act as a doctoral researcher in relational databases, data engineering, and agricultural supply chain management. Find 15–20 peer-reviewed scientific articles in English for the project: **\"Design and Implementation of a Normalized Relational Database for Coffee Supply Chain Man",
+    "topics": [
+      "Computer science",
+      "agriculture"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-doctoral-researcher-af3a01d7"
+  },
   "/act-as-a-doctoral-researcher-bafae8be": {
     "answered_at_utc": "2026-11-28T05:36:37.134Z",
     "first_seen_utc": "2026-11-28T05:41:34Z",
@@ -344,6 +354,16 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/conduct-a-comprehensive-scientific-literature-f335284b"
+  },
+  "/convert-and-open-in-acrobat-6abb85f3": {
+    "answered_at_utc": "2026-11-28T13:32:30.962Z",
+    "first_seen_utc": "2026-11-28T13:34:19Z",
+    "question": "Convert and open in Acrobat Deep Research Assessment: Academic Promotion, Promotion Criteria, and the Research–Teaching Relationship in Higher Learning Institutions for the Erasmus RSM/ERIM PhD Executive conclusion Yes. Research on academic promotion, promotion criteria, worklo",
+    "topics": [
+      "Humanities",
+      "Education"
+    ],
+    "url": "https://sci-bot.ru/convert-and-open-in-acrobat-6abb85f3"
   },
   "/description-of-slc30a7-gene-mutation-e8a623b4": {
     "answered_at_utc": "2026-11-28T01:04:01.044Z",
