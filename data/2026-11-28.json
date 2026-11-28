@@ -898,6 +898,16 @@
     ],
     "url": "https://sci-bot.ru/tabulate-by-year-all-time-aa92037d"
   },
+  "/tabulate-by-year-and-source-498a2583": {
+    "answered_at_utc": "2026-11-28T14:13:20.828Z",
+    "first_seen_utc": "2026-11-28T14:14:34Z",
+    "question": "tabulate by year and source, time series of prevelance of rickets from 1900 to 1980",
+    "topics": [
+      "Biomedicine",
+      "History"
+    ],
+    "url": "https://sci-bot.ru/tabulate-by-year-and-source-498a2583"
+  },
   "/tell-me-how-to-solve-a2202b53": {
     "answered_at_utc": "2026-11-28T04:29:35.174Z",
     "first_seen_utc": "2026-11-28T04:31:10Z",
