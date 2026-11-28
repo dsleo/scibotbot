@@ -100,6 +100,16 @@
     ],
     "url": "https://sci-bot.ru/how-to-sample-xylem-sap-60e315ea"
   },
+  "/in-the-two-phase-classical-9aea5d44": {
+    "answered_at_utc": "2026-11-28T02:36:26.212Z",
+    "first_seen_utc": "2026-11-28T02:40:25Z",
+    "question": "In the two-phase classical stefan problem, is it possible to remove the singularity at x=s(t) using a fractional order spatial derivative in the stefan condition? consider all fractional-order derivatives, not just caputo",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/in-the-two-phase-classical-9aea5d44"
+  },
   "/is-duloxetine-effective-for-ocd-d0b824e9": {
     "answered_at_utc": "2026-11-28T00:24:03.405Z",
     "first_seen_utc": "2026-11-28T00:29:42Z",
