@@ -95,6 +95,16 @@
     ],
     "url": "https://sci-bot.ru/check-every-claim-most-important-e611425d"
   },
+  "/compare-these-four-papers-side-0cfb46cd": {
+    "answered_at_utc": "2026-11-28T04:36:38.384Z",
+    "first_seen_utc": "2026-11-28T04:41:14Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1016/j.jmr.2015.01.001, (2) 10.1016/j.jmr.2016.09.021, (3) 10.1016/j.jmr.2006.11.008, and (4) 10.1021/ja046093s. For each paper, quote verbatim: (a) all key quantitative parameters in Methods vs. Tables/Figures (e.g., tota",
+    "topics": [
+      "Chemistry",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-0cfb46cd"
+  },
   "/compare-these-four-papers-side-3cd3a1d2": {
     "answered_at_utc": "2026-11-28T00:45:38.567Z",
     "first_seen_utc": "2026-11-28T00:49:47Z",
