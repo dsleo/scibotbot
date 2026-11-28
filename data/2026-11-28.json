@@ -105,6 +105,16 @@
     ],
     "url": "https://sci-bot.ru/compare-these-four-papers-side-3cd3a1d2"
   },
+  "/compare-these-four-papers-side-9b4a6b82": {
+    "answered_at_utc": "2026-11-28T04:02:48.474Z",
+    "first_seen_utc": "2026-11-28T04:10:57Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1016/j.bbamem.2011.07.040, (2) 10.1021/bi200759y, (3) 10.1021/acs.jpcb.7b03268, and (4) 10.1074/jbc.M704056200. For each paper, quote verbatim: (a) the exact PLN species/construct (human Lys27 vs. rabbit Asn27; wild-type v",
+    "topics": [
+      "Biomedicine",
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-9b4a6b82"
+  },
   "/compare-these-four-papers-side-ebbbcf47": {
     "answered_at_utc": "2026-11-28T03:23:34.236Z",
     "first_seen_utc": "2026-11-28T03:28:50Z",
@@ -206,6 +216,15 @@
     ],
     "url": "https://sci-bot.ru/is-duloxetine-effective-for-ocd-d0b824e9"
   },
+  "/kamikaze-905820e2": {
+    "answered_at_utc": "2026-11-28T04:07:52.668Z",
+    "first_seen_utc": "2026-11-28T04:10:57Z",
+    "question": "kamikaze",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/kamikaze-905820e2"
+  },
   "/llm-web-browsing-harness-7b1809a2": {
     "answered_at_utc": "2026-11-28T01:09:16.364Z",
     "first_seen_utc": "2026-11-28T01:09:55Z",
@@ -252,5 +271,14 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/what-is-the-current-evidence-b43fa2b9"
+  },
+  "/what-published-evidence-rejects-or-4a57b9ce": {
+    "answered_at_utc": "2026-11-28T04:04:05.308Z",
+    "first_seen_utc": "2026-11-28T04:10:57Z",
+    "question": "What published evidence rejects or fails to replicate the profitability of [전략] after transaction costs? Include negative results from statistical tests (White reality check, SPA)",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/what-published-evidence-rejects-or-4a57b9ce"
   }
 }
