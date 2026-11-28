@@ -47,6 +47,16 @@
     ],
     "url": "https://sci-bot.ru/architecture-for-astronauts-be48e555"
   },
+  "/are-there-any-papers-in-2e7c1e6a": {
+    "answered_at_utc": "2026-11-28T03:35:37.710Z",
+    "first_seen_utc": "2026-11-28T03:40:48Z",
+    "question": "are there any papers in the literature in which someone numerically solves the two-phase classical stefan problem using the enthalpy formulation and lighthill's generalised functions?",
+    "topics": [
+      "Mathematics",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/are-there-any-papers-in-2e7c1e6a"
+  },
   "/broadband-optical-spectrum-analyzer-on-19ebd0ad": {
     "answered_at_utc": "2026-11-28T02:17:57.869Z",
     "first_seen_utc": "2026-11-28T02:20:22Z",
@@ -146,6 +156,16 @@
       "Biomedicine"
     ],
     "url": "https://sci-bot.ru/how-to-sample-xylem-sap-60e315ea"
+  },
+  "/i-want-to-learn-design-fe72e1e2": {
+    "answered_at_utc": "2026-11-28T03:37:58.882Z",
+    "first_seen_utc": "2026-11-28T03:40:48Z",
+    "question": "I want to learn design a chip and Where to start in designing a scalable on-chip 1200-1700nm OSA on SOI platform, please find research on that, what is the current gap, what to start, what is recommendation, where is the field or jobs I stil can work on please find for me a accou",
+    "topics": [
+      "Computer science",
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/i-want-to-learn-design-fe72e1e2"
   },
   "/in-the-two-phase-classical-9aea5d44": {
     "answered_at_utc": "2026-11-28T02:36:26.212Z",
