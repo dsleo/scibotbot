@@ -28,6 +28,16 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-clinical-dermatology-9ac21b90"
   },
+  "/act-as-a-doctoral-researcher-bafae8be": {
+    "answered_at_utc": "2026-11-28T05:36:37.134Z",
+    "first_seen_utc": "2026-11-28T05:41:34Z",
+    "question": "Act as a doctoral researcher in relational databases, data engineering, and agricultural supply chain management. Find 15–20 peer-reviewed scientific articles in English for the project: **\"Design and Implementation of a Normalized Relational Database for Coffee Supply Chain Man",
+    "topics": [
+      "Computer science",
+      "agriculture"
+    ],
+    "url": "https://sci-bot.ru/act-as-a-doctoral-researcher-bafae8be"
+  },
   "/act-as-a-senior-researcher-77e4e90e": {
     "answered_at_utc": "2026-11-28T05:00:36.677Z",
     "first_seen_utc": "2026-11-28T05:01:20Z",
