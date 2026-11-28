@@ -253,6 +253,15 @@
     ],
     "url": "https://sci-bot.ru/proof-speed-up-between-formal-919fd4df"
   },
+  "/tell-me-how-to-solve-a2202b53": {
+    "answered_at_utc": "2026-11-28T04:29:35.174Z",
+    "first_seen_utc": "2026-11-28T04:31:10Z",
+    "question": "tell me how to solve the stefan problem on a 2d grid using voller's finite difference method and other comparable methods in the literature. how do voller et al. verify that their answer is correct after the calculation is done?",
+    "topics": [
+      "Physics"
+    ],
+    "url": "https://sci-bot.ru/tell-me-how-to-solve-a2202b53"
+  },
   "/what-is-perinatal-programming-what-70f5e03b": {
     "answered_at_utc": "2026-11-28T03:40:57.162Z",
     "first_seen_utc": "2026-11-28T03:50:55Z",
