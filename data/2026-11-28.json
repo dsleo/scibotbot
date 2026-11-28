@@ -696,6 +696,15 @@
     ],
     "url": "https://sci-bot.ru/in-the-two-phase-classical-9aea5d44"
   },
+  "/is-aneuploidy-driving-genome-instability-9c18a319": {
+    "answered_at_utc": "2026-11-28T15:49:05.907Z",
+    "first_seen_utc": "2026-11-28T15:55:18Z",
+    "question": "is aneuploidy driving genome instability?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/is-aneuploidy-driving-genome-instability-9c18a319"
+  },
   "/is-duloxetine-effective-for-ocd-d0b824e9": {
     "answered_at_utc": "2026-11-28T00:24:03.405Z",
     "first_seen_utc": "2026-11-28T00:29:42Z",
@@ -1057,6 +1066,15 @@
       "Economics"
     ],
     "url": "https://sci-bot.ru/what-published-evidence-rejects-or-4a57b9ce"
+  },
+  "/whats-the-current-llm-model-fe8b5325": {
+    "answered_at_utc": "2026-11-28T15:50:58.533Z",
+    "first_seen_utc": "2026-11-28T15:55:18Z",
+    "question": "What's the current LLM model you could be compared with and up to what year you have access to articles.",
+    "topics": [
+      "Computer science"
+    ],
+    "url": "https://sci-bot.ru/whats-the-current-llm-model-fe8b5325"
   },
   "/who-are-the-annunaki-97f15d37": {
     "answered_at_utc": "2026-11-28T05:21:03.016Z",
