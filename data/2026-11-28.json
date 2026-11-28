@@ -37,6 +37,16 @@
     ],
     "url": "https://sci-bot.ru/all-predators-of-sparisoma-cretense-30ba30bd"
   },
+  "/architecture-for-astronauts-be48e555": {
+    "answered_at_utc": "2026-11-28T03:25:26.007Z",
+    "first_seen_utc": "2026-11-28T03:28:50Z",
+    "question": "architecture for astronauts",
+    "topics": [
+      "Physics",
+      "Humanities"
+    ],
+    "url": "https://sci-bot.ru/architecture-for-astronauts-be48e555"
+  },
   "/broadband-optical-spectrum-analyzer-on-19ebd0ad": {
     "answered_at_utc": "2026-11-28T02:17:57.869Z",
     "first_seen_utc": "2026-11-28T02:20:22Z",
@@ -74,6 +84,15 @@
       "Chemistry"
     ],
     "url": "https://sci-bot.ru/compare-these-four-papers-side-3cd3a1d2"
+  },
+  "/compare-these-four-papers-side-ebbbcf47": {
+    "answered_at_utc": "2026-11-28T03:23:34.236Z",
+    "first_seen_utc": "2026-11-28T03:28:50Z",
+    "question": "Compare these four papers side by side in a table: (1) 10.1021/ja0354824, (2) 10.1002/bip.10305, (3) 10.1021/bi026995a, and (4) 10.1002/bip.10149. For each paper, quote verbatim: (a) the exact number of experimental NMR restraints by type (NOEs, dihedral angles, H-bonds, metal–su",
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "https://sci-bot.ru/compare-these-four-papers-side-ebbbcf47"
   },
   "/complete-systematic-comprehensive-overview-of-de0b4b58": {
     "answered_at_utc": "2026-11-28T02:45:13.080Z",
