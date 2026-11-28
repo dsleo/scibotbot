@@ -429,6 +429,16 @@
     ],
     "url": "https://sci-bot.ru/examine-the-application-process-of-848e780a"
   },
+  "/fetch-me-the-lastest-investigations-587572e8": {
+    "answered_at_utc": "2026-11-28T11:45:41.530Z",
+    "first_seen_utc": "2026-11-28T11:53:47Z",
+    "question": "Fetch me the lastest investigations about indirect prompt attacks techniques.",
+    "topics": [
+      "Computer science",
+      "security"
+    ],
+    "url": "https://sci-bot.ru/fetch-me-the-lastest-investigations-587572e8"
+  },
   "/find-concise-answers-to-the-52fb0aa8": {
     "answered_at_utc": "2026-11-28T11:43:38.994Z",
     "first_seen_utc": "2026-11-28T11:43:48Z",
