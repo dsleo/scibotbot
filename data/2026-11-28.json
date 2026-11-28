@@ -68,6 +68,15 @@
     ],
     "url": "https://sci-bot.ru/act-as-a-sociology-admissions-376dd238"
   },
+  "/all-predators-of-charonia-lampas-0903b097": {
+    "answered_at_utc": "2026-11-28T09:41:32.171Z",
+    "first_seen_utc": "2026-11-28T09:43:03Z",
+    "question": "All predators of Charonia lampas and Charonia variegata",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/all-predators-of-charonia-lampas-0903b097"
+  },
   "/all-predators-of-charonia-lampas-be20bb98": {
     "answered_at_utc": "2026-11-28T08:40:55.616Z",
     "first_seen_utc": "2026-11-28T08:42:46Z",
@@ -155,6 +164,15 @@
       "Computer science"
     ],
     "url": "https://sci-bot.ru/byte-level-and-patch-based-b336259b"
+  },
+  "/can-you-give-an-overview-2220955c": {
+    "answered_at_utc": "2026-11-28T09:33:09.525Z",
+    "first_seen_utc": "2026-11-28T09:43:03Z",
+    "question": "Can you give an overview of different unprotected sexual practices and their associated STI risk? Please include a diverse range of practices and associated risks in this overview, e.g. list the risk of getting an STI when giving oral sex to a person with a vulva, and also the r",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/can-you-give-an-overview-2220955c"
   },
   "/check-every-claim-most-important-e611425d": {
     "answered_at_utc": "2026-11-28T01:36:04.816Z",
