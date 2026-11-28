@@ -965,6 +965,15 @@
     ],
     "url": "https://sci-bot.ru/wave-based-bullet-propallent-nutralizing-10ed5404"
   },
+  "/what-are-interactions-between-ozempic-0044472d": {
+    "answered_at_utc": "2026-11-28T14:49:25.782Z",
+    "first_seen_utc": "2026-11-28T14:54:53Z",
+    "question": "What are interactions between Ozempic and Bioprazol?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/what-are-interactions-between-ozempic-0044472d"
+  },
   "/what-does-recent-research-from-656ced8c": {
     "answered_at_utc": "2026-11-28T09:23:38.547Z",
     "first_seen_utc": "2026-11-28T09:33:01Z",
@@ -1031,5 +1040,14 @@
       "History"
     ],
     "url": "https://sci-bot.ru/who-are-the-annunaki-97f15d37"
+  },
+  "/why-some-people-are-gluten-7f4a1f4f": {
+    "answered_at_utc": "2026-11-28T14:51:35.551Z",
+    "first_seen_utc": "2026-11-28T14:54:53Z",
+    "question": "why some people are gluten allergic and some not",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/why-some-people-are-gluten-7f4a1f4f"
   }
 }
