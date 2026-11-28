@@ -436,6 +436,15 @@
     ],
     "url": "https://sci-bot.ru/give-me-the-definition-for-6703eccb"
   },
+  "/give-me-the-definitions-of-ba851beb": {
+    "answered_at_utc": "2026-11-28T11:09:45.402Z",
+    "first_seen_utc": "2026-11-28T11:13:34Z",
+    "question": "Give me the definitions of the book leverage and market leverage in capital structure, explains the differences and how they are used.",
+    "topics": [
+      "Economics"
+    ],
+    "url": "https://sci-bot.ru/give-me-the-definitions-of-ba851beb"
+  },
   "/hand-osteoarthrytis-nav17-nav18-nav19-f1ab96ac": {
     "answered_at_utc": "2026-11-28T07:05:04.836Z",
     "first_seen_utc": "2026-11-28T07:12:02Z",
@@ -575,6 +584,15 @@
       "Psychology"
     ],
     "url": "https://sci-bot.ru/is-duloxetine-effective-for-ocd-d0b824e9"
+  },
+  "/is-flatfoot-curable-d5bade42": {
+    "answered_at_utc": "2026-11-28T11:05:49.686Z",
+    "first_seen_utc": "2026-11-28T11:13:34Z",
+    "question": "is flatfoot curable?",
+    "topics": [
+      "Biomedicine"
+    ],
+    "url": "https://sci-bot.ru/is-flatfoot-curable-d5bade42"
   },
   "/kamikaze-905820e2": {
     "answered_at_utc": "2026-11-28T04:07:52.668Z",
